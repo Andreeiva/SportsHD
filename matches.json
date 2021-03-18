@@ -2,35 +2,13 @@
 { 
   "hits": [
   
-     {
-    "user":"Arsenal vs Olympiakos (Link 1)",
-    "pageUrl" : "http://77.247.109.116/hls/liveovo1.m3u8",
-    "type" : "EUROPA LEAGUE",
-   "webFormatUrl" :  "https://forzaitalianfootball.com/wp-content/uploads/2020/10/europa-league.jpg"
-  },
-     {
-    "user":"Arsenal vs Olympiakos (Link 2)",
-    "pageUrl" : "https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8",
-    "type" : "EUROPA LEAGUE",
-   "webFormatUrl" :  "https://forzaitalianfootball.com/wp-content/uploads/2020/10/europa-league.jpg"
-  }, {
+      {
     "user":"Dinamo Zagreb vs Tottenham Hotspur",
     "pageUrl" : "https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8",
     "type" : "EUROPA LEAGUE",
     "webFormatUrl" : "https://forzaitalianfootball.com/wp-content/uploads/2020/10/europa-league.jpg"
   },
-{
-    "user":"Molde vs Granada",
-    "pageUrl" : "https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8",
-    "type" : "EUROPA LEAGUE",
-   "webFormatUrl" : "https://forzaitalianfootball.com/wp-content/uploads/2020/10/europa-league.jpg"
-  },
-     {
-    "user":"	Shakhtar Donetsk vs Roma",
-    "pageUrl" : "https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8",
-    "type" : "EUROPA LEAGUE",
-   "webFormatUrl" :  "https://forzaitalianfootball.com/wp-content/uploads/2020/10/europa-league.jpg"
-  },
+
 {
     "user":"Young Boys vs Ajax",
     "pageUrl" : "https://chostv.mobie.in/choos/sports/matchqy2.m3u8",
