@@ -1,1 +1,61 @@
 
+{ 
+  "hits": [
+  {
+    "user":"Molde vs Granada",
+    "pageUrl" : "",
+    "type" : "EUROPA LEAGUE",
+    "https://forzaitalianfootball.com/wp-content/uploads/2020/10/europa-league.jpg"
+  },
+     {
+    "user":"	Shakhtar Donetsk vs Roma",
+    "pageUrl" : "",
+    "type" : "EUROPA LEAGUE",
+    "https://forzaitalianfootball.com/wp-content/uploads/2020/10/europa-league.jpg"
+  },
+     {
+    "user":"Arsenal vs Olympiakos (Link 1)",
+    "pageUrl" : "",
+    "type" : "EUROPA LEAGUE",
+    "https://forzaitalianfootball.com/wp-content/uploads/2020/10/europa-league.jpg"
+  },
+     {
+    "user":"Arsenal vs Olympiakos (Link 2)",
+    "pageUrl" : "",
+    "type" : "EUROPA LEAGUE",
+    "https://forzaitalianfootball.com/wp-content/uploads/2020/10/europa-league.jpg"
+  }, {
+    "user":"Dinamo Zagreb vs Tottenham Hotspur",
+    "pageUrl" : "",
+    "type" : "EUROPA LEAGUE",
+    "https://forzaitalianfootball.com/wp-content/uploads/2020/10/europa-league.jpg"
+  }, {
+    "user":"Young Boys vs Ajax",
+    "pageUrl" : "",
+    "type" : "EUROPA LEAGUE",
+    "https://forzaitalianfootball.com/wp-content/uploads/2020/10/europa-league.jpg"
+  }, {
+    "user":"Rangers vs Slavia Praha",
+    "pageUrl" : "",
+    "type" : "EUROPA LEAGUE",
+    "https://forzaitalianfootball.com/wp-content/uploads/2020/10/europa-league.jpg"
+  }, {
+    "user":"Villarreal vs Dynamo Kyiv",
+    "pageUrl" : "",
+    "type" : "EUROPA LEAGUE",
+    "https://forzaitalianfootball.com/wp-content/uploads/2020/10/europa-league.jpg"
+  },
+     {
+    "user":"Milan vs Manchester United(Link 1)",
+    "pageUrl" : "",
+    "type" : "EUROPA LEAGUE",
+    "https://forzaitalianfootball.com/wp-content/uploads/2020/10/europa-league.jpg"
+  }, {
+    "user":"Milan vs Manchester United(Link 2)",
+    "pageUrl" : "",
+    "type" : "EUROPA LEAGUE",
+    "https://forzaitalianfootball.com/wp-content/uploads/2020/10/europa-league.jpg"
+  }
+    
+    ]
+}
