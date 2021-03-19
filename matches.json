@@ -3,15 +3,22 @@
   "hits": [
   
       {
-    "user":"FULHAM VS LEEDS UNITED",
-    "pageUrl" : "",
+    "user":"FULHAM VS LEEDS UNITED (SD)",
+    "pageUrl" : "https://www.livedoomovies.com/02_PremierHD2_480p/chunklist.m3u8",
+    "type" : "PREMIER LEAGUE",
+    "webFormatUrl" : "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+  },
+
+{
+    "user":"FULHAM VS LEEDS UNITED  (HD)",
+    "pageUrl" : "https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8",
     "type" : "PREMIER LEAGUE",
     "webFormatUrl" : "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
   },
 
     {
     "user":"REAL BETIS VS LEVANTE",
-    "pageUrl" : "",
+    "pageUrl" : "https://chostv.mobie.in/choos/sports/matchqy1.m3u8",
     "type" : "SPANISH LA LIGA",
     "webFormatUrl" : "https://iscreativestudio.com/wp-content/uploads/2016/08/logotipos4.jpg"
   },
@@ -25,13 +32,13 @@
 
 {
     "user":"ARMINIA BIELEFELD VS RB LEIPZIG",
-    "pageUrl" : "",
+    "pageUrl" : "http://185.132.177.110:8080/COSMOTESport3HD/video.m3u8",
     "type" : "BUNDESLIGA",
     "webFormatUrl" : "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
   },
 {
     "user":"SAINT-ETIENNE VS MONACO",
-    "pageUrl" : "",
+    "pageUrl" : "http://ott-cdn.ucom.am/s81/04.m3u8",
     "type" : "FRENCH LIGUE 1",
     "webFormatUrl" : "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
   }
