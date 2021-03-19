@@ -3,11 +3,37 @@
   "hits": [
   
       {
-    "user":"Dinamo Zagreb vs Tottenham Hotspur",
+    "user":"FULHAM VS LEEDS UNITED",
     "pageUrl" : "",
-    "type" : "EUROPA LEAGUE",
-    "webFormatUrl" : "https://forzaitalianfootball.com/wp-content/uploads/2020/10/europa-league.jpg"
+    "type" : "PREMIER LEAGUE",
+    "webFormatUrl" : "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+  },
+
+    {
+    "user":"REAL BETIS VS LEVANTE",
+    "pageUrl" : "",
+    "type" : "SPANISH LA LIGA",
+    "webFormatUrl" : "https://iscreativestudio.com/wp-content/uploads/2016/08/logotipos4.jpg"
+  },
+
+{
+    "user":"PARMA VS GENOA",
+    "pageUrl" : "",
+    "type" : "SERIE A",
+    "webFormatUrl" : "http://www.legaseriea.it/assets/legaseriea/images/logo.png"
+  },
+
+{
+    "user":"ARMINIA BIELEFELD VS RB LEIPZIG",
+    "pageUrl" : "",
+    "type" : "BUNDESLIGA",
+    "webFormatUrl" : "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
+  },
+{
+    "user":"SAINT-ETIENNE VS MONACO",
+    "pageUrl" : "",
+    "type" : "FRENCH LIGUE 1",
+    "webFormatUrl" : "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
   }
-    
     ]
 }
