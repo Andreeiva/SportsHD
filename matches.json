@@ -2,31 +2,7 @@
 { 
   "hits": [
 
-      
-
-
-   
-{
-      "user":"BAYERN MÜNCHEN VS STUTTGART",
-    "pageUrl" : "http://185.132.177.110:8080/COSMOTESport3HD/video.m3u8",
-    "type" : "BUNDESLIGA",
-    "webFormatUrl" : "https://i.pinimg.com/originals/33/fa/e3/33fae357c48ffd325d57e4a7a6de2e4e.png"
-  },
-      
-{
-    "user":"KOLN VS DORTMUND",
-    "pageUrl" : "http://185.132.177.110:8080/COSMOTESport5HD/video.m3u8",
-    "type" : "BUNDESLIGA",
-    "webFormatUrl" : "https://i.pinimg.com/originals/33/fa/e3/33fae357c48ffd325d57e4a7a6de2e4e.png"
-  },
-
-      
-{
-    "user":"WERDER BREMEN VS WOLFSBURG",
-    "pageUrl" : "http://185.132.177.110:8080/COSMOTESport9HD/video.m3u8",
-    "type" : "BUNDESLIGA",
-    "webFormatUrl" : "https://i.pinimg.com/originals/33/fa/e3/33fae357c48ffd325d57e4a7a6de2e4e.png"
-  },
+     
 
       
       
@@ -56,7 +32,7 @@
   },
 {
     "user":"EVERTON VS MANCHESTER CITY",
-    "pageUrl" : "",
+    "pageUrl" : "http://198.16.106.58:8278/streams/d/Assp2/playlist.m3u8#EXTINF:-1",
     "type" : "ENGLISH FA CUP",
     "webFormatUrl" : "https://www.pngfind.com/pngs/m/245-2453060_fa-cup-logo-png-emirates-fa-cup-logo.png"
   },
@@ -70,7 +46,7 @@
 
 {
     "user":"SCHALKE VS BORRUSIA MUNCHENGLADBACH",
-    "pageUrl" : "",
+    "pageUrl" : "http://185.132.177.110:8080/COSMOTESport3HD/video.m3u8",
     "type" : "BUNDESLIGA",
     "webFormatUrl" : "https://i.pinimg.com/originals/33/fa/e3/33fae357c48ffd325d57e4a7a6de2e4e.png"
   },
