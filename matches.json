@@ -4,10 +4,113 @@
   
       
 {
-    "user":"SAINT-ETIENNE VS MONACO",
+    "user":"BOURNEMOUTH VS SOUTHAMPTON",
     "pageUrl" : "",
-    "type" : "FRENCH LIGUE 1",
+    "type" : "ENGLISH FA CUP",
+    "webFormatUrl" : "https://www.pngfind.com/pngs/m/245-2453060_fa-cup-logo-png-emirates-fa-cup-logo.png"
+  },
+
+      
+{
+    "user":"ATHLETIC CLUB VS BILBAO",
+    "pageUrl" : "",
+    "type" : "LA LIGA",
+    "webFormatUrl" : "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/9.png"
+  },
+
+      
+{
+   "user":"CROTONE VS BOLOGNA",
+    "pageUrl" : "",
+    "type" : "SERIE A",
+    "webFormatUrl" : "https://forzaitalianfootball.com/wp-content/uploads/2020/03/serie-a.png"
+  },
+
+
+    ]      
+{
+      "user":"BAYERN MÜNCHEN VS STUTTGART",
+    "pageUrl" : "",
+    "type" : "BUNDESLIGA",
+    "webFormatUrl" : "https://i.pinimg.com/originals/33/fa/e3/33fae357c48ffd325d57e4a7a6de2e4e.png"
+  },
+
+      
+{
+    "user":"EINTRACHT FRANKFURT VS UNION BERLIN",
+    "pageUrl" : "",
+    "type" : "BUNDESLIGA",
+    "webFormatUrl" : "https://i.pinimg.com/originals/33/fa/e3/33fae357c48ffd325d57e4a7a6de2e4e.png"
+  },
+      
+{
+    "user":"KOLN VS DORTMUND",
+    "pageUrl" : "",
+    "type" : "BUNDESLIGA",
+    "webFormatUrl" : "https://i.pinimg.com/originals/33/fa/e3/33fae357c48ffd325d57e4a7a6de2e4e.png"
+  },
+
+      
+{
+    "user":"WERDER BREMEN VS WOLFSBURG",
+    "pageUrl" : "",
+    "type" : "BUNDESLIGA",
+    "webFormatUrl" : "https://i.pinimg.com/originals/33/fa/e3/33fae357c48ffd325d57e4a7a6de2e4e.png"
+  },
+
+      
+
+
+      
+{
+    "user":"CELTA VIGO VS REAL MADRID",
+    "pageUrl" : "",
+    "type" : "LA LIGA",
+    "webFormatUrl" : "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/9.png"
+  },
+
+      
+{
+    "user":"SPEZIA VS CAGLIARI",
+    "pageUrl" : "",
+    "type" : "SERIE A",
+    "webFormatUrl" : "https://forzaitalianfootball.com/wp-content/uploads/2020/03/serie-a.png"
+  },
+{
+    "user":"EVERTON VS MANCHESTERCITY",
+    "pageUrl" : "",
+    "type" : "ENGLISH FA CUP",
+    "webFormatUrl" : "https://www.pngfind.com/pngs/m/245-2453060_fa-cup-logo-png-emirates-fa-cup-logo.png"
+  },
+      
+{
+    "user":"HUESCA VS OSASUNA",
+    "pageUrl" : "",
+    "type" : "LA LIGA",
+    "webFormatUrl" : "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/9.png"
+  },
+
+{
+    "user":"SCHALKE VS BORRUSIA MUNCHENGLADBACH",
+    "pageUrl" : "",
+    "type" : "BUNDESLIGA",
+    "webFormatUrl" : "https://i.pinimg.com/originals/33/fa/e3/33fae357c48ffd325d57e4a7a6de2e4e.png"
+  },
+      
+{
+    "user":"BRIGHTON VA NEWCASTLE",
+    "pageUrl" : "",
+    "type" : "PREMIER LEAGUE",
+    "webFormatUrl" : "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+  },
+
+      
+{
+    "user":"REAL VALLADOILD VS SEVILLA",
+    "pageUrl" : "",
+    "type" : "LA LIGA",
     "webFormatUrl" : "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/9.png"
   }
-    ]
+]
+
 }
