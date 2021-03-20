@@ -3,13 +3,6 @@
   "hits": [
   
       
-{
-    "user":"BOURNEMOUTH VS SOUTHAMPTON",
-    "pageUrl" : "http://hitectv.live/hls/stream39.m3u8",
-    "type" : "ENGLISH FA CUP",
-    "webFormatUrl" : "https://www.pngfind.com/pngs/m/245-2453060_fa-cup-logo-png-emirates-fa-cup-logo.png"
-  },
-
       
 {
     "user":"ATHLETIC CLUB VS BILBAO",
@@ -37,22 +30,14 @@
    
 {
       "user":"BAYERN MÜNCHEN VS STUTTGART",
-    "pageUrl" : "",
-    "type" : "BUNDESLIGA",
-    "webFormatUrl" : "https://i.pinimg.com/originals/33/fa/e3/33fae357c48ffd325d57e4a7a6de2e4e.png"
-  },
-
-      
-{
-    "user":"EINTRACHT FRANKFURT VS UNION BERLIN",
-    "pageUrl" : "",
+    "pageUrl" : "http://185.132.177.110:8080/COSMOTESport3HD/video.m3u8",
     "type" : "BUNDESLIGA",
     "webFormatUrl" : "https://i.pinimg.com/originals/33/fa/e3/33fae357c48ffd325d57e4a7a6de2e4e.png"
   },
       
 {
     "user":"KOLN VS DORTMUND",
-    "pageUrl" : "",
+    "pageUrl" : "http://185.132.177.110:8080/COSMOTESport6HD/video.m3u8",
     "type" : "BUNDESLIGA",
     "webFormatUrl" : "https://i.pinimg.com/originals/33/fa/e3/33fae357c48ffd325d57e4a7a6de2e4e.png"
   },
@@ -60,7 +45,7 @@
       
 {
     "user":"WERDER BREMEN VS WOLFSBURG",
-    "pageUrl" : "",
+    "pageUrl" : "http://185.132.177.110:8080/COSMOTESport9HD/video.m3u8",
     "type" : "BUNDESLIGA",
     "webFormatUrl" : "https://i.pinimg.com/originals/33/fa/e3/33fae357c48ffd325d57e4a7a6de2e4e.png"
   },
