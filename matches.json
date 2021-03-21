@@ -6,43 +6,7 @@
     
    
 
-{
-    "user":"Leicester City vs Manchester United  HD1",
-     "pageUrl" : "http://77.247.109.116/hls/liveovo1.m3u8",
-    "type" : "EMIRATES FA CUP",
-    "webFormatUrl" : "https://www.pngfind.com/pngs/m/245-2453060_fa-cup-logo-png-emirates-fa-cup-logo.png"
-  },
-    {
-    "user":"Leicester City vs Manchester United  HD2",
-     "pageUrl" : "http://198.16.106.58:8278/streams/d/Assp4/playlist.m3u8",
-    "type" : "EMIRATES FA CUP",
-    "webFormatUrl" : "https://www.pngfind.com/pngs/m/245-2453060_fa-cup-logo-png-emirates-fa-cup-logo.png"
-  },
-    {
-    "user":"Fiorentina vs Milan",
-    "pageUrl" : "https://www.livedoomovie.com/02_SPORTTV_3_720p/chunklist.m3u8",
-    "type" : "ITALIAN SERIE A",
-    "webFormatUrl" : "https://forzaitalianfootball.com/wp-content/uploads/2020/03/serie-a.png"
-  },
-    {
-    "user":"Freiburg vs Augsburg",
-    "pageUrl" : "http://198.16.106.58:8278/streams/d/Assp2/playlist.m3u8",
-    "type" : "BUNDESLIGA",
-    "webFormatUrl" : "https://i.pinimg.com/originals/33/fa/e3/33fae357c48ffd325d57e4a7a6de2e4e.png"
-  },
-    {
-    "user":"Atlético Madrid vs Deportivo Alavés  HD1",
-    "pageUrl" : "https://chostv.mobie.in/choos/sports/matchqy1.m3u8",
-    "type" : "SPANISH LA LIGA",
-    "webFormatUrl" : "https://iscreativestudio.com/wp-content/uploads/2016/08/logotipos4.jpg"
-  },
 
-{
-    "user":"Atlético Madrid vs Deportivo Alavés  HD2",
-    "pageUrl" : "http://185.132.177.110:8080/COSMOTESport2HD/video.m3u8",
-    "type" : "SPANISH LA LIGA",
-    "webFormatUrl" : "https://iscreativestudio.com/wp-content/uploads/2016/08/logotipos4.jpg"
-  },
 
 {
     "user":"Aston Villa vs Tottenham Hotspur SD",
@@ -67,7 +31,7 @@
     "webFormatUrl" : "https://iscreativestudio.com/wp-content/uploads/2016/08/logotipos4.jpg"
   },{
     "user":"Real Sociedad vs Barcelona  SD",
-     "pageUrl" : "https://chostv.mobie.in/choos/sports/matchqy1.m3u8",
+     "pageUrl" : "http://185.132.177.110:8080/COSMOTESport2HD/video.m3u8",
     "type" : "SPANISH LA LIGA",
     "webFormatUrl" : "https://iscreativestudio.com/wp-content/uploads/2016/08/logotipos4.jpg"
   },
