@@ -1,14 +1,6 @@
 
 { 
   "hits": [
-
-    
-    {
-    "user":"Hoffenheim vs Mainz 05",
-    "pageUrl" : "http://198.16.106.58:8278/streams/d/Assp1/playlist.m3u8",
-    "type" : "BUNDESLIGA",
-    "webFormatUrl" : "https://i.pinimg.com/originals/33/fa/e3/33fae357c48ffd325d57e4a7a6de2e4e.png"
-  },
     {
     "user":"Getafe vs Elche SD",
     "pageUrl" : "http://cdn.addressingethernet.xyz/hls/103.m3u8",
@@ -56,13 +48,13 @@
     "webFormatUrl" : "https://i.pinimg.com/originals/33/fa/e3/33fae357c48ffd325d57e4a7a6de2e4e.png"
   },{
     "user":"West Ham United vs Arsenal SD",
-    "pageUrl" : "https://drevanet.com/wp-content/uploads/2021/03/hd1063.mp4",
+    "pageUrl" : "https://www.livedoomovies.com/02_PremierHD2_480p/chunklist.m3u8",
     "type" : "ENGLISH PREMIER LEAGUE",
     "webFormatUrl" : "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
   },
     {
     "user":"West Ham United vs Arsenal HD",
-    "pageUrl" : "https://drevanet.com/wp-content/uploads/2021/03/hd1063.mp4",
+    "pageUrl" : "https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8",
     "type" : "ENGLISH PREMIER LEAGUE",
     "webFormatUrl" : "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
   },{
