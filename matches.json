@@ -24,8 +24,15 @@
     "webFormatUrl" : "https://i.pinimg.com/originals/33/fa/e3/33fae357c48ffd325d57e4a7a6de2e4e.png"
   },
     {
-    "user":"Getafe vs Elche",
-    "pageUrl" : "https://drevanet.com/wp-content/uploads/2021/03/hd1063.mp4",
+    "user":"Getafe vs Elche SD",
+    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/103.m3u8",
+    "type" : "SPANISH LA LIGA",
+    "webFormatUrl" : "https://iscreativestudio.com/wp-content/uploads/2016/08/logotipos4.jpg"
+  },
+
+{
+    "user":"Getafe vs Elche HD",
+    "pageUrl" : "https://chostv.mobie.in/choos/sports/matchqy1.m3u8",
     "type" : "SPANISH LA LIGA",
     "webFormatUrl" : "https://iscreativestudio.com/wp-content/uploads/2016/08/logotipos4.jpg"
   },
