@@ -2,21 +2,7 @@
 { 
   "hits": [
 
-     
-
-      
-      
-
-
-
-      
-
-{
-    "user":"Hellas Verona vs Atalanta",
-    "pageUrl" : "https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8",
-    "type" : "ITALIAN SERIE A",
-    "webFormatUrl" : "https://forzaitalianfootball.com/wp-content/uploads/2020/03/serie-a.png"
-  },
+    
     {
     "user":"Hoffenheim vs Mainz 05",
     "pageUrl" : "http://198.16.106.58:8278/streams/d/Assp1/playlist.m3u8",
@@ -44,17 +30,17 @@
   },
     {
     "user":"Udinese vs Lazio",
-    "pageUrl" : "https://drevanet.com/wp-content/uploads/2021/03/hd1063.mp4",
+    "pageUrl" : "http://93.157.62.180/ArenaSport3/index.m3u8",
     "type" : "ITALIAN SERIE A",
     "webFormatUrl" : "https://forzaitalianfootball.com/wp-content/uploads/2020/03/serie-a.png"
   },{
     "user":"Sampdoria vs Torino",
-    "pageUrl" : "https://drevanet.com/wp-content/uploads/2021/03/hd1063.mp4",
+    "pageUrl" : "http://93.157.62.180/ArenaSport4/index.m3u8",
     "type" : "ITALIAN SERIE A",
     "webFormatUrl" : "https://forzaitalianfootball.com/wp-content/uploads/2020/03/serie-a.png"
   },{
     "user":"Juventus vs Benevento",
-    "pageUrl" : "https://drevanet.com/wp-content/uploads/2021/03/hd1063.mp4",
+    "pageUrl" : "https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8",
     "type" : "ITALIAN SERIE A",
     "webFormatUrl" : "https://forzaitalianfootball.com/wp-content/uploads/2020/03/serie-a.png"
   },{
