@@ -1,19 +1,7 @@
 
 { 
   "hits": [
-    {
-    "user":"Getafe vs Elche SD",
-    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/103.m3u8",
-    "type" : "SPANISH LA LIGA",
-    "webFormatUrl" : "https://iscreativestudio.com/wp-content/uploads/2016/08/logotipos4.jpg"
-  },
-
-{
-    "user":"Getafe vs Elche HD",
-    "pageUrl" : "http://185.132.177.110:8080/COSMOTESport2HD/video.m3u8",
-    "type" : "SPANISH LA LIGA",
-    "webFormatUrl" : "https://iscreativestudio.com/wp-content/uploads/2016/08/logotipos4.jpg"
-  },
+    
 {
     "user":"Chelsea vs Sheffield United (link 1)",
     "pageUrl" : "http://77.247.109.116/hls/liveovo1.m3u8",
