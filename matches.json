@@ -12,31 +12,38 @@
   },
      {
     "user":"Belgium vs Wales",
-    "pageUrl" : "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8",
+    "pageUrl" : "http://198.16.106.58:8278/streams/d/Assp4/playlist.m3u8",
     "type" : "WORLD CUP QUALIFIERS",
     "webFormatUrl" : "https://img.fifa.com/image/upload/t_l3/v1567523528/j5jxbab3mgbhkdazymd8.jpg"
   },
      {
-    "user":"France vs Ukraine",
-    "pageUrl" : "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8",
+    "user":"France vs Ukraine HD1",
+    "pageUrl" : "https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8",
+    "type" : "WORLD CUP QUALIFIERS",
+    "webFormatUrl" : "https://img.fifa.com/image/upload/t_l3/v1567523528/j5jxbab3mgbhkdazymd8.jpg"
+  },
+
+{
+    "user":"France vs Ukraine HD2",
+    "pageUrl" : "http://198.16.106.58:8278/streams/d/Assp3/playlist.m3u8",
     "type" : "WORLD CUP QUALIFIERS",
     "webFormatUrl" : "https://img.fifa.com/image/upload/t_l3/v1567523528/j5jxbab3mgbhkdazymd8.jpg"
   },
      {
     "user":"Portugal vs Azerbaijan",
-    "pageUrl" : "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8",
+    "pageUrl" : "https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8",
     "type" : "WORLD CUP QUALIFIERS",
     "webFormatUrl" : "https://img.fifa.com/image/upload/t_l3/v1567523528/j5jxbab3mgbhkdazymd8.jpg"
   },
      {
     "user":"Serbia vs Ireland Republic",
-    "pageUrl" : "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8",
+    "pageUrl" : "https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8",
     "type" : "WORLD CUP QUALIFIERS",
     "webFormatUrl" : "https://img.fifa.com/image/upload/t_l3/v1567523528/j5jxbab3mgbhkdazymd8.jpg"
   },
      {
     "user":"Slovenia vs Croatia",
-    "pageUrl" : "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8",
+    "pageUrl" : "http://185.132.177.110:8080/COSMOTESport5HD/video.m3u8",
     "type" : "WORLD CUP QUALIFIERS",
     "webFormatUrl" : "https://img.fifa.com/image/upload/t_l3/v1567523528/j5jxbab3mgbhkdazymd8.jpg"
   },
