@@ -4,60 +4,7 @@
     
 
    
-     {
-    "user":"Spain vs Greece",
-    "pageUrl" : "https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8",
-    "type" : "WORLD CUP QUALIFIERS ",
-    "webFormatUrl" : "https://img.fifa.com/image/upload/assets/img/tournaments/17/2022/common/og_image.jpg"
-  },
-     {
-    "user":"Hungary vs Poland",
-    "pageUrl" : "http://185.132.177.110:8080/COSMOTESport9HD/video.m3u8",
-    "type" : "WORLD CUP QUALIFIERS ",
-    "webFormatUrl" : "https://img.fifa.com/image/upload/assets/img/tournaments/17/2022/common/og_image.jpg"
-  },
-     {
-    "user":"Germany vs Iceland",
-    "pageUrl" : "https://www.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8",
-    "type" : "WORLD CUP QUALIFIERS ",
-    "webFormatUrl" : "https://img.fifa.com/image/upload/assets/img/tournaments/17/2022/common/og_image.jpg"
-  },
-     {
-    "user":"Scotland vs Austria",
-    "pageUrl" : "http://185.132.177.110:8080/COSMOTESport7HD/video.m3u8",
-    "type" : "WORLD CUP QUALIFIERS ",
-    "webFormatUrl" : "https://img.fifa.com/image/upload/assets/img/tournaments/17/2022/common/og_image.jpg"
-  },
-     {
-    "user":"England vs San Marino  HD1",
-    "pageUrl" : "https://www.livedoomovie.com/02_SPORTTV_3_720p/chunklist.m3u8",
-    "type" : "WORLD CUP QUALIFIERS ",
-    "webFormatUrl" : "https://img.fifa.com/image/upload/assets/img/tournaments/17/2022/common/og_image.jpg"
-  },
-       {
-    "user":"England vs San Marino  (HD2 ENGLISH)",
-    "pageUrl" : "http://77.247.109.116/hls/liveovo1.m3u8",
-    "type" : "WORLD CUP QUALIFIERS ",
-    "webFormatUrl" : "https://img.fifa.com/image/upload/assets/img/tournaments/17/2022/common/og_image.jpg"
-  },
-     {
-    "user":"Italy vs Northern Ireland HD1",
-    "pageUrl" : "https://www.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8",
-    "type" : "WORLD CUP QUALIFIERS ",
-    "webFormatUrl" : "https://img.fifa.com/image/upload/assets/img/tournaments/17/2022/common/og_image.jpg"
-  },
-     {
-    "user":"Italy vs Northern Ireland HD2",
-    "pageUrl" : "https://chostv.mobie.in/choos/sports/matchqy2.m3u8",
-    "type" : "WORLD CUP QUALIFIERS ",
-    "webFormatUrl" : "https://img.fifa.com/image/upload/assets/img/tournaments/17/2022/common/og_image.jpg"
-  },
-     {
-    "user":"Sweden vs Georgia",
-    "pageUrl" : "http://185.132.177.110:8080/COSMOTESport2HD/video.m3u8",
-    "type" : "WORLD CUP QUALIFIERS ",
-    "webFormatUrl" : "https://img.fifa.com/image/upload/assets/img/tournaments/17/2022/common/og_image.jpg"
-  },
+     
     
     
 
