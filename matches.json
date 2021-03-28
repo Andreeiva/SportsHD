@@ -2,8 +2,15 @@
 { 
   "hits": [
    {
+    "user":"Poland vs Andorra",
+    "pageUrl" : "https://www.livedoomovies.com/02_epl2_720p_UK/chunklist.m3u8",
+    "type" : "WORLD CUP QUALIFIERS",
+    "webFormatUrl" : "https://img.fifa.com/image/upload/assets/img/tournaments/17/2022/common/og_image.jpg"
+  }, 
+
+{
     "user":"Switzerland vs Lithuania",
-    "pageUrl" : "http://198.16.106.58:8278/streams/d/Assp3/playlist.m3u8",
+    "pageUrl" : "http://77.247.109.94/hls/T3.m3u8",
     "type" : "WORLD CUP QUALIFIERS",
     "webFormatUrl" : "https://img.fifa.com/image/upload/assets/img/tournaments/17/2022/common/og_image.jpg"
   }, 
