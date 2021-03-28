@@ -1,29 +1,6 @@
 
 { 
   "hits": [
-    
-
-    
-   {
-    "user":"Georgia vs Spain",
-    "pageUrl" : "http://198.16.106.58:8278/streams/d/Assp1/playlist.m3u8#EXTINF:-1",
-    "type" : "WORLD CUP QUALIFIERS",
-    "webFormatUrl" : "https://img.fifa.com/image/upload/assets/img/tournaments/17/2022/common/og_image.jpg"
-  },
-   {
-    "user":"Albania vs England HD1",
-    "pageUrl" : "http://198.16.106.58:8278/streams/d/Assp3/playlist.m3u8",
-    "type" : "WORLD CUP QUALIFIERS",
-    "webFormatUrl" : "https://img.fifa.com/image/upload/assets/img/tournaments/17/2022/common/og_image.jpg"
-  }, 
-
-
-{
-    "user":"Albania vs England HD2",
-    "pageUrl" : "https://www.livedoomovies.com/02_epl1_720p_UK/chunklist.m3u8",
-    "type" : "WORLD CUP QUALIFIERS",
-    "webFormatUrl" : "https://img.fifa.com/image/upload/assets/img/tournaments/17/2022/common/og_image.jpg"
-  }, 
    {
     "user":"Denmark vs Moldova",
     "pageUrl" : "http://198.16.106.58:8278/streams/d/Assp2/playlist.m3u8",
@@ -38,23 +15,23 @@
   }, 
      {
     "user":"Kosovo vs Sweden",
-    "pageUrl" : "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8",
+    "pageUrl" : "http://198.16.106.58:8278/streams/d/Assp1/playlist.m3u8",
     "type" : "WORLD CUP QUALIFIERS",
     "webFormatUrl" : "https://img.fifa.com/image/upload/assets/img/tournaments/17/2022/common/og_image.jpg"
   }, 
       {
     "user":"Bulgaria vs Italy",
-    "pageUrl" : "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8",
+    "pageUrl" : "https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8",
     "type" : "WORLD CUP QUALIFIERS",
     "webFormatUrl" : "https://img.fifa.com/image/upload/assets/img/tournaments/17/2022/common/og_image.jpg"
   },  {
     "user":"Israel vs Scotland",
-    "pageUrl" : "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8",
+    "pageUrl" : "http://185.132.177.110:8080/COSMOTESport8HD/video.m3u8",
     "type" : "WORLD CUP QUALIFIERS",
     "webFormatUrl" : "https://img.fifa.com/image/upload/assets/img/tournaments/17/2022/common/og_image.jpg"
   },   {
     "user":"Romania vs Germany",
-    "pageUrl" : "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8",
+    "pageUrl" : "http://198.16.106.58:8278/streams/d/Assp4/playlist.m3u8",
     "type" : "WORLD CUP QUALIFIERS",
     "webFormatUrl" : "https://img.fifa.com/image/upload/assets/img/tournaments/17/2022/common/og_image.jpg"
   }, 
