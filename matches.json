@@ -2,8 +2,8 @@
 { 
   "hits": [
    {
-    "user":"Denmark vs Moldova",
-    "pageUrl" : "http://198.16.106.58:8278/streams/d/Assp2/playlist.m3u8",
+    "user":"Switzerland vs Lithuania",
+    "pageUrl" : "http://198.16.106.58:8278/streams/d/Assp3/playlist.m3u8",
     "type" : "WORLD CUP QUALIFIERS",
     "webFormatUrl" : "https://img.fifa.com/image/upload/assets/img/tournaments/17/2022/common/og_image.jpg"
   }, 
