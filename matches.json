@@ -6,7 +6,7 @@
     
    {
     "user":"Georgia vs Spain",
-    "pageUrl" : "https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8",
+    "pageUrl" : "http://198.16.106.58:8278/streams/d/Assp1/playlist.m3u8#EXTINF:-1",
     "type" : "WORLD CUP QUALIFIERS",
     "webFormatUrl" : "https://img.fifa.com/image/upload/assets/img/tournaments/17/2022/common/og_image.jpg"
   },
