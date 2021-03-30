@@ -7,6 +7,14 @@
     "type" : "WORLD CUP QUALIFYING",
     "webFormatUrl" : "https://img.fifa.com/image/upload/t_l3/v1567523528/j5jxbab3mgbhkdazymd8.jpg"
   },
+
+{
+    "user":"Belgium vs Belarus (ENGLISH)",
+    "pageUrl" : "https://www.livedoomovies.com/02_epl1_720p_UK/chunklist.m3u8",
+    "type" : "WORLD CUP QUALIFYING",
+    "webFormatUrl" : "https://img.fifa.com/image/upload/t_l3/v1567523528/j5jxbab3mgbhkdazymd8.jpg"
+  },
+
       {
     "user":"Belgium vs Belarus",
     "pageUrl" : "http://198.16.106.58:8278/streams/d/Assp2/playlist.m3u8",
@@ -28,6 +36,14 @@
       {
     "user":"Wales vs Czech Republic",
     "pageUrl" : "https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8",
+    "type" : "WORLD CUP QUALIFYING",
+    "webFormatUrl" : "https://img.fifa.com/image/upload/t_l3/v1567523528/j5jxbab3mgbhkdazymd8.jpg"
+  },
+
+
+{
+    "user":"Gibraltar vs Netherlands (ENGLISH)",
+    "pageUrl" : "http://stream.mazystreams.xyz:80/live/streamwsd/chunks.m3u8",
     "type" : "WORLD CUP QUALIFYING",
     "webFormatUrl" : "https://img.fifa.com/image/upload/t_l3/v1567523528/j5jxbab3mgbhkdazymd8.jpg"
   },
