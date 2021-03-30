@@ -5,10 +5,58 @@
    
 
     {
-    "user":"SPORTS LIVE",
+    "user":"Azerbaijan vs Serbia",
     "pageUrl" : "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8",
-    "type" : "ALL STREAMS START SOON",
-    "webFormatUrl" : "https://thumbs.dreamstime.com/b/red-white-soccer-ball-football-isolate-background-193625697.jpg"
+    "type" : "WORLD CUP QUALIFYING",
+    "webFormatUrl" : "https://img.fifa.com/image/upload/t_l3/v1567523528/j5jxbab3mgbhkdazymd8.jpg"
+  },
+      {
+    "user":"Croatia vs Malta",
+    "pageUrl" : "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8",
+    "type" : "WORLD CUP QUALIFYING",
+    "webFormatUrl" : "https://img.fifa.com/image/upload/t_l3/v1567523528/j5jxbab3mgbhkdazymd8.jpg"
+  },
+      {
+    "user":"Turkey vs Latvia",
+    "pageUrl" : "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8",
+    "type" : "WORLD CUP QUALIFYING",
+    "webFormatUrl" : "https://img.fifa.com/image/upload/t_l3/v1567523528/j5jxbab3mgbhkdazymd8.jpg"
+  },
+      {
+    "user":"Belgium vs Belarus",
+    "pageUrl" : "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8",
+    "type" : "WORLD CUP QUALIFYING",
+    "webFormatUrl" : "https://img.fifa.com/image/upload/t_l3/v1567523528/j5jxbab3mgbhkdazymd8.jpg"
+  },
+      {
+    "user":"Slovakia vs Russia",
+    "pageUrl" : "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8",
+    "type" : "WORLD CUP QUALIFYING",
+    "webFormatUrl" : "https://img.fifa.com/image/upload/t_l3/v1567523528/j5jxbab3mgbhkdazymd8.jpg"
+  },
+      {
+    "user":"Luxembourg vs Portugal",
+    "pageUrl" : "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8",
+    "type" : "WORLD CUP QUALIFYING",
+    "webFormatUrl" : "https://img.fifa.com/image/upload/t_l3/v1567523528/j5jxbab3mgbhkdazymd8.jpg"
+  },
+      {
+    "user":"Wales vs Czech Republic",
+    "pageUrl" : "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8",
+    "type" : "WORLD CUP QUALIFYING",
+    "webFormatUrl" : "https://img.fifa.com/image/upload/t_l3/v1567523528/j5jxbab3mgbhkdazymd8.jpg"
+  },
+      {
+    "user":"Gibraltar vs Netherlands",
+    "pageUrl" : "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8",
+    "type" : "WORLD CUP QUALIFYING",
+    "webFormatUrl" : "https://img.fifa.com/image/upload/t_l3/v1567523528/j5jxbab3mgbhkdazymd8.jpg"
+  },
+     {
+    "user":"ALL STREAMS START SOON",
+    "pageUrl" : "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8",
+    "type" : "WORLD CUP QUALIFYING",
+    "webFormatUrl" : "https://img.fifa.com/image/upload/t_l3/v1567523528/j5jxbab3mgbhkdazymd8.jpg"
   }
 ]
 
