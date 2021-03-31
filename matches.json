@@ -2,78 +2,71 @@
 { 
   "hits": [
       
-     {
-    "user":"Sweden vs Estonia",
-    "pageUrl" : "https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8",
-    "type" : "INTERNATIONAL FRIENDLIES",
-    "webFormatUrl" : "https://staticg.sportskeeda.com/wp-content/uploads/2014/04/fifa-logo-design-history-and-evolution-wkuq7omm-2161994.jpg"
-  },
-      {
-    "user":"Armenia vs Romania",
-    "pageUrl" : "http://198.16.106.58:8278/streams/d/Assp1/playlist.m3u8#EXTINF:-1",
-    "type" : "WORLD CUP QUALIFYING",
-    "webFormatUrl" : "https://img.fifa.com/image/upload/t_l3/v1567523528/j5jxbab3mgbhkdazymd8.jpg"
-  },
+     
       {
     "user":"Spain vs Kosovo",
-    "pageUrl" : "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8",
+    "pageUrl" : "http://198.16.106.58:8278/streams/d/Assp1/playlist.m3u8",
     "type" : "WORLD CUP QUALIFYING",
     "webFormatUrl" : "https://img.fifa.com/image/upload/t_l3/v1567523528/j5jxbab3mgbhkdazymd8.jpg"
   },
       {
-    "user":"England vs Poland",
-    "pageUrl" : "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8",
+    "user":"England vs Poland (English)",
+    "pageUrl" : "https://www.livedoomovies.com/02_epl1_720p_UK/chunklist.m3u8",
     "type" : "WORLD CUP QUALIFYING",
     "webFormatUrl" : "https://img.fifa.com/image/upload/t_l3/v1567523528/j5jxbab3mgbhkdazymd8.jpg"
   },
-      {
-    "user":"Greece vs Georgia",
-    "pageUrl" : "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8",
+
+{
+    "user":"England vs Poland  HD2",
+    "pageUrl" : "https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8",
     "type" : "WORLD CUP QUALIFYING",
     "webFormatUrl" : "https://img.fifa.com/image/upload/t_l3/v1567523528/j5jxbab3mgbhkdazymd8.jpg"
   },
+      
       {
     "user":"Austria vs Denmark",
-    "pageUrl" : "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8",
+    "pageUrl" : "http://185.132.177.110:8080/COSMOTESport8HD/video.m3u8",
     "type" : "WORLD CUP QUALIFYING",
     "webFormatUrl" : "https://img.fifa.com/image/upload/t_l3/v1567523528/j5jxbab3mgbhkdazymd8.jpg"
   },
       {
-    "user":"Lithuania vs Italy",
-    "pageUrl" : "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8",
+    "user":"Lithuania vs Italy  HD1",
+    "pageUrl" : "https://chostv.mobie.in/choos/sports/matchqy2.m3u8",
+    "type" : "WORLD CUP QUALIFYING",
+    "webFormatUrl" : "https://img.fifa.com/image/upload/t_l3/v1567523528/j5jxbab3mgbhkdazymd8.jpg"
+  },
+
+{
+    "user":"Lithuania vs Italy  HD2",
+    "pageUrl" : "http://185.132.177.110:8080/COSMOTESport5HD/video.m3u8",
     "type" : "WORLD CUP QUALIFYING",
     "webFormatUrl" : "https://img.fifa.com/image/upload/t_l3/v1567523528/j5jxbab3mgbhkdazymd8.jpg"
   },
       {
     "user":"Ukraine vs Kazakhstan",
-    "pageUrl" : "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8",
+    "pageUrl" : "http://str.smartip-tv.net:8888/BEIN_SPORT_4_HD/index.m3u8?token=test",
     "type" : "WORLD CUP QUALIFYING",
     "webFormatUrl" : "https://img.fifa.com/image/upload/t_l3/v1567523528/j5jxbab3mgbhkdazymd8.jpg"
   }, 
       {
     "user":"Germany vs North Macedonia",
-    "pageUrl" : "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8",
+    "pageUrl" : "https://www.livedoomovie.com/02_SPORTTV_3_720p/chunklist.m3u8",
     "type" : "WORLD CUP QUALIFYING",
     "webFormatUrl" : "https://img.fifa.com/image/upload/t_l3/v1567523528/j5jxbab3mgbhkdazymd8.jpg"
   }, 
       {
     "user":"Northern Ireland vs Bulgaria",
-    "pageUrl" : "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8",
+    "pageUrl" : "https://www.livedoomovies.com/02_epl2_720p_UK/chunklist.m3u8",
     "type" : "WORLD CUP QUALIFYING",
     "webFormatUrl" : "https://img.fifa.com/image/upload/t_l3/v1567523528/j5jxbab3mgbhkdazymd8.jpg"
   },
       {
     "user":"Bosnia and Herzegovina vs France",
-    "pageUrl" : "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8",
+    "pageUrl" : "https://www.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8",
     "type" : "WORLD CUP QUALIFYING",
     "webFormatUrl" : "https://img.fifa.com/image/upload/t_l3/v1567523528/j5jxbab3mgbhkdazymd8.jpg"
   },
-     {
-    "user":"Switzerland vs Finland",
-    "pageUrl" : "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8",
-    "type" : "INTERNATIONAL FRIENDLIES",
-    "webFormatUrl" : "https://img.fifa.com/image/upload/t_l3/v1567523528/j5jxbab3mgbhkdazymd8.jpg"
-  },
+     
     {
     "user":"ALL STREAMS START SOON",
     "pageUrl" : "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8",
