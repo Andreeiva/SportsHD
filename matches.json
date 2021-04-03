@@ -1,40 +1,6 @@
 
 { 
   "hits": [
-      
-    
-    
-    
-     
-    {
-    "user":"Leeds United vs Sheffield United  SD",
-    "pageUrl" : "https://www.livedoomovies.com/02_PremierHD2_480p/chunklist.m3u8",
-    "type" : "ENGLISH PREMIER LEAGUE",
-    "webFormatUrl" : "https://i.pinimg.com/originals/23/72/64/23726435c00fa8a9ca4dca88bb0b9cd7.png"
-  },
-
-{
-    "user":"Leeds United vs Sheffield United  HD",
-    "pageUrl" : "https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8",
-    "type" : "ENGLISH PREMIER LEAGUE",
-    "webFormatUrl" : "https://i.pinimg.com/originals/23/72/64/23726435c00fa8a9ca4dca88bb0b9cd7.png"
-  },
-
-
-
-     {
-    "user":"Real Madrid vs Eibar SD",
-    "pageUrl" : "http://stream.tvtap.live:8081/live/es-movistarlaliga.stream/playlist.m3u8",
-    "type" : "SPANISH LA LIGA",
-    "webFormatUrl" : "https://iscreativestudio.com/wp-content/uploads/2016/08/logotipos4.jpg"
-  },
-{
-    "user":"Real Madrid vs Eibar HD",
-    "pageUrl" : "https://chostv.mobie.in/choos/sports/matchqy1.m3u8",
-    "type" : "SPANISH LA LIGA",
-    "webFormatUrl" : "https://iscreativestudio.com/wp-content/uploads/2016/08/logotipos4.jpg"
-  },
-
      {
     "user":"Torino vs Juventus HD1",
     "pageUrl" : "http://ott-cdn.ucom.am/s81/04.m3u8",
