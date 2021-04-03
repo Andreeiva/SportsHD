@@ -50,20 +50,35 @@
   },
 
     {
-    "user":"Leicester City vs Manchester City",
-    "pageUrl" : "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8",
+    "user":"Leicester City vs Manchester City SD",
+    "pageUrl" : "https://www.livedoomovies.com/02_PremierHD2_480p/chunklist.m3u8",
+    "type" : "ENGLISH PREMIER LEAGUE",
+    "webFormatUrl" : "https://i.pinimg.com/originals/23/72/64/23726435c00fa8a9ca4dca88bb0b9cd7.png"
+  },
+
+
+{
+    "user":"Leicester City vs Manchester City HD",
+    "pageUrl" : "https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8",
     "type" : "ENGLISH PREMIER LEAGUE",
     "webFormatUrl" : "https://i.pinimg.com/originals/23/72/64/23726435c00fa8a9ca4dca88bb0b9cd7.png"
   },
      {
-    "user":"Osasuna vs Getafe",
-    "pageUrl" : "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8",
+    "user":"Osasuna vs Getafe SD",
+    "pageUrl" : "http://stream.tvtap.live:8081/live/es-movistarlaliga.stream/playlist.m3u8",
+    "type" : "SPANISH LA LIGA",
+    "webFormatUrl" : "https://iscreativestudio.com/wp-content/uploads/2016/08/logotipos4.jpg"
+  },
+
+{
+    "user":"Osasuna vs Getafe  HD",
+    "pageUrl" : "https://chostv.mobie.in/choos/sports/matchqy1.m3u8",
     "type" : "SPANISH LA LIGA",
     "webFormatUrl" : "https://iscreativestudio.com/wp-content/uploads/2016/08/logotipos4.jpg"
   },
      {
     "user":"RB Leipzig vs Bayern München",
-    "pageUrl" : "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8",
+    "pageUrl" : "http://185.132.177.110:8080/COSMOTESport3HD/video.m3u8",
     "type" : "BUNDESLIGA",
     "webFormatUrl" : "https://1000logos.net/wp-content/uploads/2018/10/German-Bundesliga-logo.png"
   },
