@@ -5,72 +5,7 @@
     
     
     
-      {
-    "user":"Lazio vs Spezia",
-    "pageUrl" : "http://93.157.62.180/ArenaSport4/index.m3u8",
-    "type" : "SERIE A",
-    "webFormatUrl" : "https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Serie_A_logo_%282019%29.svg/1200px-Serie_A_logo_%282019%29.svg.png"
-  },
-      {
-    "user":"Sassuolo vs Roma",
-    "pageUrl" : "https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8",
-    "type" : "SERIE A",
-    "webFormatUrl" : "https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Serie_A_logo_%282019%29.svg/1200px-Serie_A_logo_%282019%29.svg.png"
-  },
-      {
-    "user":"Napoli vs Crotone",
-    "pageUrl" : "http://ott-cdn.ucom.am/s82/04.m3u8",
-    "type" : "SERIE A",
-    "webFormatUrl" : "https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Serie_A_logo_%282019%29.svg/1200px-Serie_A_logo_%282019%29.svg.png"
-  },
      
-      {
-    "user":"Atalanta vs Udinese",
-    "pageUrl" : "https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8",
-    "type" : "SERIE A",
-    "webFormatUrl" : "https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Serie_A_logo_%282019%29.svg/1200px-Serie_A_logo_%282019%29.svg.png"
-  },  {
-    "user":"Genoa vs Fiorentina",
-    "pageUrl" : "http://93.157.62.180/ArenaSport3/index.m3u8",
-    "type" : "SERIE A",
-    "webFormatUrl" : "https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Serie_A_logo_%282019%29.svg/1200px-Serie_A_logo_%282019%29.svg.png"
-  },
-      {
-    "user":"Cagliari vs Hellas Verona",
-    "pageUrl" : "https://www.livedoomovies.com/02_epl2_720p_UK/chunklist.m3u8",
-    "type" : "SERIE A",
-    "webFormatUrl" : "https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Serie_A_logo_%282019%29.svg/1200px-Serie_A_logo_%282019%29.svg.png"
-  },
-     
-     {
-    "user":"Wolfsburg vs Köln",
-    "pageUrl" : "http://185.132.177.110:8080/COSMOTESport7HD/video.m3u8",
-    "type" : "BUNDESLIGA",
-    "webFormatUrl" : "https://1000logos.net/wp-content/uploads/2018/10/German-Bundesliga-logo.png"
-  },
-      {
-    "user":"Augsburg vs Hoffenheim",
-    "pageUrl" : "http://185.132.177.110:8080/COSMOTESport8HD/video.m3u8",
-    "type" : "BUNDESLIGA",
-    "webFormatUrl" : "https://1000logos.net/wp-content/uploads/2018/10/German-Bundesliga-logo.png"
-  },
-      {
-    "user":"Mainz 05 vs Arminia Bielefeld",
-    "pageUrl" : "http://185.132.177.110:8080/COSMOTESport9HD/video.m3u8",
-    "type" : "BUNDESLIGA",
-    "webFormatUrl" : "https://1000logos.net/wp-content/uploads/2018/10/German-Bundesliga-logo.png"
-  },
-      {
-    "user":"Bayer Leverkusen vs Schalke 04",
-    "pageUrl" : "http://185.132.177.110:8080/COSMOTESport4HD/video.m3u8",
-    "type" : "BUNDESLIGA",
-    "webFormatUrl" : "https://1000logos.net/wp-content/uploads/2018/10/German-Bundesliga-logo.png"
-  },  {
-    "user":"Borussia Dortmund vs Eintracht Frankfurt",
-    "pageUrl" : "http://185.132.177.110:8080/COSMOTESport3HD/video.m3u8",
-    "type" : "BUNDESLIGA",
-    "webFormatUrl" : "https://1000logos.net/wp-content/uploads/2018/10/German-Bundesliga-logo.png"
-  },
     {
     "user":"Leeds United vs Sheffield United  SD",
     "pageUrl" : "https://www.livedoomovies.com/02_PremierHD2_480p/chunklist.m3u8",
@@ -102,7 +37,7 @@
 
      {
     "user":"Torino vs Juventus",
-    "pageUrl" : "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8",
+    "pageUrl" : "https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8",
     "type" : "SERIE A",
     "webFormatUrl" : "https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Serie_A_logo_%282019%29.svg/1200px-Serie_A_logo_%282019%29.svg.png"
   },
