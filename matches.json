@@ -78,30 +78,30 @@
      
      {
     "user":"Wolfsburg vs Köln",
-    "pageUrl" : "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8",
+    "pageUrl" : "http://185.132.177.110:8080/COSMOTESport7HD/video.m3u8",
     "type" : "BUNDESLIGA",
     "webFormatUrl" : "https://1000logos.net/wp-content/uploads/2018/10/German-Bundesliga-logo.png"
   },
       {
     "user":"Augsburg vs Hoffenheim",
-    "pageUrl" : "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8",
+    "pageUrl" : "http://185.132.177.110:8080/COSMOTESport8HD/video.m3u8",
     "type" : "BUNDESLIGA",
     "webFormatUrl" : "https://1000logos.net/wp-content/uploads/2018/10/German-Bundesliga-logo.png"
   },
       {
     "user":"Mainz 05 vs Arminia Bielefeld",
-    "pageUrl" : "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8",
+    "pageUrl" : "http://185.132.177.110:8080/COSMOTESport9HD/video.m3u8",
     "type" : "BUNDESLIGA",
     "webFormatUrl" : "https://1000logos.net/wp-content/uploads/2018/10/German-Bundesliga-logo.png"
   },
       {
     "user":"Bayer Leverkusen vs Schalke 04",
-    "pageUrl" : "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8",
+    "pageUrl" : "http://185.132.177.110:8080/COSMOTESport4HD/video.m3u8",
     "type" : "BUNDESLIGA",
     "webFormatUrl" : "https://1000logos.net/wp-content/uploads/2018/10/German-Bundesliga-logo.png"
   },  {
     "user":"Borussia Dortmund vs Eintracht Frankfurt",
-    "pageUrl" : "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8",
+    "pageUrl" : "http://185.132.177.110:8080/COSMOTESport3HD/video.m3u8",
     "type" : "BUNDESLIGA",
     "webFormatUrl" : "https://1000logos.net/wp-content/uploads/2018/10/German-Bundesliga-logo.png"
   },
