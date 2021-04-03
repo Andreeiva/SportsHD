@@ -9,8 +9,15 @@
     "webFormatUrl" : "https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Serie_A_logo_%282019%29.svg/1200px-Serie_A_logo_%282019%29.svg.png"
   },
      {
-    "user":"Chelsea vs West Bromwich Albion",
-    "pageUrl" : "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8",
+    "user":"Chelsea vs West Bromwich Albion SD",
+    "pageUrl" : "https://www.livedoomovies.com/02_PremierHD2_480p/chunklist.m3u8",
+    "type" : "ENGLISH PREMIER LEAGUE",
+    "webFormatUrl" : "https://i.pinimg.com/originals/23/72/64/23726435c00fa8a9ca4dca88bb0b9cd7.png"
+  },
+
+{
+    "user":"Chelsea vs West Bromwich Albion HD",
+    "pageUrl" : "https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8",
     "type" : "ENGLISH PREMIER LEAGUE",
     "webFormatUrl" : "https://i.pinimg.com/originals/23/72/64/23726435c00fa8a9ca4dca88bb0b9cd7.png"
   },
