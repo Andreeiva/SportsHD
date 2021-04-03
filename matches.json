@@ -3,19 +3,7 @@
   "hits": [
       
     
-     {
-    "user":"Chelsea vs West Bromwich Albion SD",
-    "pageUrl" : "https://www.livedoomovies.com/02_PremierHD2_480p/chunklist.m3u8",
-    "type" : "ENGLISH PREMIER LEAGUE",
-    "webFormatUrl" : "https://i.pinimg.com/originals/23/72/64/23726435c00fa8a9ca4dca88bb0b9cd7.png"
-  },
-
-{
-    "user":"Chelsea vs West Bromwich Albion HD",
-    "pageUrl" : "https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8",
-    "type" : "ENGLISH PREMIER LEAGUE",
-    "webFormatUrl" : "https://i.pinimg.com/originals/23/72/64/23726435c00fa8a9ca4dca88bb0b9cd7.png"
-  },
+    
      {
     "user":"Granada vs Villarreal SD",
     "pageUrl" : "http://stream.tvtap.live:8081/live/es-movistarlaliga.stream/playlist.m3u8",
@@ -97,16 +85,23 @@
   },
     {
     "user":"Leeds United vs Sheffield United",
-    "pageUrl" : "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8",
+    "pageUrl" : "https://www.livedoomovies.com/02_PremierHD2_480p/chunklist.m3u8",
     "type" : "ENGLISH PREMIER LEAGUE",
     "webFormatUrl" : "https://i.pinimg.com/originals/23/72/64/23726435c00fa8a9ca4dca88bb0b9cd7.png"
   },
      {
     "user":"Real Madrid vs Eibar",
-    "pageUrl" : "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8",
+    "pageUrl" : "http://stream.tvtap.live:8081/live/es-movistarlaliga.stream/playlist.m3u8",
     "type" : "SPANISH LA LIGA",
     "webFormatUrl" : "https://iscreativestudio.com/wp-content/uploads/2016/08/logotipos4.jpg"
   },
+{
+    "user":"Real Madrid vs Eibar",
+    "pageUrl" : "https://chostv.mobie.in/choos/sports/matchqy1.m3u8",
+    "type" : "SPANISH LA LIGA",
+    "webFormatUrl" : "https://iscreativestudio.com/wp-content/uploads/2016/08/logotipos4.jpg"
+  },
+
      {
     "user":"Torino vs Juventus",
     "pageUrl" : "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8",
