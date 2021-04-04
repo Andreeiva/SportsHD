@@ -1,24 +1,6 @@
 
 { 
   "hits": [
-    
-
-    
-     
-    
-     {
-    "user":"	Aston Villa vs Fulham SD",
-    "pageUrl" : "https://www.livedoomovies.com/02_PremierHD2_480p/chunklist.m3u8",
-    "type" : "England - Premier League",
-    "webFormatUrl" : "https://i.pinimg.com/originals/23/72/64/23726435c00fa8a9ca4dca88bb0b9cd7.png"
-  },
-
-{
-    "user":"	Aston Villa vs Fulham HD",
-    "pageUrl" : "https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8",
-    "type" : "England - Premier League",
-    "webFormatUrl" : "https://i.pinimg.com/originals/23/72/64/23726435c00fa8a9ca4dca88bb0b9cd7.png"
-  },
      {
     "user":"Stuttgart vs Werder Bremen",
     "pageUrl" : "http://185.132.177.110:8080/COSMOTESport3HD/video.m3u8",
@@ -42,10 +24,18 @@
     
     {
     "user":"Manchester United vs Brighton",
-    "pageUrl" : "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8",
+    "pageUrl" : "https://www.livedoomovies.com/02_PremierHD2_480p/chunklist.m3u8",
     "type" : "England - Premier League",
     "webFormatUrl" : "https://i.pinimg.com/originals/23/72/64/23726435c00fa8a9ca4dca88bb0b9cd7.png"
   },
+
+{
+    "user":"Manchester United vs Brighton",
+    "pageUrl" : "https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8",
+    "type" : "England - Premier League",
+    "webFormatUrl" : "https://i.pinimg.com/originals/23/72/64/23726435c00fa8a9ca4dca88bb0b9cd7.png"
+  },
+
     
      {
     "user":"Sevilla vs Atlético Madrid",
