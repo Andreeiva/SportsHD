@@ -1,7 +1,82 @@
 
 { 
   "hits": [
-     
+      {
+    "user":"Southampton vs Burnley  SD",
+    "pageUrl" : "https://www.livedoomovies.com/02_PremierHD2_480p/chunklist.m3u8",
+    "type" : "England - Premier League",
+    "webFormatUrl" : "https://i.pinimg.com/originals/23/72/64/23726435c00fa8a9ca4dca88bb0b9cd7.png"
+  },
+    
+     {
+    "user":"Southampton vs Burnley  HD",
+    "pageUrl" : "https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8",
+    "type" : "England - Premier League",
+    "webFormatUrl" : "https://i.pinimg.com/originals/23/72/64/23726435c00fa8a9ca4dca88bb0b9cd7.png"
+  },
+     {
+    "user":"Deportivo Alavés vs Celta de Vigo",
+    "pageUrl" : "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8",
+    "type" : "Spain - La Liga",
+    "webFormatUrl" : "https://iscreativestudio.com/wp-content/uploads/2016/08/logotipos4.jpg"
+  },
+     {
+    "user":"Newcastle United vs Tottenham Hotspur",
+    "pageUrl" : "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8",
+    "type" : "England - Premier League",
+    "webFormatUrl" : "https://i.pinimg.com/originals/23/72/64/23726435c00fa8a9ca4dca88bb0b9cd7.png"
+  },
+     {
+    "user":"Stuttgart vs Werder Bremen",
+    "pageUrl" : "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8",
+    "type" : "Germany - Bundesliga",
+    "webFormatUrl" : "https://i.pinimg.com/originals/6b/a3/18/6ba318474e4cab7cef32a965fd6b982c.png"
+  },
+     {
+    "user":"Elche vs Real Betis",
+    "pageUrl" : "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8",
+    "type" : "Spain - La Liga",
+    "webFormatUrl" : "https://iscreativestudio.com/wp-content/uploads/2016/08/logotipos4.jpg"
+  },
+    
+     {
+    "user":"	Aston Villa vs Fulham",
+    "pageUrl" : "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8",
+    "type" : "England - Premier League",
+    "webFormatUrl" : "https://i.pinimg.com/originals/23/72/64/23726435c00fa8a9ca4dca88bb0b9cd7.png"
+  },
+     {
+    "user":"Stuttgart vs Werder Bremen",
+    "pageUrl" : "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8",
+    "type" : "Germany - Bundesliga",
+    "webFormatUrl" : "https://i.pinimg.com/originals/6b/a3/18/6ba318474e4cab7cef32a965fd6b982c.png"
+  },
+     {
+    "user":"Cádiz vs Valencia",
+    "pageUrl" : "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8",
+    "type" : "Spain - La Liga",
+    "webFormatUrl" : "https://iscreativestudio.com/wp-content/uploads/2016/08/logotipos4.jpg"
+  },
+    {
+    "user":"Manchester United vs Brighton",
+    "pageUrl" : "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8",
+    "type" : "England - Premier League",
+    "webFormatUrl" : "https://i.pinimg.com/originals/23/72/64/23726435c00fa8a9ca4dca88bb0b9cd7.png"
+  },
+    
+     {
+    "user":"Sevilla vs Atlético Madrid",
+    "pageUrl" : "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8",
+    "type" : "Spain - La Liga",
+    "webFormatUrl" : "https://iscreativestudio.com/wp-content/uploads/2016/08/logotipos4.jpg"
+  },
+    
+    {
+    "user":"ALL STREAMS START SOON",
+    "pageUrl" : "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8",
+    "type" : "WORLD CUP QUALIFYING",
+    "webFormatUrl" : "https://img.fifa.com/image/upload/t_l3/v1567523528/j5jxbab3mgbhkdazymd8.jpg"
+  },
     
     {
     "user":"ALL STREAMS START SOON",
