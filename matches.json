@@ -1,20 +1,6 @@
 
 { 
   "hits": [
-     
-
-{
-    "user":"Deportivo Alavés vs Celta de Vigo SD",
-    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/103.m3u8",
-    "type" : "Spain - La Liga",
-    "webFormatUrl" : "https://iscreativestudio.com/wp-content/uploads/2016/08/logotipos4.jpg"
-  },
-     {
-    "user":"Deportivo Alavés vs Celta de Vigo HD",
-    "pageUrl" : "https://chostv.mobie.in/choos/sports/matchqy1.m3u8",
-    "type" : "Spain - La Liga",
-    "webFormatUrl" : "https://iscreativestudio.com/wp-content/uploads/2016/08/logotipos4.jpg"
-  },
      {
     "user":"Newcastle United vs Tottenham Hotspur SD",
     "pageUrl" : "https://www.livedoomovies.com/02_PremierHD2_480p/chunklist.m3u8",
@@ -35,14 +21,14 @@
     "webFormatUrl" : "https://i.pinimg.com/originals/6b/a3/18/6ba318474e4cab7cef32a965fd6b982c.png"
   },
      {
-    "user":"Elche vs Real Betis",
+    "user":"Elche vs Real Betis  SD",
     "pageUrl" : "http://cdn.addressingethernet.xyz/hls/103.m3u8",
     "type" : "Spain - La Liga",
     "webFormatUrl" : "https://iscreativestudio.com/wp-content/uploads/2016/08/logotipos4.jpg"
   },
 
 {
-    "user":"Elche vs Real Betis",
+    "user":"Elche vs Real Betis  HD",
     "pageUrl" : "https://chostv.mobie.in/choos/sports/matchqy1.m3u8",
     "type" : "Spain - La Liga",
     "webFormatUrl" : "https://iscreativestudio.com/wp-content/uploads/2016/08/logotipos4.jpg"
