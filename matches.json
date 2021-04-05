@@ -8,14 +8,14 @@
     
      {
     "user":"EVERTON VS CRYSTAL PALACE SD",
-    "pageUrl" : "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8",
+    "pageUrl" : "https://www.livedoomovies.com/02_PremierHD2_480p/chunklist.m3u8",
     "type" : "English Premier League",
     "webFormatUrl" : "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
   },
 
 {
     "user":"EVERTON VS CRYSTAL PALACE HD",
-    "pageUrl" : "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8",
+    "pageUrl" : "https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8",
     "type" : "English Premier League",
     "webFormatUrl" : "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
   },
