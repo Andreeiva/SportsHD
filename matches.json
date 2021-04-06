@@ -1,53 +1,6 @@
 
 { 
   "hits": [
-    {
-
-
-  "user":"Real Madrid vs Liverpool HD 1",
-    "pageUrl" : "http://77.247.109.116/hls/liveovo2.m3u8",
-    "type" : "UEFA CHAMPIONS LEAGUE",
-    "webFormatUrl" : "https://1000logos.net/wp-content/uploads/2020/10/UEFA-Champions-League-Logo-1992.jpg"
-  },
-      {
-
-
-  "user":"Real Madrid vs Liverpool HD 2",
-    "pageUrl" : "https://www.livedoomovies.com/02_epl1_720p_UK/chunklist.m3u8",
-    "type" : "UEFA CHAMPIONS LEAGUE",
-    "webFormatUrl" : "https://1000logos.net/wp-content/uploads/2020/10/UEFA-Champions-League-Logo-1992.jpg"
-  },
-      {
-
-
-  "user":"Real Madrid vs Liverpool SD",
-    "pageUrl" : "http://23.237.78.54/live-1000/244/playlist.m3u8",
-    "type" : "UEFA CHAMPIONS LEAGUE",
-    "webFormatUrl" : "https://1000logos.net/wp-content/uploads/2020/10/UEFA-Champions-League-Logo-1992.jpg"
-  },
-      {
-
-
-  "user":"Manchester City vs Borussia Dortmund HD 1",
-    "pageUrl" : "http://77.247.109.116/hls/liveovo1.m3u8",
-    "type" : "UEFA CHAMPIONS LEAGUE",
-    "webFormatUrl" : "https://1000logos.net/wp-content/uploads/2020/10/UEFA-Champions-League-Logo-1992.jpg"
-  },  {
-
-
-  "user":"Manchester City vs Borussia Dortmund HD 2",
-    "pageUrl" : "https://www.livedoomovies.com/02_epl2_720p_UK/chunklist.m3u8",
-    "type" : "UEFA CHAMPIONS LEAGUE",
-    "webFormatUrl" : "https://1000logos.net/wp-content/uploads/2020/10/UEFA-Champions-League-Logo-1992.jpg"
-  },  {
-
-
-  "user":"Manchester City vs Borussia Dortmund SD",
-    "pageUrl" : "http://23.237.78.54/live-1000/263/playlist.m3u8",
-    "type" : "UEFA CHAMPIONS LEAGUE",
-    "webFormatUrl" : "https://1000logos.net/wp-content/uploads/2020/10/UEFA-Champions-League-Logo-1992.jpg"
-  },
-   
 {
     "user":"ALL STREAMS START SOON",
     "pageUrl" : "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8",
