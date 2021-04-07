@@ -1,25 +1,7 @@
 
 { 
   "hits": [
-    {
-    "user":"Juventus vs Napoli HD1",
-    "pageUrl" : "https://www.livedoomovies.com/02_epl2_720p_UK/chunklist.m3u8",
-    "type" : "SERIE A",
-    "webFormatUrl" : "https://i.pinimg.com/474x/2e/86/50/2e86505cb4d1d37b4a40a30b3162169a.jpg"
-  },
-
-{
-    "user":"Juventus vs Napoli HD2",
-    "pageUrl" : "http://93.157.62.180/ArenaSport2/index.m3u8",
-    "type" : "SERIE A",
-    "webFormatUrl" : "https://i.pinimg.com/474x/2e/86/50/2e86505cb4d1d37b4a40a30b3162169a.jpg"
-  },
-    {
-    "user":"Internazionale vs Sassuolo",
-    "pageUrl" : "https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8",
-    "type" : "SERIE A",
-    "webFormatUrl" : "https://i.pinimg.com/474x/2e/86/50/2e86505cb4d1d37b4a40a30b3162169a.jpg"
-  },
+    
      
      {
     "user":"Porto vs Chelsea HD 1",
