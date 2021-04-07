@@ -2,87 +2,40 @@
 { 
   "hits": [
     {
-    "user":"REAL MADRID VS LIVERPOOL",
+    "user":"Juventus vs Napoli",
     "pageUrl" : "https://wiseloaded.com/wp-content/uploads/2021/04/WISELOADED.COM-Real-Madrid-vs-Liverpool-3-1.mp4",
-    "type" : "UEFA CHAMPIONS LEAGUE HIGHLIGHTS",
-    "webFormatUrl" : "https://static.dw.com/image/16392542_303.jpg"
+    "type" : "SERIE A",
+    "webFormatUrl" : "https://i.pinimg.com/474x/2e/86/50/2e86505cb4d1d37b4a40a30b3162169a.jpg"
   },
     {
-    "user":"MANCHESTER CITY VS BORRUSIA DORTMUND",
-    "pageUrl" : "https://wiseloaded.com/wp-content/uploads/2021/04/WISELOADED.COM-Manchester-City-vs-Dortmund-2-1.mp4",
-    "type" : "UEFA CHAMPIONS LEAUGE HIGHLIGTS",
-    "webFormatUrl" : "https://static.dw.com/image/16392542_303.jpg"
-  },
-    {
-    "user":"bologna vs inter",
-    "pageUrl" : "https://www.buaksib.com/wp-content/uploads/2021/04/Bologna_Vs_Inter_03_04_2021.mp4",
-    "type" : "SERIE A highlighs",
-    "webFormatUrl" : "https://forzaitalianfootball.com/wp-content/uploads/2019/05/New-Serie-A-logo.png"
+    "user":"Internazionale vs Sassuolo",
+    "pageUrl" : "https://wiseloaded.com/wp-content/uploads/2021/04/WISELOADED.COM-Real-Madrid-vs-Liverpool-3-1.mp4",
+    "type" : "SERIE A",
+    "webFormatUrl" : "https://i.pinimg.com/474x/2e/86/50/2e86505cb4d1d37b4a40a30b3162169a.jpg"
   },
      {
-    "user":"Torino vs Juventus",
-    "pageUrl" : "https://www.buaksib.com/wp-content/uploads/2021/04/Torino_Vs_Juventus_03_04_2021.mp4",
-    "type" : "SERIE A highlighs",
-    "webFormatUrl" : "https://forzaitalianfootball.com/wp-content/uploads/2019/05/New-Serie-A-logo.png"
+    "user":"Porto vs Chelsea SD",
+    "pageUrl" : "https://wiseloaded.com/wp-content/uploads/2021/04/WISELOADED.COM-Real-Madrid-vs-Liverpool-3-1.mp4",
+    "type" : "CHAMPIONS LEAGUE",
+    "webFormatUrl" : "https://i.pinimg.com/originals/79/24/ec/7924eccaf6779819242591fab54021e5.jpg"
   },
      {
-    "user":"Sasuolo vs Roma",
-    "pageUrl" : "https://www.buaksib.com/wp-content/uploads/2021/04/Sassuolo_Vs_Roma_03_04_2021.mp4",
-    "type" : "SERIE A highlighs",
-    "webFormatUrl" : "https://forzaitalianfootball.com/wp-content/uploads/2019/05/New-Serie-A-logo.png"
+    "user":"Porto vs Chelsea HD",
+    "pageUrl" : "https://wiseloaded.com/wp-content/uploads/2021/04/WISELOADED.COM-Real-Madrid-vs-Liverpool-3-1.mp4",
+    "type" : "CHAMPIONS LEAGUE",
+    "webFormatUrl" : "https://i.pinimg.com/originals/79/24/ec/7924eccaf6779819242591fab54021e5.jpg"
   },
      {
-    "user":"Lazio vs Spezia",
-    "pageUrl" : "https://www.buaksib.com/wp-content/uploads/2021/04/Bologna_Vs_Inter_03_04_2021.mp4",
-    "type" : "SERIE A highlighs",
-    "webFormatUrl" : "https://forzaitalianfootball.com/wp-content/uploads/2019/05/New-Serie-A-logo.png"
+    "user":"Bayern München vs PSG SD",
+    "pageUrl" : "https://wiseloaded.com/wp-content/uploads/2021/04/WISELOADED.COM-Real-Madrid-vs-Liverpool-3-1.mp4",
+    "type" : "CHAMPIONS LEAGUE",
+    "webFormatUrl" : "https://i.pinimg.com/originals/79/24/ec/7924eccaf6779819242591fab54021e5.jpg"
   },
-    
      {
-    "user":"Lazio vs Spezia",
-    "pageUrl" : "https://www.buaksib.com/wp-content/uploads/2021/04/Lazio_Vs_Spezia_03-04-64.mp4",
-    "type" : "SERIE A highlighs",
-    "webFormatUrl" : "https://forzaitalianfootball.com/wp-content/uploads/2019/05/New-Serie-A-logo.png"
-  },
-      {
-    "user":"Napoli vs Crotone",
-    "pageUrl" : "https://www.buaksib.com/wp-content/uploads/2021/04/Napoli_Vs_Crotone_03_04_21.mp4",
-    "type" : "SERIE A highlighs",
-    "webFormatUrl" : "https://forzaitalianfootball.com/wp-content/uploads/2019/05/New-Serie-A-logo.png"
-  },
-      {
-    "user":"AC Milan vs Sampdoria",
-    "pageUrl" : "https://www.buaksib.com/wp-content/uploads/2021/04/Napoli_Vs_Crotone_03_04_21.mp4",
-    "type" : "SERIE A highlighs",
-    "webFormatUrl" : "https://forzaitalianfootball.com/wp-content/uploads/2019/05/New-Serie-A-logo.png"
-  },
-    {
-    "user":"Manchester United vs Brighton",
-    "pageUrl" : "https://www.buaksib.com/wp-content/uploads/2021/04/ManUnited_Vs_Brighton_04_04_21.mp4",
-    "type" : "EPL Highlights",
-    "webFormatUrl" : "https://download.logo.wine/logo/Premier_League/Premier_League-Logo.wine.png"
-  },
-      {
-    "user":"Newcastle United Vs Tottenham Hotspur",
-    "pageUrl" : "https://www.buaksib.com/wp-content/uploads/2021/04/Newcastle_Vs_spur_04_04_21.mp4",
-    "type" : "EPL Highlights",
-    "webFormatUrl" : "https://download.logo.wine/logo/Premier_League/Premier_League-Logo.wine.png"
-  },  {
-    "user":"Southampton Vs Burnley",
-    "pageUrl" : "https://www.buaksib.com/wp-content/uploads/2021/04/Southampton_Vs_Burnley_04_04_21.mp4",
-    "type" : "EPL Highlights",
-    "webFormatUrl" : "https://download.logo.wine/logo/Premier_League/Premier_League-Logo.wine.png"
-  },  {
-    "user":"Leicester City Vs Manchester City",
-    "pageUrl" : "https://www.buaksib.com/wp-content/uploads/2021/04/Leicester_Vs_Manchester_City_03_04_21.mp4",
-    "type" : "EPL Highlights",
-    "webFormatUrl" : "https://download.logo.wine/logo/Premier_League/Premier_League-Logo.wine.png"
-  },
-    {
-    "user":"Arsenal Vs Liverpool",
-    "pageUrl" : "https://www.buaksib.com/wp-content/uploads/2021/04/Arsenal_Vs_Liverpool_03_04_21.mp4",
-    "type" : "EPL Highlights",
-    "webFormatUrl" : "https://download.logo.wine/logo/Premier_League/Premier_League-Logo.wine.png"
+    "user":"Bayern München vs PSG HD",
+    "pageUrl" : "https://wiseloaded.com/wp-content/uploads/2021/04/WISELOADED.COM-Real-Madrid-vs-Liverpool-3-1.mp4",
+    "type" : "CHAMPIONS LEAGUE",
+    "webFormatUrl" : "https://i.pinimg.com/originals/79/24/ec/7924eccaf6779819242591fab54021e5.jpg"
   },
 {
     "user":"ALL STREAMS START SOON",
