@@ -5,14 +5,14 @@
      
      {
     "user":"Porto vs Chelsea HD 1",
-    "pageUrl" : "https://www.livedoomovies.com/02_epl2_720p_UK/chunklist.m3u8",
+    "pageUrl" : "http://77.247.109.116/hls/liveovo2.m3u8",
     "type" : "CHAMPIONS LEAGUE",
     "webFormatUrl" : "https://i.pinimg.com/originals/79/24/ec/7924eccaf6779819242591fab54021e5.jpg"
   },
 
 {
     "user":"Porto vs Chelsea HD 2",
-    "pageUrl" : "http://77.247.109.116/hls/liveovo2.m3u8",
+    "pageUrl" : "https://www.livedoomovies.com/02_epl2_720p_UK/chunklist.m3u8",
     "type" : "CHAMPIONS LEAGUE",
     "webFormatUrl" : "https://i.pinimg.com/originals/79/24/ec/7924eccaf6779819242591fab54021e5.jpg"
   },
@@ -26,14 +26,14 @@
      
      {
     "user":"Bayern München vs PSG HD 1",
-    "pageUrl" : "https://www.livedoomovies.com/02_epl1_720p_UK/chunklist.m3u8",
+    "pageUrl" : "http://77.247.109.116/hls/liveovo1.m3u8",
     "type" : "CHAMPIONS LEAGUE",
     "webFormatUrl" : "https://i.pinimg.com/originals/79/24/ec/7924eccaf6779819242591fab54021e5.jpg"
   },
 
 {
     "user":"Bayern München vs PSG HD 2",
-    "pageUrl" : "http://77.247.109.116/hls/liveovo1.m3u8",
+    "pageUrl" : "https://www.livedoomovies.com/02_epl1_720p_UK/chunklist.m3u8",
     "type" : "CHAMPIONS LEAGUE",
     "webFormatUrl" : "https://i.pinimg.com/originals/79/24/ec/7924eccaf6779819242591fab54021e5.jpg"
   },
