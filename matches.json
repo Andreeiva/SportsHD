@@ -20,27 +20,44 @@
     "type" : "SERIE A",
     "webFormatUrl" : "https://i.pinimg.com/474x/2e/86/50/2e86505cb4d1d37b4a40a30b3162169a.jpg"
   },
+     
      {
+    "user":"Porto vs Chelsea HD 1",
+    "pageUrl" : "https://www.livedoomovies.com/02_epl2_720p_UK/chunklist.m3u8",
+    "type" : "CHAMPIONS LEAGUE",
+    "webFormatUrl" : "https://i.pinimg.com/originals/79/24/ec/7924eccaf6779819242591fab54021e5.jpg"
+  },
+
+{
+    "user":"Porto vs Chelsea HD 2",
+    "pageUrl" : "http://77.247.109.116/hls/liveovo2.m3u8",
+    "type" : "CHAMPIONS LEAGUE",
+    "webFormatUrl" : "https://i.pinimg.com/originals/79/24/ec/7924eccaf6779819242591fab54021e5.jpg"
+  },
+
+{
     "user":"Porto vs Chelsea SD",
-    "pageUrl" : "https://wiseloaded.com/wp-content/uploads/2021/04/WISELOADED.COM-Real-Madrid-vs-Liverpool-3-1.mp4",
+    "pageUrl" : "http://23.237.78.54/live-1000/244/playlist.m3u8",
     "type" : "CHAMPIONS LEAGUE",
     "webFormatUrl" : "https://i.pinimg.com/originals/79/24/ec/7924eccaf6779819242591fab54021e5.jpg"
   },
+     
      {
-    "user":"Porto vs Chelsea HD",
-    "pageUrl" : "https://wiseloaded.com/wp-content/uploads/2021/04/WISELOADED.COM-Real-Madrid-vs-Liverpool-3-1.mp4",
+    "user":"Bayern München vs PSG HD 1",
+    "pageUrl" : "https://www.livedoomovies.com/02_epl1_720p_UK/chunklist.m3u8",
     "type" : "CHAMPIONS LEAGUE",
     "webFormatUrl" : "https://i.pinimg.com/originals/79/24/ec/7924eccaf6779819242591fab54021e5.jpg"
   },
-     {
+
+{
+    "user":"Bayern München vs PSG HD 2",
+    "pageUrl" : "http://77.247.109.116/hls/liveovo1.m3u8",
+    "type" : "CHAMPIONS LEAGUE",
+    "webFormatUrl" : "https://i.pinimg.com/originals/79/24/ec/7924eccaf6779819242591fab54021e5.jpg"
+  },
+{
     "user":"Bayern München vs PSG SD",
-    "pageUrl" : "https://wiseloaded.com/wp-content/uploads/2021/04/WISELOADED.COM-Real-Madrid-vs-Liverpool-3-1.mp4",
-    "type" : "CHAMPIONS LEAGUE",
-    "webFormatUrl" : "https://i.pinimg.com/originals/79/24/ec/7924eccaf6779819242591fab54021e5.jpg"
-  },
-     {
-    "user":"Bayern München vs PSG HD",
-    "pageUrl" : "https://wiseloaded.com/wp-content/uploads/2021/04/WISELOADED.COM-Real-Madrid-vs-Liverpool-3-1.mp4",
+    "pageUrl" : "http://23.237.78.54/live-1000/263/playlist.m3u8",
     "type" : "CHAMPIONS LEAGUE",
     "webFormatUrl" : "https://i.pinimg.com/originals/79/24/ec/7924eccaf6779819242591fab54021e5.jpg"
   },
