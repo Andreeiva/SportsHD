@@ -6,37 +6,44 @@
      
 {
     "user":"Ajax vs Roma",
-    "pageUrl" : "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8",
+    "pageUrl" : "https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8",
     "type" : "UEFA EUROPA LEAGUE",
     "webFormatUrl" : "https://seeklogo.net/wp-content/uploads/2014/10/uefa-europa-league-logo-vector-download-400x400.jpg"
   },
     {
     "user":"Arsenal vs Slavia Praha HD1",
-    "pageUrl" : "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8",
+    "pageUrl" : "https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8",
     "type" : "UEFA EUROPA LEAGUE",
     "webFormatUrl" : "https://seeklogo.net/wp-content/uploads/2014/10/uefa-europa-league-logo-vector-download-400x400.jpg"
   },
     {
     "user":"Arsenal vs Slavia Praha HD2",
-    "pageUrl" : "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8",
+    "pageUrl" : "https://www.livedoomovies.com/02_epl2_720p_UK/chunklist.m3u8",
     "type" : "UEFA EUROPA LEAGUE",
     "webFormatUrl" : "https://seeklogo.net/wp-content/uploads/2014/10/uefa-europa-league-logo-vector-download-400x400.jpg"
   },
    {
-    "user":"	Dinamo Zagreb vs Villarreal",
-    "pageUrl" : "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8",
+    "user":"	Dinamo Zagreb vs Villarreal HD1",
+    "pageUrl" : "http://93.157.62.180/ArenaSport3/index.m3u8",
+    "type" : "UEFA EUROPA LEAGUE",
+    "webFormatUrl" : "https://seeklogo.net/wp-content/uploads/2014/10/uefa-europa-league-logo-vector-download-400x400.jpg"
+  },
+
+{
+    "user":"	Dinamo Zagreb vs Villarreal HD2",
+    "pageUrl" : "https://chostv.mobie.in/choos/sports/matchqy2.m3u8",
     "type" : "UEFA EUROPA LEAGUE",
     "webFormatUrl" : "https://seeklogo.net/wp-content/uploads/2014/10/uefa-europa-league-logo-vector-download-400x400.jpg"
   },
    {
     "user":"	Granada vs Manchester United HD1",
-    "pageUrl" : "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8",
+    "pageUrl" : "https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8",
     "type" : "UEFA EUROPA LEAGUE",
     "webFormatUrl" : "https://seeklogo.net/wp-content/uploads/2014/10/uefa-europa-league-logo-vector-download-400x400.jpg"
   },
       {
     "user":"	Granada vs Manchester United HD2",
-    "pageUrl" : "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8",
+    "pageUrl" : "https://www.livedoomovies.com/02_epl1_720p_UK/chunklist.m3u8",
     "type" : "UEFA EUROPA LEAGUE",
     "webFormatUrl" : "https://seeklogo.net/wp-content/uploads/2014/10/uefa-europa-league-logo-vector-download-400x400.jpg"
   },
