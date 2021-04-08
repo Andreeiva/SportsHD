@@ -71,6 +71,51 @@
     "type" : "EPL Highlights",
     "webFormatUrl" : "https://download.logo.wine/logo/Premier_League/Premier_League-Logo.wine.png"
   },
+    {
+    "user":"Real Madrid vs Liverpool",
+    "pageUrl" : "https://drevanet.com/wp-content/uploads/2021/04/real-madrid-vs-liverpool.mp4",
+    "type" : "Championsleague highlights",
+    "webFormatUrl" : "https://static.dw.com/image/16392542_303.jpg"
+  },
+     
+{
+    "user":"Manchester City vs Borussia Dortmund",
+    "pageUrl" : "https://drevanet.com/wp-content/uploads/2021/04/mancity-vs-dortmund.mp4",
+    "type" : "Championsleague highlights",
+    "webFormatUrl" : "https://static.dw.com/image/16392542_303.jpg"
+  },
+
+     
+     
+{
+    "user":"Bayern München vs PSG",
+    "pageUrl" : "https://drevanet.com/wp-content/uploads/2021/04/bayern-vs-psg.mp4",
+    "type" : "Championsleague highlights",
+    "webFormatUrl" : "https://static.dw.com/image/16392542_303.jpg"
+  },
+
+     
+{
+    "user":"Porto vs Chelsea",
+    "pageUrl" : "https://drevanet.com/wp-content/uploads/2021/04/porto-vs-chelsea.mp4",
+    "type" : "Championsleague highlights",
+    "webFormatUrl" : "https://static.dw.com/image/16392542_303.jpg"
+  },
+
+       
+{
+    "user":"Juventus vs Napoli",
+    "pageUrl" : "https://drevanet.com/wp-content/uploads/2021/04/juventus-vs-napoli.mp4",
+    "type" : "Serie A Highlights",
+    "webFormatUrl" : "https://forzaitalianfootball.com/wp-content/uploads/2020/03/serie-a.png"
+  },
+      
+{
+    "user":"Internazionale vs Sassuolo",
+    "pageUrl" : "https://drevanet.com/wp-content/uploads/2021/04/inter-vs-sasuolo.mp4",
+    "type" : "Serie A Highlights",
+    "webFormatUrl" : "https://forzaitalianfootball.com/wp-content/uploads/2020/03/serie-a.png"
+  },
 
   {
     "user":"SUMMER DAY FOOTBALL",
