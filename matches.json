@@ -7,30 +7,7 @@
     
     
 
-    {
-    "user":"	Werder Bremen vs RB Leipzig",
-    "pageUrl" : "http://185.132.177.110:8080/COSMOTESport7HD/video.m3u8",
-    "type" : "Germany - Bundesliga",
-    "webFormatUrl" : "https://1000logos.net/wp-content/uploads/2018/10/German-Bundesliga-logo.png"
-  },
-     {
-    "user":"Bayern München vs Union Berlin",
-    "pageUrl" : "http://185.132.177.110:8080/COSMOTESport3HD/video.m3u8",
-    "type" : "Germany - Bundesliga",
-    "webFormatUrl" : "https://1000logos.net/wp-content/uploads/2018/10/German-Bundesliga-logo.png"
-  },
-     {
-    "user":"Eintracht Frankfurt vs Wolfsburg",
-    "pageUrl" : "http://185.132.177.110:8080/COSMOTESport8HD/video.m3u8",
-    "type" : "Germany - Bundesliga",
-    "webFormatUrl" : "https://1000logos.net/wp-content/uploads/2018/10/German-Bundesliga-logo.png"
-  },
-     {
-    "user":"Hertha BSC vs Borussia M'gladbach",
-    "pageUrl" : "http://185.132.177.110:8080/COSMOTESport9HD/video.m3u8",
-    "type" : "Germany - Bundesliga",
-    "webFormatUrl" : "https://1000logos.net/wp-content/uploads/2018/10/German-Bundesliga-logo.png"
-  },
+    
    {
     "user":"	Liverpool vs Aston Villa SD",
     "pageUrl" : "https://www.livedoomovies.com/02_PremierHD2_480p/chunklist.m3u8",
