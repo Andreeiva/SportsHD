@@ -42,25 +42,25 @@
 
     {
     "user":"	Werder Bremen vs RB Leipzig",
-    "pageUrl" : "https://www.livedoomovies.com/02_PremierHD2_480p/chunklist.m3u8",
+    "pageUrl" : "http://185.132.177.110:8080/COSMOTESport7HD/video.m3u8",
     "type" : "Germany - Bundesliga",
     "webFormatUrl" : "https://1000logos.net/wp-content/uploads/2018/10/German-Bundesliga-logo.png"
   },
      {
     "user":"Bayern München vs Union Berlin",
-    "pageUrl" : "https://www.livedoomovies.com/02_PremierHD2_480p/chunklist.m3u8",
+    "pageUrl" : "http://185.132.177.110:8080/COSMOTESport3HD/video.m3u8",
     "type" : "Germany - Bundesliga",
     "webFormatUrl" : "https://1000logos.net/wp-content/uploads/2018/10/German-Bundesliga-logo.png"
   },
      {
     "user":"Eintracht Frankfurt vs Wolfsburg",
-    "pageUrl" : "https://www.livedoomovies.com/02_PremierHD2_480p/chunklist.m3u8",
+    "pageUrl" : "http://185.132.177.110:8080/COSMOTESport8HD/video.m3u8",
     "type" : "Germany - Bundesliga",
     "webFormatUrl" : "https://1000logos.net/wp-content/uploads/2018/10/German-Bundesliga-logo.png"
   },
      {
     "user":"Hertha BSC vs Borussia M'gladbach",
-    "pageUrl" : "https://www.livedoomovies.com/02_PremierHD2_480p/chunklist.m3u8",
+    "pageUrl" : "http://185.132.177.110:8080/COSMOTESport9HD/video.m3u8",
     "type" : "Germany - Bundesliga",
     "webFormatUrl" : "https://1000logos.net/wp-content/uploads/2018/10/German-Bundesliga-logo.png"
   },
@@ -72,7 +72,7 @@
   },
      {
     "user":"Liverpool vs Aston Villa HD",
-    "pageUrl" : "https://www.livedoomovies.com/02_PremierHD2_480p/chunklist.m3u8",
+    "pageUrl" : "https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8",
     "type" : "England - Premier League",
     "webFormatUrl" : "https://i.pinimg.com/originals/23/72/64/23726435c00fa8a9ca4dca88bb0b9cd7.png"
   },
