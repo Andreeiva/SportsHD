@@ -8,18 +8,7 @@
     
 
     
-   {
-    "user":"	Liverpool vs Aston Villa SD",
-    "pageUrl" : "https://www.livedoomovies.com/02_PremierHD2_480p/chunklist.m3u8",
-    "type" : "England - Premier League",
-    "webFormatUrl" : "https://i.pinimg.com/originals/23/72/64/23726435c00fa8a9ca4dca88bb0b9cd7.png"
-  },
-     {
-    "user":"Liverpool vs Aston Villa HD",
-    "pageUrl" : "https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8",
-    "type" : "England - Premier League",
-    "webFormatUrl" : "https://i.pinimg.com/originals/23/72/64/23726435c00fa8a9ca4dca88bb0b9cd7.png"
-  },
+   
      {
     "user":"Athletic Club vs Deportivo Alavés SD",
     "pageUrl" : "http://cdn.addressingethernet.xyz/hls/103.m3u8",
@@ -35,7 +24,7 @@
   },
      {
     "user":"Parma vs Milan HD1",
-    "pageUrl" : "http://93.157.62.180/ArenaSport1/index.m3u8",
+    "pageUrl" : "http://93.157.62.180/ArenaSport2/index.m3u8",
     "type" : "Italy - Serie A",
     "webFormatUrl" : "https://i.pinimg.com/474x/2e/86/50/2e86505cb4d1d37b4a40a30b3162169a.jpg"
   },
