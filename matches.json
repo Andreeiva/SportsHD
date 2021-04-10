@@ -3,18 +3,7 @@
   "hits": [
     
      
-    {
-    "user":"Manchester City vs Leeds United SD",
-    "pageUrl" : "https://www.livedoomovies.com/02_PremierHD2_480p/chunklist.m3u8",
-    "type" : "England - Premier League",
-    "webFormatUrl" : "https://i.pinimg.com/originals/23/72/64/23726435c00fa8a9ca4dca88bb0b9cd7.png"
-  },
-     {
-    "user":"Manchester City vs Leeds United HD",
-    "pageUrl" : "https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8",
-    "type" : "England - Premier League",
-    "webFormatUrl" : "https://i.pinimg.com/originals/23/72/64/23726435c00fa8a9ca4dca88bb0b9cd7.png"
-  },
+  
     {
     "user":"Getafe vs Cádiz SD",
     "pageUrl" : "http://cdn.addressingethernet.xyz/hls/103.m3u8",
@@ -77,8 +66,15 @@
     "webFormatUrl" : "https://i.pinimg.com/originals/23/72/64/23726435c00fa8a9ca4dca88bb0b9cd7.png"
   },
      {
-    "user":"Athletic Club vs Deportivo Alavés",
-    "pageUrl" : "https://www.livedoomovies.com/02_PremierHD2_480p/chunklist.m3u8",
+    "user":"Athletic Club vs Deportivo Alavés SD",
+    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/103.m3u8",
+    "type" : "Spain - La Liga",
+    "webFormatUrl" : "https://iscreativestudio.com/wp-content/uploads/2016/08/logotipos4.jpg"
+  },
+     {
+    "user":"Athletic Club vs Deportivo Alavés HD",
+    "pageUrl" :  "https://chostv.mobie.in/choos/sports/matchqy1.m3u8",
+",
     "type" : "Spain - La Liga",
     "webFormatUrl" : "https://iscreativestudio.com/wp-content/uploads/2016/08/logotipos4.jpg"
   },
