@@ -10,65 +10,39 @@
     
    
      
-     {
-    "user":"Parma vs Milan HD1",
-    "pageUrl" : "http://93.157.62.180/ArenaSport2/index.m3u8",
-    "type" : "Italy - Serie A",
-    "webFormatUrl" : "https://i.pinimg.com/474x/2e/86/50/2e86505cb4d1d37b4a40a30b3162169a.jpg"
-  },
-{
-    "user":"Parma vs Milan SD",
-    "pageUrl" : "http://23.237.78.54/live-1000/267/playlist.m3u8",
-    "type" : "Italy - Serie A",
-    "webFormatUrl" : "https://i.pinimg.com/474x/2e/86/50/2e86505cb4d1d37b4a40a30b3162169a.jpg"
-  },
+    
 
-     {
-    "user":"Crystal Palace vs Chelsea SD",
-    "pageUrl" : "https://www.livedoomovies.com/02_PremierHD2_480p/chunklist.m3u8",
-    "type" : "England - Premier League",
-    "webFormatUrl" : "https://i.pinimg.com/originals/23/72/64/23726435c00fa8a9ca4dca88bb0b9cd7.png"
-  },
-     {
-    "user":"Crystal Palace vs Chelsea HD",
-    "pageUrl" : "https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8",
-    "type" : "England - Premier League",
-    "webFormatUrl" : "https://i.pinimg.com/originals/23/72/64/23726435c00fa8a9ca4dca88bb0b9cd7.png"
-  },
-      {
-    "user":"Eibar vs Levante SD",
-    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/103.m3u8",
-    "type" : "Spain - La Liga",
-    "webFormatUrl" : "https://iscreativestudio.com/wp-content/uploads/2016/08/logotipos4.jpg"
-  },
-
-  {
-    "user":"Eibar vs Levante HD",
-    "pageUrl" : "https://chostv.mobie.in/choos/sports/matchqy1.m3u8",
-    "type" : "Spain - La Liga",
-    "webFormatUrl" : "https://iscreativestudio.com/wp-content/uploads/2016/08/logotipos4.jpg"
-  },
-    {
-    "user":"Stuttgart vs Borussia Dortmund",
-    "pageUrl" : "http://185.132.177.110:8080/COSMOTESport3HD/video.m3u8",
-    "type" : "Germany - Bundesliga",
-    "webFormatUrl" : "https://1000logos.net/wp-content/uploads/2018/10/German-Bundesliga-logo.png"
-  },
+     
       {
     "user":"Udinese vs Torino",
-    "pageUrl" : "https://www.livedoomovies.com/02_PremierHD2_480p/chunklist.m3u8",
+    "pageUrl" : "http://93.157.62.180/ArenaSport2/index.m3u8",
     "type" : "Italy - Serie A",
     "webFormatUrl" : "https://i.pinimg.com/474x/2e/86/50/2e86505cb4d1d37b4a40a30b3162169a.jpg"
   },
      {
     "user":"	Real Madrid vs Barcelona SD",
-    "pageUrl" : "https://www.livedoomovies.com/02_PremierHD2_480p/chunklist.m3u8",
+    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/103.m3u8",
     "type" : "Spain - La Liga",
     "webFormatUrl" : "https://iscreativestudio.com/wp-content/uploads/2016/08/logotipos4.jpg"
   },
+
+{
+    "user":"	Real Madrid vs Barcelona SD 2",
+    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/103.m3u8",
+    "type" : "Spain - La Liga",
+    "webFormatUrl" : "https://iscreativestudio.com/wp-content/uploads/2016/08/logotipos4.jpg"
+  },
+
+{
+    "user":"	Real Madrid vs Barcelona HD1(ENGLISH)",
+    "pageUrl" : "https://www.livedoomovies.com/02_epl1_720p_UK/chunklist.m3u8",
+    "type" : "Spain - La Liga",
+    "webFormatUrl" : "https://iscreativestudio.com/wp-content/uploads/2016/08/logotipos4.jpg"
+  },
+
      {
-    "user":"	Real Madrid vs Barcelona HD",
-    "pageUrl" : "https://www.livedoomovies.com/02_PremierHD2_480p/chunklist.m3u8",
+    "user":"	Real Madrid vs Barcelona HD 2",
+    "pageUrl" : "https://chostv.mobie.in/choos/sports/matchqy1.m3u8",
     "type" : "Spain - La Liga",
     "webFormatUrl" : "https://iscreativestudio.com/wp-content/uploads/2016/08/logotipos4.jpg"
   },
