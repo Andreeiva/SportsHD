@@ -9,19 +9,7 @@
 
     
    
-     {
-    "user":"Athletic Club vs Deportivo Alavés SD",
-    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/103.m3u8",
-    "type" : "Spain - La Liga",
-    "webFormatUrl" : "https://iscreativestudio.com/wp-content/uploads/2016/08/logotipos4.jpg"
-  },
-     {
-    "user":"Athletic Club vs Deportivo Alavés HD",
-    "pageUrl" :  "https://chostv.mobie.in/choos/sports/matchqy1.m3u8",
-
-    "type" : "Spain - La Liga",
-    "webFormatUrl" : "https://iscreativestudio.com/wp-content/uploads/2016/08/logotipos4.jpg"
-  },
+     
      {
     "user":"Parma vs Milan HD1",
     "pageUrl" : "http://93.157.62.180/ArenaSport2/index.m3u8",
@@ -48,14 +36,21 @@
     "webFormatUrl" : "https://i.pinimg.com/originals/23/72/64/23726435c00fa8a9ca4dca88bb0b9cd7.png"
   },
       {
-    "user":"Eibar vs Levante",
-    "pageUrl" : "https://www.livedoomovies.com/02_PremierHD2_480p/chunklist.m3u8",
+    "user":"Eibar vs Levante SD",
+    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/103.m3u8",
     "type" : "Spain - La Liga",
     "webFormatUrl" : "https://iscreativestudio.com/wp-content/uploads/2016/08/logotipos4.jpg"
   },
-      {
+
+  {
+    "user":"Eibar vs Levante HD",
+    "pageUrl" : "https://chostv.mobie.in/choos/sports/matchqy1.m3u8",
+    "type" : "Spain - La Liga",
+    "webFormatUrl" : "https://iscreativestudio.com/wp-content/uploads/2016/08/logotipos4.jpg"
+  },
+    {
     "user":"Stuttgart vs Borussia Dortmund",
-    "pageUrl" : "https://www.livedoomovies.com/02_PremierHD2_480p/chunklist.m3u8",
+    "pageUrl" : "http://185.132.177.110:8080/COSMOTESport8HD/video.m3u8",
     "type" : "Germany - Bundesliga",
     "webFormatUrl" : "https://1000logos.net/wp-content/uploads/2018/10/German-Bundesliga-logo.png"
   },
