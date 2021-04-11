@@ -1,25 +1,6 @@
 
 { 
   "hits": [
-    
-     
-  
-   
-    
-    {
-    "user":"Villarreal vs Osasuna SD",
-    "pageUrl" : "http://23.237.78.54/live-1000/263/playlist.m3u8",
-    "type" : "Spain - La Liga",
-    "webFormatUrl" : "https://footballwhispers.com/wp-content/uploads/2020/09/La-liga-560x215.png"
-  },
-
-
-{
-    "user":"Villarreal vs Osasuna SD",
-    "pageUrl" : "https://chostv.mobie.in/choos/sports/matchqy1.m3u8",
-    "type" : "Spain - La Liga",
-    "webFormatUrl" : "https://footballwhispers.com/wp-content/uploads/2020/09/La-liga-560x215.png"
-  },
     {
     "user":"Juventus vs Genoa SD",
     "pageUrl" : "http://23.237.78.54/live-1000/244/playlist.m3u8",
@@ -29,7 +10,7 @@
 
 {
     "user":"Juventus vs Genoa HD",
-    "pageUrl" : "http://93.157.62.180/ArenaSport3/index.m3u8",
+    "pageUrl" : "https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8",
     "type" : "Italy - Serie A",
     "webFormatUrl" : "https://i.pinimg.com/474x/2e/86/50/2e86505cb4d1d37b4a40a30b3162169a.jpg"
   },
@@ -55,7 +36,7 @@
 
 {
     "user":"West Ham United vs Leicester City  HD",
-    "pageUrl" : "https://www.livedoomovies.com/02_epl1_720p_UK/chunklist.m3u8",
+    "pageUrl" : "https://www.livedoomovies.com/02_PremierHD2_480p/chunklist.m3u8",
     "type" : "England - Premier League",
     "webFormatUrl" : "https://i.pinimg.com/originals/23/72/64/23726435c00fa8a9ca4dca88bb0b9cd7.png"
   },
@@ -67,7 +48,7 @@
   },
     {
     "user":"Valencia vs Real Sociedad",
-    "pageUrl" : "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8",
+    "pageUrl" : "http://23.237.78.54/live-1000/263/playlist.m3u8",
     "type" : "Spain - La Liga",
     "webFormatUrl" : "https://footballwhispers.com/wp-content/uploads/2020/09/La-liga-560x215.png"
   },
