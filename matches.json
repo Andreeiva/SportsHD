@@ -6,27 +6,6 @@
   
     
 
-{
-    "user":"Internazionale vs Cagliari HD1",
-    "pageUrl" : "http://77.83.117.60:8888/02_SPORTTV_3_720p/chunklist.m3u8",
-    "type" : "Italy - Serie A",
-    "webFormatUrl" : "https://i.pinimg.com/474x/2e/86/50/2e86505cb4d1d37b4a40a30b3162169a.jpg"
-  },
-
-
-{
-    "user":"Internazionale vs Cagliari HD2",
-    "pageUrl" : "http://93.157.62.180/ArenaSport1/index.m3u8",
-    "type" : "Italy - Serie A",
-    "webFormatUrl" : "https://i.pinimg.com/474x/2e/86/50/2e86505cb4d1d37b4a40a30b3162169a.jpg"
-  },
-
-{
-    "user":"Internazionale vs Cagliari SD",
-    "pageUrl" : "http://23.237.78.54/live-1000/244/playlist.m3u8",
-    "type" : "Italy - Serie A",
-    "webFormatUrl" : "https://i.pinimg.com/474x/2e/86/50/2e86505cb4d1d37b4a40a30b3162169a.jpg"
-  },
 
     {
     "user":"Burnley vs Newcastle United  HD 1",
