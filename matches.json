@@ -16,7 +16,7 @@
   },
     {
     "user":"Sampdoria vs Napoli",
-    "pageUrl" : "http://93.157.62.180/ArenaSport2/index.m3u8",
+    "pageUrl" : "http://51.91.25.152:8080/ARENA_SPORT2/index.m3u8?token=test",
     "type" : "Italy - Serie A",
     "webFormatUrl" : "https://i.pinimg.com/474x/2e/86/50/2e86505cb4d1d37b4a40a30b3162169a.jpg"
   },
