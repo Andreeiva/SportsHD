@@ -7,37 +7,37 @@
      
  {
     "user":"LIVERPOOL VS REAL MADRID  SD",
-    "pageUrl" : "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8",
+    "pageUrl" : "http://23.237.78.54/live-1000/244/playlist.m3u8",
     "type" : "UEFA CHAMPIONS LEAGUE",
     "webFormatUrl" : "https://static.dw.com/image/16392542_303.jpg"
   },
      {
     "user":"LIVERPOOL VS REAL MADRID  HD 1",
-    "pageUrl" : "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8",
+    "pageUrl" : "https://www.livedoomovies.com/02_epl1_720p_UK/chunklist.m3u8",
     "type" : "UEFA CHAMPIONS LEAGUE",
     "webFormatUrl" : "https://static.dw.com/image/16392542_303.jpg"
   },
      {
     "user":"LIVERPOOL VS REAL MADRID  HD2",
-    "pageUrl" : "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8",
+    "pageUrl" : "https://www.livedoomovies.com/02_epl1_720p_UK/chunklist.m3u8",
     "type" : "UEFA CHAMPIONS LEAGUE",
     "webFormatUrl" : "https://static.dw.com/image/16392542_303.jpg"
   },
    {
     "user":"BORRUSIA DORTMUND VS MANCHESTER CITY SD",
-    "pageUrl" : "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8",
+    "pageUrl" : "http://23.237.78.54/live-1000/263/playlist.m3u8",
     "type" : "UEFA CHAMPIONS LEAGUE",
     "webFormatUrl" : "https://static.dw.com/image/16392542_303.jpg"
   },
      {
     "user":"BORRUSIA DORTMUND VS MANCHESTER CITY HD1",
-    "pageUrl" : "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8",
+    "pageUrl" : "https://www.livedoomovies.com/02_epl2_720p_UK/chunklist.m3u8",
     "type" : "UEFA CHAMPIONS LEAGUE",
     "webFormatUrl" : "https://static.dw.com/image/16392542_303.jpg"
   },
      {
     "user":"BORRUSIA DORTMUND VS MANCHESTER CITY HD2",
-    "pageUrl" : "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8",
+    "pageUrl" : "https://www.livedoomovies.com/02_epl2_720p_UK/chunklist.m3u8",
     "type" : "UEFA CHAMPIONS LEAGUE",
     "webFormatUrl" : "https://static.dw.com/image/16392542_303.jpg"
   },
