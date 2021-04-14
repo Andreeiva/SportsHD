@@ -5,125 +5,44 @@
      
       
      
- 
-    
-    
-{
-   "user":"CHELSEA VS FC PORTO",
-    "pageUrl" : "https://drevanet.com/wp-content/uploads/2021/04/chelsea-vs-fc-porto.mp4",
-    "type" : "UEFA champions league highlights",
-    "webFormatUrl" : "https://static.dw.com/image/16392542_303.jpg"
-  },
-
-    
-    
-{
-    "user":"PSG VS BAYERN MÜNCHEN",
-    "pageUrl" : "https://drevanet.com/wp-content/uploads/2021/04/psg-vs-bayern.mp4",
-    "type" : "UEFA champions league highlights",
-    "webFormatUrl" : "https://static.dw.com/image/16392542_303.jpg"
-  },
-
-    {
-    "user":"Sheffield United Vs Arsenal",
-    "pageUrl" : "https://www.buaksib.com/wp-content/uploads/2021/04/Sheffield_United_Vs_Arsenal_11_04_2021.mp4",
-    "type" : "EPL HIGHLIGHT",
-    "webFormatUrl" : "https://i.pinimg.com/originals/23/72/64/23726435c00fa8a9ca4dca88bb0b9cd7.png"
-  },
-      {
-    "user":"Tottenham Hotspur Vs Manchester United",
-    "pageUrl" : "https://www.buaksib.com/wp-content/uploads/2021/04/Spurs_Vs_ManU_11_04_21.mp4",
-    "type" : "EPL HIGHLIGHT",
-    "webFormatUrl" : "https://i.pinimg.com/originals/23/72/64/23726435c00fa8a9ca4dca88bb0b9cd7.png"
-  },
-      {
-    "user":"West Ham United vs Leicester City",
-    "pageUrl" : "https://www.buaksib.com/wp-content/uploads/2021/04/WestHam_Vs_Leicester_11_04_21.mp4",
-    "type" : "EPL HIGHLIGHT",
-    "webFormatUrl" : "https://i.pinimg.com/originals/23/72/64/23726435c00fa8a9ca4dca88bb0b9cd7.png"
-  },
-      {
-    "user":"Crystal Palace Vs Chelsea",
-    "pageUrl" : "https://www.buaksib.com/wp-content/uploads/2021/04/Crystal_Palace_Vs_Chelsea_10_04_21.mp4",
-    "type" : "EPL HIGHLIGHT",
-    "webFormatUrl" : "https://i.pinimg.com/originals/23/72/64/23726435c00fa8a9ca4dca88bb0b9cd7.png"
-  },
-      {
-    "user":"Liverpool vs Aston Villa",
-    "pageUrl" : "https://www.buaksib.com/wp-content/uploads/2021/04/Liverpool_Vs_Villa_10_04_21.mp4",
-    "type" : "EPL HIGHLIGHT",
-    "webFormatUrl" : "https://i.pinimg.com/originals/23/72/64/23726435c00fa8a9ca4dca88bb0b9cd7.png"
-  },
-      {
-    "user":"Man_City Vs Leeds",
-    "pageUrl" : "https://www.buaksib.com/wp-content/uploads/2021/04/Man_City_Vs_Leeds_United_10_04_21.mp4",
-    "type" : "EPL HIGHLIGHT",
-    "webFormatUrl" : "https://i.pinimg.com/originals/23/72/64/23726435c00fa8a9ca4dca88bb0b9cd7.png"
-  },
-     {
-    "user":"AS_Roma Vs Bologna",
-    "pageUrl" : "https://www.buaksib.com/wp-content/uploads/2021/04/AS_Roma_Vs_Bologna_11_04_2021.mp4",
-    "type" : "SERIE A HIGHLIGHTS",
-    "webFormatUrl" : "https://i.pinimg.com/474x/2e/86/50/2e86505cb4d1d37b4a40a30b3162169a.jpg"
-  },
-     {
-    "user":"Sampdoria Vs Napoli",
-    "pageUrl" : "https://www.buaksib.com/wp-content/uploads/2021/04/Sampdoria_Vs_Napoli_11_04_21.mp4",
-    "type" : "SERIE A HIGHLIGHTS",
-    "webFormatUrl" : "https://i.pinimg.com/474x/2e/86/50/2e86505cb4d1d37b4a40a30b3162169a.jpg"
-  },
-     {
-    "user":"Juventus Vs Genoa",
-    "pageUrl" : "https://www.buaksib.com/wp-content/uploads/2021/04/Juventus_Vs_Genoa_11-04-64.mp4",
-    "type" : "SERIE A HIGHLIGHTS",
-    "webFormatUrl" : "https://i.pinimg.com/474x/2e/86/50/2e86505cb4d1d37b4a40a30b3162169a.jpg"
-  },
-    
-     {
-    "user":"Parma Vs AC Milan",
-    "pageUrl" : "https://www.buaksib.com/wp-content/uploads/2021/04/Parma_Vs_AC_Milan_10_04_21.mp4",
-    "type" : "SERIE A HIGHLIGHTS",
-    "webFormatUrl" : "https://i.pinimg.com/474x/2e/86/50/2e86505cb4d1d37b4a40a30b3162169a.jpg"
-  },
-    {
-    "user":"Inter Vs Cagliari",
-    "pageUrl" : "https://www.buaksib.com/wp-content/uploads/2021/04/Inter_Vs_Cagliari_11_04_21.mp4",
-    "type" : "SERIE A HIGHLIGHTS",
-    "webFormatUrl" : "https://i.pinimg.com/474x/2e/86/50/2e86505cb4d1d37b4a40a30b3162169a.jpg"
-  },
-    
-     {
-    "user":"LIVE SPORTS",
+ {
+    "user":"LIVERPOOL VS REAL MADRID  SD",
     "pageUrl" : "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8",
-    "type" : "SPORTS AT ITS BEST",
-    "webFormatUrl" : "https://st2.depositphotos.com/4035061/9849/v/950/depositphotos_98497236-stock-illustration-tiger-a-sports-logo.jpg"
-  },
-
-{
-    "user":"LIVE SPORTS",
-    "pageUrl" : "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8",
-    "type" : "SPORTS AT ITS BEST",
-    "webFormatUrl" : "https://st2.depositphotos.com/4035061/9849/v/950/depositphotos_98497236-stock-illustration-tiger-a-sports-logo.jpg"
-  }
-]
-}
+    "type" : "UEFA CHAMPIONS LEAGUE",
     "webFormatUrl" : "https://static.dw.com/image/16392542_303.jpg"
   },
-
-       
-{
-    "user":"Juventus vs Napoli",
-    "pageUrl" : "https://drevanet.com/wp-content/uploads/2021/04/juventus-vs-napoli.mp4",
-    "type" : "Serie A Highlights",
-    "webFormatUrl" : "https://forzaitalianfootball.com/wp-content/uploads/2020/03/serie-a.png"
+     {
+    "user":"LIVERPOOL VS REAL MADRID  HD 1",
+    "pageUrl" : "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8",
+    "type" : "UEFA CHAMPIONS LEAGUE",
+    "webFormatUrl" : "https://static.dw.com/image/16392542_303.jpg"
   },
-      
-{
-    "user":"Internazionale vs Sassuolo",
-    "pageUrl" : "https://drevanet.com/wp-content/uploads/2021/04/inter-vs-sasuolo.mp4",
-    "type" : "Serie A Highlights",
-    "webFormatUrl" : "https://forzaitalianfootball.com/wp-content/uploads/2020/03/serie-a.png"
+     {
+    "user":"LIVERPOOL VS REAL MADRID  HD2",
+    "pageUrl" : "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8",
+    "type" : "UEFA CHAMPIONS LEAGUE",
+    "webFormatUrl" : "https://static.dw.com/image/16392542_303.jpg"
   },
+   {
+    "user":"BORRUSIA DORTMUND VS MANCHESTER CITY SD",
+    "pageUrl" : "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8",
+    "type" : "UEFA CHAMPIONS LEAGUE",
+    "webFormatUrl" : "https://static.dw.com/image/16392542_303.jpg"
+  },
+     {
+    "user":"BORRUSIA DORTMUND VS MANCHESTER CITY HD1",
+    "pageUrl" : "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8",
+    "type" : "UEFA CHAMPIONS LEAGUE",
+    "webFormatUrl" : "https://static.dw.com/image/16392542_303.jpg"
+  },
+     {
+    "user":"BORRUSIA DORTMUND VS MANCHESTER CITY HD2",
+    "pageUrl" : "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8",
+    "type" : "UEFA CHAMPIONS LEAGUE",
+    "webFormatUrl" : "https://static.dw.com/image/16392542_303.jpg"
+  },
+    
+    
 
     
 {
