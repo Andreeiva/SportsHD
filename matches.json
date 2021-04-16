@@ -5,22 +5,22 @@
      
       
 {
-    "user":"RB LEIPZIG  VS HOFFENHAIM SD",
-    "pageUrl" : "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8",
+    "user":"RB LEIPZIG  VS HOFFENHAIM HD",
+    "pageUrl" : "http://185.180.221.194:8278/streams/d/Assp2/playlist.m3u8",
     "type" : "BUNDESLIGA",
     "webFormatUrl" : "https://i.pinimg.com/originals/33/fa/e3/33fae357c48ffd325d57e4a7a6de2e4e.png"
   },
 
 {
     "user":"EVERTON VS TOTTEHNAM HOTSPURS  SD",
-    "pageUrl" : "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8",
+    "pageUrl" : "https://www.livedoomovies.com/02_PremierHD2_480p/chunklist.m3u8",
     "type" : "ENGLISH PREMIER LEAGUE",
     "webFormatUrl" : "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
   },
 
 {
     "user":"EVERTON VS TOTTEHNAM HOTSPURS  HD",
-    "pageUrl" : "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8",
+    "pageUrl" : "https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8",
     "type" : "ENGLISH PREMIER LEAGUE",
     "webFormatUrl" : "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
   },
