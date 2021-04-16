@@ -3,55 +3,26 @@
   "hits": [
     
      
-      {
-     "user":"MANCHESTER UNITED VS GRANADA SD",
-    "pageUrl" : "http://23.237.78.54/live-1000/244/playlist.m3u8",
-    "type" : "UEFA EUROPA LEAGUE",
-    "webFormatUrl" : "https://editorial.uefa.com/resources/0245-0e68c0092785-07f007d1a562-1000/2561767.jpg"
-  },
-
-
-      {
-     "user":"MANCHESTER UNITED VS GRANADA HD",
-    "pageUrl" : "https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8",
-    "type" : "UEFA EUROPA LEAGUE",
-    "webFormatUrl" : "https://editorial.uefa.com/resources/0245-0e68c0092785-07f007d1a562-1000/2561767.jpg"
-  },
-   
-
+      
 {
-      "user":"ROMA VS AJAX HD",
-    "pageUrl" : "https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8",
-    "type" : "UEFA EUROPA LEAGUE",
-    "webFormatUrl" : "https://editorial.uefa.com/resources/0245-0e68c0092785-07f007d1a562-1000/2561767.jpg"
-  },
-
-{
-     "user":"SLAVIA PRAGUE VS ARSENAL SD",
-    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/102.m3u8",
-    "type" : "UEFA EUROPA LEAGUE",
-    "webFormatUrl" : "https://editorial.uefa.com/resources/0245-0e68c0092785-07f007d1a562-1000/2561767.jpg"
-  },
-
-{
-     "user":"SLAVIA PRAGUE VS ARSENAL HD",
-    "pageUrl" : "https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8",
-    "type" : "UEFA EUROPA LEAGUE",
-    "webFormatUrl" : "https://editorial.uefa.com/resources/0245-0e68c0092785-07f007d1a562-1000/2561767.jpg"
-  },
-
-
-{
-     "user":"VILLARREAL  VS  DYNAMO  ZAGREB HD",
-    "pageUrl" : "https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8",
-    "type" : "UEFA EUROPA LEAGUE",
-    "webFormatUrl" : "https://editorial.uefa.com/resources/0245-0e68c0092785-07f007d1a562-1000/2561767.jpg"
-  },
-{
-    "user":"LIVE SPORTS",
+    "user":"RB LEIPZIG  VS HOFFENHAIM SD",
     "pageUrl" : "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8",
-    "type" : "SPORTS AT ITS BEST",
-    "webFormatUrl" : "https://st2.depositphotos.com/4035061/9849/v/950/depositphotos_98497236-stock-illustration-tiger-a-sports-logo.jpg"
+    "type" : "BUNDESLIGA",
+    "webFormatUrl" : "https://i.pinimg.com/originals/33/fa/e3/33fae357c48ffd325d57e4a7a6de2e4e.png"
+  },
+
+{
+    "user":"EVERTON VS TOTTEHNAM HOTSPURS  SD",
+    "pageUrl" : "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8",
+    "type" : "ENGLISH PREMIER LEAGUE",
+    "webFormatUrl" : "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+  },
+
+{
+    "user":"EVERTON VS TOTTEHNAM HOTSPURS  HD",
+    "pageUrl" : "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8",
+    "type" : "ENGLISH PREMIER LEAGUE",
+    "webFormatUrl" : "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
   },
 {
     "user":"LIVE SPORTS",
