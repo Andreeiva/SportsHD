@@ -1,44 +1,16 @@
 
 { 
   "hits": [
-    
-    
+    {
+    "user":"	Cagliari vs Parma SD",
+    "pageUrl" : "http://93.157.62.180/ArenaSport3/index.m3u8",
+    "type" : "ITALIAN SERIE A",
+    "webFormatUrl" : "https://i.pinimg.com/474x/2e/86/50/2e86505cb4d1d37b4a40a30b3162169a.jpg"
+  },
 
 {
-    "user":"Sassuolo vs Fiorentina SD",
-    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/109.m3u8",
-    "type" : "ITALIAN SERIE A",
-    "webFormatUrl" : "https://i.pinimg.com/474x/2e/86/50/2e86505cb4d1d37b4a40a30b3162169a.jpg"
-  },
-    {
-    "user":"Sassuolo vs Fiorentina HD",
-    "pageUrl" : "https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8",
-    "type" : "ITALIAN SERIE A",
-    "webFormatUrl" : "https://i.pinimg.com/474x/2e/86/50/2e86505cb4d1d37b4a40a30b3162169a.jpg"
-  },
-    
-      {
-    "user":"Bayer Leverkusen vs Köln",
-    "pageUrl" : "http://185.180.221.194:8278/streams/d/Assp2/playlist.m3u8",
-    "type" : "BUNDESLIGA",
-    "webFormatUrl" : "https://i.pinimg.com/originals/33/fa/e3/33fae357c48ffd325d57e4a7a6de2e4e.png"
-  },
-{
-    "user":"	Chelsea vs Manchester City  SD",
-    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/118.m3u8",
-    "type" : "ENGLISH FA CUP",
-    "webFormatUrl" : "https://iconape.com/wp-content/png_logo_vector/fa-cup-logo.png"
-  },
-    {
-    "user":"	Chelsea vs Manchester City  HD",
-    "pageUrl" : "https://www.livedoomovies.com/02_epl1_720p_UK/chunklist.m3u8",
-    "type" : "ENGLISH FA CUP",
-    "webFormatUrl" : "https://iconape.com/wp-content/png_logo_vector/fa-cup-logo.png"
-  },
-    
-    {
-    "user":"	Cagliari vs Parma ",
-    "pageUrl" : "https://www.livedoomovies.com/02_PremierHD2_480p/chunklist.m3u8",
+    "user":"	Cagliari vs Parma HD",
+    "pageUrl" : "http://93.157.62.180/ArenaSport3/index.m3u8",
     "type" : "ITALIAN SERIE A",
     "webFormatUrl" : "https://i.pinimg.com/474x/2e/86/50/2e86505cb4d1d37b4a40a30b3162169a.jpg"
   },
