@@ -20,27 +20,15 @@
 
 {
     "user":"	Crotone vs Udinese ",
-    "pageUrl" : "https://www.livedoomovies.com/02_PremierHD2_480p/chunklist.m3u8",
+    "pageUrl" : "http://93.157.62.180/ArenaSport2/index.m3u8",
     "type" : "ITALIAN SERIE A",
     "webFormatUrl" : "https://i.pinimg.com/474x/2e/86/50/2e86505cb4d1d37b4a40a30b3162169a.jpg"
   },
     {
     "user":"Sampdoria vs Hellas Verona ",
-    "pageUrl" : "https://www.livedoomovies.com/02_PremierHD2_480p/chunklist.m3u8",
+    "pageUrl" : "http://93.157.62.180/ArenaSport1/index.m3u8",
     "type" : "ITALIAN SERIE A",
     "webFormatUrl" : "https://i.pinimg.com/474x/2e/86/50/2e86505cb4d1d37b4a40a30b3162169a.jpg"
-  },
-{
-    "user":"Freiburg vs Schalke 04",
-    "pageUrl" : "http://185.180.221.194:8278/streams/d/Assp2/playlist.m3u8",
-    "type" : "BUNDESLIGA",
-    "webFormatUrl" : "https://i.pinimg.com/originals/33/fa/e3/33fae357c48ffd325d57e4a7a6de2e4e.png"
-  },
-    {
-    "user":"	Union Berlin vs Stuttgart",
-    "pageUrl" : "http://185.180.221.194:8278/streams/d/Assp2/playlist.m3u8",
-    "type" : "BUNDESLIGA",
-    "webFormatUrl" : "https://i.pinimg.com/originals/33/fa/e3/33fae357c48ffd325d57e4a7a6de2e4e.png"
   },
     {
     "user":"Wolfsburg vs Bayern München",
@@ -50,7 +38,7 @@
   },
     {
     "user":"Borussia M'gladbach vs Eintracht Frankfurt",
-    "pageUrl" : "http://185.180.221.194:8278/streams/d/Assp2/playlist.m3u8",
+    "pageUrl" : "http://185.180.221.194:8278/streams/d/Assp1/playlist.m3u8",
     "type" : "BUNDESLIGA",
     "webFormatUrl" : "https://i.pinimg.com/originals/33/fa/e3/33fae357c48ffd325d57e4a7a6de2e4e.png"
   },
