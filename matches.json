@@ -1,51 +1,11 @@
 
 { 
   "hits": [
-    {
-    "user":"Newcastle United vs West Ham United SD",
-    "pageUrl" : "https://www.livedoomovies.com/02_PremierHD2_480p/chunklist.m3u8",
-    "type" : "ENGLISH PREMIER LEAGUE",
-    "webFormatUrl" : "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-  },
-
-{
-    "user":"Newcastle United vs West Ham United  HD",
-    "pageUrl" : "https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8",
-    "type" : "ENGLISH PREMIER LEAGUE",
-    "webFormatUrl" : "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-  },
-     
-      
-
-
-{
-    "user":"	Crotone vs Udinese ",
-    "pageUrl" : "http://93.157.62.180/ArenaSport2/index.m3u8",
-    "type" : "ITALIAN SERIE A",
-    "webFormatUrl" : "https://i.pinimg.com/474x/2e/86/50/2e86505cb4d1d37b4a40a30b3162169a.jpg"
-  },
-    {
-    "user":"Sampdoria vs Hellas Verona ",
-    "pageUrl" : "http://93.157.62.180/ArenaSport1/index.m3u8",
-    "type" : "ITALIAN SERIE A",
-    "webFormatUrl" : "https://i.pinimg.com/474x/2e/86/50/2e86505cb4d1d37b4a40a30b3162169a.jpg"
-  },
-    {
-    "user":"Wolfsburg vs Bayern München",
-    "pageUrl" : "http://185.180.221.194:8278/streams/d/Assp2/playlist.m3u8",
-    "type" : "BUNDESLIGA",
-    "webFormatUrl" : "https://i.pinimg.com/originals/33/fa/e3/33fae357c48ffd325d57e4a7a6de2e4e.png"
-  },
-    {
-    "user":"Borussia M'gladbach vs Eintracht Frankfurt",
-    "pageUrl" : "http://185.180.221.194:8278/streams/d/Assp1/playlist.m3u8",
-    "type" : "BUNDESLIGA",
-    "webFormatUrl" : "https://i.pinimg.com/originals/33/fa/e3/33fae357c48ffd325d57e4a7a6de2e4e.png"
-  },
+    
     
     {
     "user":"Sassuolo vs Fiorentina",
-    "pageUrl" : "https://www.livedoomovies.com/02_PremierHD2_480p/chunklist.m3u8",
+    "pageUrl" : "https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8",
     "type" : "ITALIAN SERIE A",
     "webFormatUrl" : "https://i.pinimg.com/474x/2e/86/50/2e86505cb4d1d37b4a40a30b3162169a.jpg"
   },
@@ -58,13 +18,13 @@
   },
 {
     "user":"	Chelsea vs Manchester City  SD",
-    "pageUrl" : "https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8",
+    "pageUrl" : "https://www.livedoomovies.com/02_epl1_720p_UK/chunklist.m3u8",
     "type" : "ENGLISH FA CUP",
     "webFormatUrl" : "https://iconape.com/wp-content/png_logo_vector/fa-cup-logo.png"
   },
     {
     "user":"	Chelsea vs Manchester City  HD",
-    "pageUrl" : "https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8",
+    "pageUrl" : "https://www.livedoomovies.com/02_epl1_720p_UK/chunklist.m3u8",
     "type" : "ENGLISH FA CUP",
     "webFormatUrl" : "https://iconape.com/wp-content/png_logo_vector/fa-cup-logo.png"
   },
