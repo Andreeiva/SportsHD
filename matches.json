@@ -30,18 +30,25 @@
   },
     {
     "user":"Athletic Club vs Barcelona  SD",
-    "pageUrl" : "https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8",
+    "pageUrl" : "https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8",
     "type" : "Spain - Copa del Rey",
     "webFormatUrl" : "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
   },
     {
-    "user":"Athletic Club vs Barcelona  HD",
-    "pageUrl" : "https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8",
+    "user":"Athletic Club vs Barcelona  HD 1",
+    "pageUrl" : "https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8",
     "type" : "Spain - Copa del Rey",
     "webFormatUrl" : "https://www.soccertimes.com/wp-content/uploads/2018/05/2_6ec4757981.jpg"
   },
+
+
     
-    
+    {
+    "user":"Athletic Club vs Barcelona  HD 2",
+    "pageUrl" : "https://chostv.mobie.in/choos/sports/matchqy1.m3u8",
+    "type" : "Spain - Copa del Rey",
+    "webFormatUrl" : "https://www.soccertimes.com/wp-content/uploads/2018/05/2_6ec4757981.jpg"
+  },
 {
     "user":"LIVE SPORTS",
     "pageUrl" : "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8",
