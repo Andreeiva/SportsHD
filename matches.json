@@ -3,8 +3,15 @@
   "hits": [
     
     
+
+{
+    "user":"Sassuolo vs Fiorentina SD",
+    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/109.m3u8",
+    "type" : "ITALIAN SERIE A",
+    "webFormatUrl" : "https://i.pinimg.com/474x/2e/86/50/2e86505cb4d1d37b4a40a30b3162169a.jpg"
+  },
     {
-    "user":"Sassuolo vs Fiorentina",
+    "user":"Sassuolo vs Fiorentina HD",
     "pageUrl" : "https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8",
     "type" : "ITALIAN SERIE A",
     "webFormatUrl" : "https://i.pinimg.com/474x/2e/86/50/2e86505cb4d1d37b4a40a30b3162169a.jpg"
