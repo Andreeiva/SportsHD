@@ -1,29 +1,120 @@
 
 { 
   "hits": [
-    
-     
-      
-{
-    "user":"RB LEIPZIG  VS HOFFENHAIM HD",
-    "pageUrl" : "http://185.180.221.194:8278/streams/d/Assp2/playlist.m3u8",
-    "type" : "BUNDESLIGA",
-    "webFormatUrl" : "https://i.pinimg.com/originals/33/fa/e3/33fae357c48ffd325d57e4a7a6de2e4e.png"
-  },
-
-{
-    "user":"EVERTON VS TOTTEHNAM HOTSPURS  SD",
+    {
+    "user":"Newcastle United vs West Ham United SD",
     "pageUrl" : "https://www.livedoomovies.com/02_PremierHD2_480p/chunklist.m3u8",
     "type" : "ENGLISH PREMIER LEAGUE",
     "webFormatUrl" : "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
   },
 
 {
-    "user":"EVERTON VS TOTTEHNAM HOTSPURS  HD",
+    "user":"Newcastle United vs West Ham United  HD",
     "pageUrl" : "https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8",
     "type" : "ENGLISH PREMIER LEAGUE",
     "webFormatUrl" : "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
   },
+     
+      
+
+
+{
+    "user":"	Crotone vs Udinese ",
+    "pageUrl" : "https://www.livedoomovies.com/02_PremierHD2_480p/chunklist.m3u8",
+    "type" : "ITALIAN SERIE A",
+    "webFormatUrl" : "https://i.pinimg.com/474x/2e/86/50/2e86505cb4d1d37b4a40a30b3162169a.jpg"
+  },
+    {
+    "user":"Sampdoria vs Hellas Verona ",
+    "pageUrl" : "https://www.livedoomovies.com/02_PremierHD2_480p/chunklist.m3u8",
+    "type" : "ITALIAN SERIE A",
+    "webFormatUrl" : "https://i.pinimg.com/474x/2e/86/50/2e86505cb4d1d37b4a40a30b3162169a.jpg"
+  },
+{
+    "user":"Freiburg vs Schalke 04",
+    "pageUrl" : "http://185.180.221.194:8278/streams/d/Assp2/playlist.m3u8",
+    "type" : "BUNDESLIGA",
+    "webFormatUrl" : "https://i.pinimg.com/originals/33/fa/e3/33fae357c48ffd325d57e4a7a6de2e4e.png"
+  },
+    {
+    "user":"	Union Berlin vs Stuttgart",
+    "pageUrl" : "http://185.180.221.194:8278/streams/d/Assp2/playlist.m3u8",
+    "type" : "BUNDESLIGA",
+    "webFormatUrl" : "https://i.pinimg.com/originals/33/fa/e3/33fae357c48ffd325d57e4a7a6de2e4e.png"
+  },
+    {
+    "user":"Wolfsburg vs Bayern München",
+    "pageUrl" : "http://185.180.221.194:8278/streams/d/Assp2/playlist.m3u8",
+    "type" : "BUNDESLIGA",
+    "webFormatUrl" : "https://i.pinimg.com/originals/33/fa/e3/33fae357c48ffd325d57e4a7a6de2e4e.png"
+  },
+    {
+    "user":"Borussia M'gladbach vs Eintracht Frankfurt",
+    "pageUrl" : "http://185.180.221.194:8278/streams/d/Assp2/playlist.m3u8",
+    "type" : "BUNDESLIGA",
+    "webFormatUrl" : "https://i.pinimg.com/originals/33/fa/e3/33fae357c48ffd325d57e4a7a6de2e4e.png"
+  },
+    
+    {
+    "user":"Sassuolo vs Fiorentina",
+    "pageUrl" : "https://www.livedoomovies.com/02_PremierHD2_480p/chunklist.m3u8",
+    "type" : "ITALIAN SERIE A",
+    "webFormatUrl" : "https://i.pinimg.com/474x/2e/86/50/2e86505cb4d1d37b4a40a30b3162169a.jpg"
+  },
+    
+      {
+    "user":"Bayer Leverkusen vs Köln",
+    "pageUrl" : "http://185.180.221.194:8278/streams/d/Assp2/playlist.m3u8",
+    "type" : "BUNDESLIGA",
+    "webFormatUrl" : "https://i.pinimg.com/originals/33/fa/e3/33fae357c48ffd325d57e4a7a6de2e4e.png"
+  },
+{
+    "user":"	Chelsea vs Manchester City  SD",
+    "pageUrl" : "https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8",
+    "type" : "ENGLISH FA CUP",
+    "webFormatUrl" : "https://iconape.com/wp-content/png_logo_vector/fa-cup-logo.png"
+  },
+    {
+    "user":"	Chelsea vs Manchester City  HD",
+    "pageUrl" : "https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8",
+    "type" : "ENGLISH FA CUP",
+    "webFormatUrl" : "https://iconape.com/wp-content/png_logo_vector/fa-cup-logo.png"
+  },
+    
+    {
+    "user":"	Cagliari vs Parma ",
+    "pageUrl" : "https://www.livedoomovies.com/02_PremierHD2_480p/chunklist.m3u8",
+    "type" : "ITALIAN SERIE A",
+    "webFormatUrl" : "https://i.pinimg.com/474x/2e/86/50/2e86505cb4d1d37b4a40a30b3162169a.jpg"
+  },
+    
+      {
+    "user":"Wolverhampton Wanderers vs Sheffield United SD",
+    "pageUrl" : "https://www.livedoomovies.com/02_PremierHD2_480p/chunklist.m3u8",
+    "type" : "ENGLISH PREMIER LEAGUE",
+    "webFormatUrl" : "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+  },
+
+{
+    "user":"Wolverhampton Wanderers vs Sheffield United  HD",
+    "pageUrl" : "https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8",
+    "type" : "ENGLISH PREMIER LEAGUE",
+    "webFormatUrl" : "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+  },
+    {
+    "user":"Athletic Club vs Barcelona  SD",
+    "pageUrl" : "https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8",
+    "type" : "Spain - Copa del Rey",
+    "webFormatUrl" : "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+  },
+    {
+    "user":"Athletic Club vs Barcelona  HD",
+    "pageUrl" : "https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8",
+    "type" : "Spain - Copa del Rey",
+    "webFormatUrl" : "https://www.soccertimes.com/wp-content/uploads/2018/05/2_6ec4757981.jpg"
+  },
+    
+    
 {
     "user":"LIVE SPORTS",
     "pageUrl" : "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8",
