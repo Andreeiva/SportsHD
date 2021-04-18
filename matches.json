@@ -72,7 +72,14 @@
     "webFormatUrl" : "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
   },
      {
-    "user":"Atlético Madrid vs Eibar",
+    "user":"Atlético Madrid vs Eibar SD",
+    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/103.m3u8",
+    "type" : "SPANISH LA LIGA",
+    "webFormatUrl" : "https://1000logos.net/wp-content/uploads/2018/10/Spanish-La-Liga-logo.png"
+  },
+
+{
+    "user":"Atlético Madrid vs Eibar HD",
     "pageUrl" : "https://www.livedoomovies.com/02_epl2_720p_UK/chunklist.m3u8",
     "type" : "SPANISH LA LIGA",
     "webFormatUrl" : "https://1000logos.net/wp-content/uploads/2018/10/Spanish-La-Liga-logo.png"
