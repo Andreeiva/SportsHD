@@ -57,26 +57,26 @@
   },
      {
     "user":"Lazio vs Benevento",
-    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/109.m3u8",
+    "pageUrl" : "http://93.157.62.180/ArenaSport2/index.m3u8",
     "type" : "ITALIAN SERIE A",
     "webFormatUrl" : "https://i.pinimg.com/474x/2e/86/50/2e86505cb4d1d37b4a40a30b3162169a.jpg"
   },
      {
     "user":"Bologna vs Spezia ",
-    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/109.m3u8",
+    "pageUrl" : "http://93.157.62.180/ArenaSport4/index.m3u8",
     "type" : "ITALIAN SERIE A",
     "webFormatUrl" : "https://i.pinimg.com/474x/2e/86/50/2e86505cb4d1d37b4a40a30b3162169a.jpg"
   },
      {
     "user":"Atalanta vs Juventus",
-    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/109.m3u8",
+    "pageUrl" : "https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8",
     "type" : "ITALIAN SERIE A",
     "webFormatUrl" : "https://i.pinimg.com/474x/2e/86/50/2e86505cb4d1d37b4a40a30b3162169a.jpg"
   },
     
     {
     "user":"Borussia Dortmund vs Werder Bremen",
-    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/103.m3u8",
+    "pageUrl" : "http://185.180.221.194:8278/streams/d/Assp2/playlist.m3u8",
     "type" : "BUNDESLIGA",
     "webFormatUrl" : "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
   },
