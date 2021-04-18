@@ -50,12 +50,19 @@
 
     
     {
-    "user":"Leicester City vs Southampton",
-    "pageUrl" : "https://chostv.mobie.in/choos/sports/matchqy1.m3u8",
+    "user":"Leicester City vs Southampton HD1",
+    "pageUrl" : "https://www.livedoomovies.com/02_epl1_720p_UK/chunklist.m3u8",
     "type" : "EMIRATES FA CUP",
     "webFormatUrl" : "https://iconape.com/wp-content/png_logo_vector/fa-cup-logo.png"
   },
-    
+
+
+    {
+    "user":"Leicester City vs Southampton HD2",
+    "pageUrl" : "http://185.180.221.194:8278/streams/d/Assp3/playlist.m3u8",
+    "type" : "EMIRATES FA CUP",
+    "webFormatUrl" : "https://iconape.com/wp-content/png_logo_vector/fa-cup-logo.png"
+  },
       {
     "user":"Napoli vs Internazionale",
     "pageUrl" : "http://cdn.addressingethernet.xyz/hls/109.m3u8",
