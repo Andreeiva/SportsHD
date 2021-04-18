@@ -42,13 +42,22 @@
     "type" : "ENGLISH PREMIER LEAGUE",
     "webFormatUrl" : "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
   },
+{
+    "user":"Torino vs Roma SD",
+    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/110.m3u8",
+    "type" : "ITALIAN SERIE A",
+    "webFormatUrl" : "https://i.pinimg.com/474x/2e/86/50/2e86505cb4d1d37b4a40a30b3162169a.jpg"
+  },
+
     
      {
-    "user":"Torino vs Roma",
+    "user":"Torino vs Roma HD",
     "pageUrl" : "https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8",
     "type" : "ITALIAN SERIE A",
     "webFormatUrl" : "https://i.pinimg.com/474x/2e/86/50/2e86505cb4d1d37b4a40a30b3162169a.jpg"
   },
+
+
     {
     "user":"Real Betis vs Valencia",
     "pageUrl" : "http://23.237.78.54/live-1000/267/playlist.m3u8",
