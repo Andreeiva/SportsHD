@@ -1,32 +1,6 @@
 
 { 
   "hits": [
-   
-
-      
-  
-   
-     {
-    "user":"Atlético Madrid vs Eibar SD",
-    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/103.m3u8",
-    "type" : "SPANISH LA LIGA",
-    "webFormatUrl" : "https://1000logos.net/wp-content/uploads/2018/10/Spanish-La-Liga-logo.png"
-  },
-
-{
-    "user":"Atlético Madrid vs Eibar HD",
-    "pageUrl" : "https://www.livedoomovies.com/02_epl2_720p_UK/chunklist.m3u8",
-    "type" : "SPANISH LA LIGA",
-    "webFormatUrl" : "https://1000logos.net/wp-content/uploads/2018/10/Spanish-La-Liga-logo.png"
-  },
-    
-     {
-    "user":"Deportivo Alavés vs Huesca",
-    "pageUrl" : "http://23.237.78.54/live-1000/267/playlist.m3u8",
-    "type" : "SPANISH LA LIGA",
-    "webFormatUrl" : "https://1000logos.net/wp-content/uploads/2018/10/Spanish-La-Liga-logo.png"
-  },
-      
 
 
       {
