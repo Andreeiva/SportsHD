@@ -10,54 +10,7 @@
     
 
     
-    {
-    "user":"Leicester City vs Southampton HD1",
-    "pageUrl" : "https://www.livedoomovies.com/02_epl1_720p_UK/chunklist.m3u8",
-    "type" : "EMIRATES FA CUP",
-    "webFormatUrl" : "https://iconape.com/wp-content/png_logo_vector/fa-cup-logo.png"
-  },
-
-
-    {
-    "user":"Leicester City vs Southampton HD2",
-    "pageUrl" : "http://185.180.221.194:8278/streams/d/Assp3/playlist.m3u8",
-    "type" : "EMIRATES FA CUP",
-    "webFormatUrl" : "https://iconape.com/wp-content/png_logo_vector/fa-cup-logo.png"
-  },
-      {
-    "user":"Napoli vs Internazionale SD",
-    "pageUrl" : "http://23.237.78.54/live-1000/244/playlist.m3u8",
-    "type" : "ITALIAN SERIE A",
-    "webFormatUrl" : "https://i.pinimg.com/474x/2e/86/50/2e86505cb4d1d37b4a40a30b3162169a.jpg"
-  },
-
-{
-    "user":"Napoli vs Internazionale HD",
-    "pageUrl" : "http://93.157.62.180/ArenaSport3/index.m3u8",
-    "type" : "ITALIAN SERIE A",
-    "webFormatUrl" : "https://i.pinimg.com/474x/2e/86/50/2e86505cb4d1d37b4a40a30b3162169a.jpg"
-  },
-
-     {
-    "user":"Getafe vs Real Madrid SD",
-    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/103.m3u8",
-    "type" : "SPANISH LA LIGA",
-    "webFormatUrl" : "https://1000logos.net/wp-content/uploads/2018/10/Spanish-La-Liga-logo.png"
-  },
-
-{
-    "user":"Getafe vs Real Madrid HD",
-    "pageUrl" : "https://www.livedoomovies.com/02_epl2_720p_UK/chunklist.m3u8",
-    "type" : "SPANISH LA LIGA",
-    "webFormatUrl" : "https://1000logos.net/wp-content/uploads/2018/10/Spanish-La-Liga-logo.png"
-  },
     
-     {
-    "user":"Levante vs Villarreal",
-    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/104.m3u8",
-    "type" : "SPANISH LA LIGA",
-    "webFormatUrl" : "https://1000logos.net/wp-content/uploads/2018/10/Spanish-La-Liga-logo.png"
-  },
     
 {
     "user":"LIVE SPORTS",
