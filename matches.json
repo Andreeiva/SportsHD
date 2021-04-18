@@ -21,12 +21,19 @@
     "webFormatUrl" : "https://1000logos.net/wp-content/uploads/2018/10/Spanish-La-Liga-logo.png"
   },
     {
-    "user":"Real Sociedad vs Sevilla",
-    "pageUrl" : "http://ott-cdn.ucom.am/s81/04.m3u8",
+    "user":"Real Sociedad vs Sevilla SD",
+    "pageUrl" : "http://23.237.78.54/live-1000/244/playlist.m3u8",
     "type" : "SPANISH LA LIGA",
     "webFormatUrl" : "https://1000logos.net/wp-content/uploads/2018/10/Spanish-La-Liga-logo.png"
   },
-    
+
+
+   {
+    "user":"Real Sociedad vs Sevilla HD",
+    "pageUrl" : "https://chostv.mobie.in/choos/sports/matchqy1.m3u8",
+    "type" : "SPANISH LA LIGA",
+    "webFormatUrl" : "https://1000logos.net/wp-content/uploads/2018/10/Spanish-La-Liga-logo.png"
+  }, 
       {
     "user":"	Arsenal vs Fulham SD1",
     "pageUrl" : "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8",
