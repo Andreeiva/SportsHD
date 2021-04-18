@@ -5,12 +5,7 @@
 
       
   
-    {
-    "user":"Borussia Dortmund vs Werder Bremen",
-    "pageUrl" : "http://185.180.221.194:8278/streams/d/Assp2/playlist.m3u8",
-    "type" : "BUNDESLIGA",
-    "webFormatUrl" : "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
-  },
+   
      {
     "user":"Atlético Madrid vs Eibar SD",
     "pageUrl" : "http://cdn.addressingethernet.xyz/hls/103.m3u8",
