@@ -64,14 +64,22 @@
     "webFormatUrl" : "https://iconape.com/wp-content/png_logo_vector/fa-cup-logo.png"
   },
       {
-    "user":"Napoli vs Internazionale",
-    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/109.m3u8",
+    "user":"Napoli vs Internazionale SD",
+    "pageUrl" : "http://23.237.78.54/live-1000/244/playlist.m3u8",
     "type" : "ITALIAN SERIE A",
     "webFormatUrl" : "https://i.pinimg.com/474x/2e/86/50/2e86505cb4d1d37b4a40a30b3162169a.jpg"
   },
+
+{
+    "user":"Napoli vs Internazionale HD",
+    "pageUrl" : "https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8",
+    "type" : "ITALIAN SERIE A",
+    "webFormatUrl" : "https://i.pinimg.com/474x/2e/86/50/2e86505cb4d1d37b4a40a30b3162169a.jpg"
+  },
+
      {
     "user":"Getafe vs Real Madrid",
-    "pageUrl" : "http://ott-cdn.ucom.am/s81/04.m3u8",
+    "pageUrl" : "https://www.livedoomovies.com/02_epl2_720p_UK/chunklist.m3u8",
     "type" : "SPANISH LA LIGA",
     "webFormatUrl" : "https://1000logos.net/wp-content/uploads/2018/10/Spanish-La-Liga-logo.png"
   },
