@@ -39,7 +39,14 @@
   },
 
      {
-    "user":"Getafe vs Real Madrid",
+    "user":"Getafe vs Real Madrid SD",
+    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/103.m3u8",
+    "type" : "SPANISH LA LIGA",
+    "webFormatUrl" : "https://1000logos.net/wp-content/uploads/2018/10/Spanish-La-Liga-logo.png"
+  },
+
+{
+    "user":"Getafe vs Real Madrid HD",
     "pageUrl" : "https://www.livedoomovies.com/02_epl2_720p_UK/chunklist.m3u8",
     "type" : "SPANISH LA LIGA",
     "webFormatUrl" : "https://1000logos.net/wp-content/uploads/2018/10/Spanish-La-Liga-logo.png"
