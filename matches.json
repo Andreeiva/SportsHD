@@ -5,20 +5,46 @@
 
      
 {
-    "user":"LEEDS UNITED VS LIVERPOOL SD",
+    "user":"	Köln vs RB Leipzig",
+    "pageUrl" : "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
+    "type" : "BUNDESLIGA",
+    "webFormatUrl" : "https://i.pinimg.com/originals/7d/94/9e/7d949ef54a6dfc5c3b084c1dd0e40e73.png"
+  },
+    
+    {
+    "user":"Arminia Bielefeld vs Schalke 04",
+    "pageUrl" : "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
+    "type" : "BUNDESLIGA",
+    "webFormatUrl" : "https://i.pinimg.com/originals/7d/94/9e/7d949ef54a6dfc5c3b084c1dd0e40e73.png"
+  },
+    {
+    "user":"Eintracht Frankfurt vs Augsburg",
+    "pageUrl" : "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
+    "type" : "BUNDESLIGA",
+    "webFormatUrl" : "https://i.pinimg.com/originals/7d/94/9e/7d949ef54a6dfc5c3b084c1dd0e40e73.png"
+  },
+    {
+    "user":"Bayern München vs Bayer Leverkusen",
+    "pageUrl" : "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
+    "type" : "BUNDESLIGA",
+    "webFormatUrl" : "https://i.pinimg.com/originals/7d/94/9e/7d949ef54a6dfc5c3b084c1dd0e40e73.png"
+  },
+{
+    "user":"Hellas Verona vs Fiorentina",
+    "pageUrl" : "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
+    "type" : "ITALIAN SERIE A",
+    "webFormatUrl" : "https://2.bp.blogspot.com/-W1C5VkHUfZ0/XNVkWcPkeVI/AAAAAAAB7SA/MHIL4VRPGNIjW16Iy54aoS5jLEzMBOO9gCLcBGAs/s1600/all-new-serie-a-logo%2B%25282%2529.jpg"
+  },
+{
+    "user":"Bayern München vs Bayer Leverkusen",
     "pageUrl" : "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
     "type" : "ENGLISH PREMIER LEAGUE",
-    "webFormatUrl" : "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+    "webFormatUrl" : "https://i.pinimg.com/originals/23/72/64/23726435c00fa8a9ca4dca88bb0b9cd7.png"
   },
 
 
          
-{
-    "user":"LEEDS UNITED VS LIVERPOOL HD",
-    "pageUrl" : "https://www.livedoomovies.com/02_epl1_720p_UK/chunklist.m3u8",
-    "type" : "ENGLISH PREMIER LEAGUE",
-    "webFormatUrl" : "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-  },
+
 
     
 
