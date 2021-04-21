@@ -2,41 +2,15 @@
 { 
   "hits": [
 
-
-     
 {
-    "user":"	Köln vs RB Leipzig",
-    "pageUrl" : "http://185.180.221.194:8278/streams/d/Assp2/playlist.m3u8",
-    "type" : "BUNDESLIGA",
-    "webFormatUrl" : "https://i.pinimg.com/originals/7d/94/9e/7d949ef54a6dfc5c3b084c1dd0e40e73.png"
-  },
-    
-    {
-    "user":"Arminia Bielefeld vs Schalke 04",
-    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/103.m3u8",
-    "type" : "BUNDESLIGA",
-    "webFormatUrl" : "https://i.pinimg.com/originals/7d/94/9e/7d949ef54a6dfc5c3b084c1dd0e40e73.png"
-  },
-    {
-    "user":"Eintracht Frankfurt vs Augsburg",
-    "pageUrl" : "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
-    "type" : "BUNDESLIGA",
-    "webFormatUrl" : "https://i.pinimg.com/originals/7d/94/9e/7d949ef54a6dfc5c3b084c1dd0e40e73.png"
-  },
-    {
-    "user":"Bayern München vs Bayer Leverkusen",
-    "pageUrl" : "http://ott-cdn.ucom.am/s82/04.m3u8",
-    "type" : "BUNDESLIGA",
-    "webFormatUrl" : "https://i.pinimg.com/originals/7d/94/9e/7d949ef54a6dfc5c3b084c1dd0e40e73.png"
-  },
-{
-    "user":"Hellas Verona vs Fiorentina",
+    "user":"Milan vs Sassuolo",
     "pageUrl" : "http://cdn.addressingethernet.xyz/hls/106.m3u8",
     "type" : "ITALIAN SERIE A",
     "webFormatUrl" : "https://2.bp.blogspot.com/-W1C5VkHUfZ0/XNVkWcPkeVI/AAAAAAAB7SA/MHIL4VRPGNIjW16Iy54aoS5jLEzMBOO9gCLcBGAs/s1600/all-new-serie-a-logo%2B%25282%2529.jpg"
   },
-{
-    "user":"Chelsea vs Brighton SD",
+    
+    {
+    "user":"Tottenham Hotspur vs Southampton SD",
     "pageUrl" : "https://www.livedoomovies.com/02_PremierHD2_480p/chunklist.m3u8",
     "type" : "ENGLISH PREMIER LEAGUE",
     "webFormatUrl" : "https://i.pinimg.com/originals/23/72/64/23726435c00fa8a9ca4dca88bb0b9cd7.png"
@@ -45,13 +19,129 @@
 
 
      {
-    "user":"Chelsea vs Brighton HD",
+    "user":"Tottenham Hotspur vs Southampton HD",
+    "pageUrl" : "https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8",
+    "type" : "ENGLISH PREMIER LEAGUE",
+    "webFormatUrl" : "https://i.pinimg.com/originals/23/72/64/23726435c00fa8a9ca4dca88bb0b9cd7.png"
+  },   
+     
+
+    
+    {
+    "user":"Levante vs Sevilla",
+    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/103.m3u8",
+    "type" : "SPANISH LA LIGA",
+    "webFormatUrl" : "https://alphasportsbetting.com/wp-content/uploads/2017/09/laliga-v-600x600-1.png"
+  },
+     {
+    "user":"Osasuna vs Valencia",
+    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/103.m3u8",
+    "type" : "SPANISH LA LIGA",
+    "webFormatUrl" : "https://alphasportsbetting.com/wp-content/uploads/2017/09/laliga-v-600x600-1.png"
+  },
+     {
+    "user":"Real Betis vs Athletic Club",
+    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/103.m3u8",
+    "type" : "SPANISH LA LIGA",
+    "webFormatUrl" : "https://alphasportsbetting.com/wp-content/uploads/2017/09/laliga-v-600x600-1.png"
+  },
+    {
+    "user":"Stuttgart vs Wolfsburg",
+    "pageUrl" : "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
+    "type" : "BUNDESLIGA",
+    "webFormatUrl" : "https://i.pinimg.com/originals/7d/94/9e/7d949ef54a6dfc5c3b084c1dd0e40e73.png"
+  },
+    {
+    "user":"Werder Bremen vs Mainz 05",
+    "pageUrl" : "http://ott-cdn.ucom.am/s82/04.m3u8",
+    "type" : "BUNDESLIGA",
+    "webFormatUrl" : "https://i.pinimg.com/originals/7d/94/9e/7d949ef54a6dfc5c3b084c1dd0e40e73.png"
+  },
+     {
+    "user":"Borussia Dortmund vs Union Berlin",
+    "pageUrl" : "http://ott-cdn.ucom.am/s82/04.m3u8",
+    "type" : "BUNDESLIGA",
+    "webFormatUrl" : "https://i.pinimg.com/originals/7d/94/9e/7d949ef54a6dfc5c3b084c1dd0e40e73.png"
+  },
+     {
+    "user":"Hoffenheim vs Borussia M'gladbach",
+    "pageUrl" : "http://ott-cdn.ucom.am/s82/04.m3u8",
+    "type" : "BUNDESLIGA",
+    "webFormatUrl" : "https://i.pinimg.com/originals/7d/94/9e/7d949ef54a6dfc5c3b084c1dd0e40e73.png"
+  },
+    {
+    "user":"Juventus vs Parma",
+    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/106.m3u8",
+    "type" : "ITALIAN SERIE A",
+    "webFormatUrl" : "https://2.bp.blogspot.com/-W1C5VkHUfZ0/XNVkWcPkeVI/AAAAAAAB7SA/MHIL4VRPGNIjW16Iy54aoS5jLEzMBOO9gCLcBGAs/s1600/all-new-serie-a-logo%2B%25282%2529.jpg"
+  },
+    
+    {
+    "user":"Spezia vs Internazionale",
+    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/106.m3u8",
+    "type" : "ITALIAN SERIE A",
+    "webFormatUrl" : "https://2.bp.blogspot.com/-W1C5VkHUfZ0/XNVkWcPkeVI/AAAAAAAB7SA/MHIL4VRPGNIjW16Iy54aoS5jLEzMBOO9gCLcBGAs/s1600/all-new-serie-a-logo%2B%25282%2529.jpg"
+  },
+    {
+    "user":"Genoa vs Benevento",
+    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/106.m3u8",
+    "type" : "ITALIAN SERIE A",
+    "webFormatUrl" : "https://2.bp.blogspot.com/-W1C5VkHUfZ0/XNVkWcPkeVI/AAAAAAAB7SA/MHIL4VRPGNIjW16Iy54aoS5jLEzMBOO9gCLcBGAs/s1600/all-new-serie-a-logo%2B%25282%2529.jpg"
+  },
+    {
+    "user":"Crotone vs Sampdoria",
+    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/106.m3u8",
+    "type" : "ITALIAN SERIE A",
+    "webFormatUrl" : "https://2.bp.blogspot.com/-W1C5VkHUfZ0/XNVkWcPkeVI/AAAAAAAB7SA/MHIL4VRPGNIjW16Iy54aoS5jLEzMBOO9gCLcBGAs/s1600/all-new-serie-a-logo%2B%25282%2529.jpg"
+  },
+    {
+    "user":"	Udinese vs Cagliari",
+    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/106.m3u8",
+    "type" : "ITALIAN SERIE A",
+    "webFormatUrl" : "https://2.bp.blogspot.com/-W1C5VkHUfZ0/XNVkWcPkeVI/AAAAAAAB7SA/MHIL4VRPGNIjW16Iy54aoS5jLEzMBOO9gCLcBGAs/s1600/all-new-serie-a-logo%2B%25282%2529.jpg"
+  },
+    {
+    "user":"Bologna vs Torino",
+    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/106.m3u8",
+    "type" : "ITALIAN SERIE A",
+    "webFormatUrl" : "https://2.bp.blogspot.com/-W1C5VkHUfZ0/XNVkWcPkeVI/AAAAAAAB7SA/MHIL4VRPGNIjW16Iy54aoS5jLEzMBOO9gCLcBGAs/s1600/all-new-serie-a-logo%2B%25282%2529.jpg"
+  },
+    
+     {
+    "user":"Elche vs Real Valladolid",
+    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/103.m3u8",
+    "type" : "SPANISH LA LIGA",
+    "webFormatUrl" : "https://alphasportsbetting.com/wp-content/uploads/2017/09/laliga-v-600x600-1.png"
+  },
+     {
+    "user":"Deportivo Alavés vs Villarreal",
+    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/103.m3u8",
+    "type" : "SPANISH LA LIGA",
+    "webFormatUrl" : "https://alphasportsbetting.com/wp-content/uploads/2017/09/laliga-v-600x600-1.png"
+  },
+
+{
+    "user":"Aston Villa vs Manchester City SD",
+    "pageUrl" : "https://www.livedoomovies.com/02_PremierHD2_480p/chunklist.m3u8",
+    "type" : "ENGLISH PREMIER LEAGUE",
+    "webFormatUrl" : "https://i.pinimg.com/originals/23/72/64/23726435c00fa8a9ca4dca88bb0b9cd7.png"
+  },
+
+
+
+     {
+    "user":"	Aston Villa vs Manchester City HD",
     "pageUrl" : "https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8",
     "type" : "ENGLISH PREMIER LEAGUE",
     "webFormatUrl" : "https://i.pinimg.com/originals/23/72/64/23726435c00fa8a9ca4dca88bb0b9cd7.png"
   },    
 
-
+   {
+    "user":"	Cádiz vs Real Madrid",
+    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/103.m3u8",
+    "type" : "SPANISH LA LIGA",
+    "webFormatUrl" : "https://alphasportsbetting.com/wp-content/uploads/2017/09/laliga-v-600x600-1.png"
+  },
     
 
     
