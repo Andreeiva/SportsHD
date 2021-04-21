@@ -59,7 +59,7 @@
   },
     {
     "user":"Werder Bremen vs Mainz 05",
-    "pageUrl" : "http://ott-cdn.ucom.am/s82/04.m3u8",
+    "pageUrl" : "http://83.222.205.65:8080/football1_edge/tracks-v1a1/index.m3u8",
     "type" : "BUNDESLIGA",
     "webFormatUrl" : "https://i.pinimg.com/originals/7d/94/9e/7d949ef54a6dfc5c3b084c1dd0e40e73.png"
   },
@@ -71,7 +71,7 @@
   },
      {
     "user":"Hoffenheim vs Borussia M'gladbach",
-    "pageUrl" : "http://ott-cdn.ucom.am/s82/04.m3u8",
+    "pageUrl" : "http://83.222.205.65:8080/football1_edge/tracks-v1a1/index.m3u8",
     "type" : "BUNDESLIGA",
     "webFormatUrl" : "https://i.pinimg.com/originals/7d/94/9e/7d949ef54a6dfc5c3b084c1dd0e40e73.png"
   },
