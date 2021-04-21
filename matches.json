@@ -36,7 +36,7 @@
   },
     {
     "user":"Juventus vs Parma HD",
-    "pageUrl" : "http://23.237.78.54/live-1000/267/playlist.m3u8",
+    "pageUrl" : "http://83.222.205.65:8080/football2_edge/tracks-v1a1/index.m3u8",
     "type" : "ITALIAN SERIE A",
     "webFormatUrl" : "https://2.bp.blogspot.com/-W1C5VkHUfZ0/XNVkWcPkeVI/AAAAAAAB7SA/MHIL4VRPGNIjW16Iy54aoS5jLEzMBOO9gCLcBGAs/s1600/all-new-serie-a-logo%2B%25282%2529.jpg"
   },
@@ -48,7 +48,7 @@
   },
 
 {
-    "user":"Spezia vs Internazionale SD",
+    "user":"Spezia vs Internazionale SD2",
     "pageUrl" : "http://cdn.addressingethernet.xyz/hls/113.m3u8",
     "type" : "ITALIAN SERIE A",
     "webFormatUrl" : "https://2.bp.blogspot.com/-W1C5VkHUfZ0/XNVkWcPkeVI/AAAAAAAB7SA/MHIL4VRPGNIjW16Iy54aoS5jLEzMBOO9gCLcBGAs/s1600/all-new-serie-a-logo%2B%25282%2529.jpg"
