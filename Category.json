@@ -27,8 +27,15 @@
     "webFormatUrl" : "https://iscreativestudio.com/wp-content/uploads/2016/08/logotipos4.jpg"
   },
       {
-    "user":"Napoli vs Lazio",
-    "pageUrl" : "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8",
+    "user":"Napoli vs Lazio SD",
+    "pageUrl" : "http://ott-cdn.ucom.am/s82/04.m3u8",
+    "type" : "SERIE A",
+    "webFormatUrl" : "https://i.pinimg.com/474x/2e/86/50/2e86505cb4d1d37b4a40a30b3162169a.jpg"
+  },
+
+{
+    "user":"Napoli vs Lazio HD",
+    "pageUrl" : "http://ott-cdn.ucom.am/s82/04.m3u8",
     "type" : "SERIE A",
     "webFormatUrl" : "https://i.pinimg.com/474x/2e/86/50/2e86505cb4d1d37b4a40a30b3162169a.jpg"
   },
