@@ -11,8 +11,14 @@
     "webFormatUrl" : "https://iscreativestudio.com/wp-content/uploads/2016/08/logotipos4.jpg"
   },
 {
-    "user":"Genoa vs Spezia",
+    "user":"Genoa vs Spezia SD",
     "pageUrl" : "http://cdn.addressingethernet.xyz/hls/110.m3u8",
+    "type" : "ITALIAN SERIE A",
+    "webFormatUrl" : "https://i.pinimg.com/474x/2e/86/50/2e86505cb4d1d37b4a40a30b3162169a.jpg"
+  },
+{
+    "user":"Genoa vs Spezia HD",
+    "pageUrl" : "https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8",
     "type" : "ITALIAN SERIE A",
     "webFormatUrl" : "https://i.pinimg.com/474x/2e/86/50/2e86505cb4d1d37b4a40a30b3162169a.jpg"
   },
