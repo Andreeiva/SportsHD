@@ -21,8 +21,16 @@
 
 
 {
-    "user":"Parma vs Crotone",
-    "pageUrl" : "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8",
+    "user":"Parma vs Crotone  SD",
+    "pageUrl" : "http://212.200.127.243:80/ArenaSport3/index.m3u8?bw944923262064.m3u8",
+    "type" : "ITALIAN SERIE A",
+    "webFormatUrl" : "https://i.pinimg.com/474x/2e/86/50/2e86505cb4d1d37b4a40a30b3162169a.jpg"
+  },
+
+
+{
+    "user":"Parma vs Crotone HD",
+    "pageUrl" : "http://212.200.127.243:80/ArenaSport3/index.m3u8?bw944923262064.m3u8",
     "type" : "ITALIAN SERIE A",
     "webFormatUrl" : "https://i.pinimg.com/474x/2e/86/50/2e86505cb4d1d37b4a40a30b3162169a.jpg"
   },
@@ -53,13 +61,20 @@
   },
 {
     "user":"BAYERN LEVERKUSEN VS EINTRACHT FRANKFURT",
-    "pageUrl" : "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8",
+    "pageUrl" : "http://185.180.221.194:8278/streams/d/Assp1/playlist.m3u8",
     "type" : "BUNDESLIGA",
     "webFormatUrl" : "https://i.pinimg.com/originals/6b/a3/18/6ba318474e4cab7cef32a965fd6b982c.png"
   },
 {
-    "user":"Sassuolo vs Sampdoria",
-    "pageUrl" : "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8",
+    "user":"Sassuolo vs Sampdoria SD",
+    "pageUrl" : "http://212.200.127.243:80/ArenaSport3/index.m3u8?bw944923262064.m3u8",
+    "type" : "ITALIAN SERIE A",
+    "webFormatUrl" : "https://i.pinimg.com/474x/2e/86/50/2e86505cb4d1d37b4a40a30b3162169a.jpg"
+  },
+
+{
+    "user":"Sassuolo vs Sampdoria HD",
+    "pageUrl" : "http://212.200.127.243:80/ArenaSport3/index.m3u8?bw944923262064.m3u8",
     "type" : "ITALIAN SERIE A",
     "webFormatUrl" : "https://i.pinimg.com/474x/2e/86/50/2e86505cb4d1d37b4a40a30b3162169a.jpg"
   },
