@@ -4,45 +4,10 @@
     
 
  
-{
-    "user":"Genoa vs Spezia SD",
-    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/110.m3u8",
-    "type" : "ITALIAN SERIE A",
-    "webFormatUrl" : "https://i.pinimg.com/474x/2e/86/50/2e86505cb4d1d37b4a40a30b3162169a.jpg"
-  },
-{
-    "user":"Genoa vs Spezia HD",
-    "pageUrl" : "https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8",
-    "type" : "ITALIAN SERIE A",
-    "webFormatUrl" : "https://i.pinimg.com/474x/2e/86/50/2e86505cb4d1d37b4a40a30b3162169a.jpg"
-  },
-    {
-    "user":"Freiburg vs Hoffenheim",
-    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/105.m3u8",
-    "type" : "BUNDESLIGA",
-    "webFormatUrl" : "https://i.pinimg.com/originals/6b/a3/18/6ba318474e4cab7cef32a965fd6b982c.png"
-  },
-{
-    "user":"Mainz 05 vs Bayern München",
-    "pageUrl" : "http://185.180.221.194:8278/streams/d/Assp2/playlist.m3u8",
-    "type" : "BUNDESLIGA",
-    "webFormatUrl" : "https://i.pinimg.com/originals/6b/a3/18/6ba318474e4cab7cef32a965fd6b982c.png"
-  },
-{
-    "user":"Union Berlin vs Werder Bremen",
-    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/108.m3u8",
-    "type" : "BUNDESLIGA",
-    "webFormatUrl" : "https://i.pinimg.com/originals/6b/a3/18/6ba318474e4cab7cef32a965fd6b982c.png"
-  },
-{
-    "user":"Wolfsburg vs Borussia Dortmund",
-    "pageUrl" : "http://185.180.221.194:8278/streams/d/Assp1/playlist.m3u8",
-    "type" : "BUNDESLIGA",
-    "webFormatUrl" : "https://i.pinimg.com/originals/6b/a3/18/6ba318474e4cab7cef32a965fd6b982c.png"
-  },
+
 {
     "user":"Real Valladolid vs Cádiz",
-    "pageUrl" : "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8",
+    "pageUrl" : "http://persik.by/stream/6696/480248/346.m3u8",
     "type" : "SPANISH LA LIGA",
     "webFormatUrl" : "https://iscreativestudio.com/wp-content/uploads/2016/08/logotipos4.jpg"
   },
@@ -66,7 +31,7 @@
   },
 {
     "user":"Valencia vs Deportivo Alavés",
-    "pageUrl" : "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8",
+    "pageUrl" : "http://persik.by/stream/6696/480248/346.m3u8",
     "type" : "SPANISH LA LIGA",
     "webFormatUrl" : "https://iscreativestudio.com/wp-content/uploads/2016/08/logotipos4.jpg"
   },
