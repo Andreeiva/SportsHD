@@ -6,11 +6,20 @@
  
 
 {
-    "user":"Real Valladolid vs Cádiz",
+    "user":"Real Valladolid vs Cádiz SD",
     "pageUrl" : "http://persik.by/stream/6696/480248/346.m3u8",
     "type" : "SPANISH LA LIGA",
     "webFormatUrl" : "https://iscreativestudio.com/wp-content/uploads/2016/08/logotipos4.jpg"
   },
+
+
+{
+    "user":"Real Valladolid vs Cádiz HD",
+    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/103.m3u8",
+    "type" : "SPANISH LA LIGA",
+    "webFormatUrl" : "https://iscreativestudio.com/wp-content/uploads/2016/08/logotipos4.jpg"
+  },
+
 {
     "user":"Parma vs Crotone",
     "pageUrl" : "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8",
@@ -36,7 +45,7 @@
     "webFormatUrl" : "https://iscreativestudio.com/wp-content/uploads/2016/08/logotipos4.jpg"
   },
 {
-    "user":"Valencia vs Deportivo Alavés",
+    "user":"BAYERN LEVERKUSEN VS EINTRACHT FRANKFURT",
     "pageUrl" : "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8",
     "type" : "BUNDESLIGA",
     "webFormatUrl" : "https://i.pinimg.com/originals/6b/a3/18/6ba318474e4cab7cef32a965fd6b982c.png"
