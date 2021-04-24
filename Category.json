@@ -7,20 +7,6 @@
 
 
 
-{
-    "user":"Parma vs Crotone  SD",
-    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/110.m3u8",
-    "type" : "ITALIAN SERIE A",
-    "webFormatUrl" : "https://i.pinimg.com/474x/2e/86/50/2e86505cb4d1d37b4a40a30b3162169a.jpg"
-  },
-
-
-{
-    "user":"Parma vs Crotone HD",
-    "pageUrl" : "http://212.200.127.243:80/ArenaSport3/index.m3u8?bw944923262064.m3u8",
-    "type" : "ITALIAN SERIE A",
-    "webFormatUrl" : "https://i.pinimg.com/474x/2e/86/50/2e86505cb4d1d37b4a40a30b3162169a.jpg"
-  },
  {
     "user":"West Ham United vs Chelsea SD",
     "pageUrl" : "https://www.livedoomovies.com/02_PremierHD2_480p/chunklist.m3u8",
