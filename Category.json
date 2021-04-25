@@ -46,13 +46,27 @@
     "webFormatUrl" : "https://i.pinimg.com/originals/23/72/64/23726435c00fa8a9ca4dca88bb0b9cd7.png"
   },
      {
-    "user":"Fiorentina vs Juventus",
+    "user":"Fiorentina vs Juventus  SD",
+    "pageUrl" : "http://ott-cdn.ucom.am/s81/04.m3u8",
+    "type" : "ITALIAN SERIE A",
+    "webFormatUrl" : "https://i.pinimg.com/474x/2e/86/50/2e86505cb4d1d37b4a40a30b3162169a.jpg"
+  },
+
+{
+    "user":"Fiorentina vs Juventus  HD",
     "pageUrl" : "http://ott-cdn.ucom.am/s81/04.m3u8",
     "type" : "ITALIAN SERIE A",
     "webFormatUrl" : "https://i.pinimg.com/474x/2e/86/50/2e86505cb4d1d37b4a40a30b3162169a.jpg"
   },
      {
-    "user":"Internazionale vs Hellas Verona",
+    "user":"Internazionale vs Hellas Verona SD",
+    "pageUrl" : "http://ott-cdn.ucom.am/s82/04.m3u8",
+    "type" : "ITALIAN SERIE A",
+    "webFormatUrl" : "https://i.pinimg.com/474x/2e/86/50/2e86505cb4d1d37b4a40a30b3162169a.jpg"
+  },
+
+{
+    "user":"Internazionale vs Hellas Verona  HD",
     "pageUrl" : "http://ott-cdn.ucom.am/s82/04.m3u8",
     "type" : "ITALIAN SERIE A",
     "webFormatUrl" : "https://i.pinimg.com/474x/2e/86/50/2e86505cb4d1d37b4a40a30b3162169a.jpg"
