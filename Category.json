@@ -16,12 +16,18 @@
     "webFormatUrl" : "https://pbs.twimg.com/profile_images/1346475508427444227/5uvtuoM-.jpg"
   },
      {
-    "user":"Cagliari vs Roma",
-    "pageUrl" : "http://212.200.127.243:80/ArenaSport4/index.m3u8",
+    "user":"Cagliari vs Roma SD",
+    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/109.m3u8",
     "type" : "ITALIAN SERIE A",
     "webFormatUrl" : "https://i.pinimg.com/474x/2e/86/50/2e86505cb4d1d37b4a40a30b3162169a.jpg"
   },
-      {
+
+   {
+    "user":"Cagliari vs Roma HD",
+    "pageUrl" : "http://212.200.127.243:80/ArenaSport4/index.m3u8",
+    "type" : "ITALIAN SERIE A",
+    "webFormatUrl" : "https://i.pinimg.com/474x/2e/86/50/2e86505cb4d1d37b4a40a30b3162169a.jpg"
+  },   {
     "user":"Borussia M'gladbach vs Arminia Bielefeld",
     "pageUrl" : "http://cdn.addressingethernet.xyz/hls/108.m3u8",
     "type" : "Germany - Bundesliga",
