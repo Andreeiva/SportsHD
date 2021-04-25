@@ -4,18 +4,7 @@
   "hits": [
 
 
-     {
-    "user":"Wolverhampton Wanderers vs Burnley SD",
-    "pageUrl" : "https://www.livedoomovies.com/02_PremierHD2_480p/chunklist.m3u8",
-    "type" : "ENGLISH PREMIER LEAGUE",
-    "webFormatUrl" : "https://i.pinimg.com/originals/23/72/64/23726435c00fa8a9ca4dca88bb0b9cd7.png"
-  },
-     {
-    "user":"Wolverhampton Wanderers vs Burnley HD",
-    "pageUrl" : "https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8",
-    "type" : "ENGLISH PREMIER LEAGUE",
-    "webFormatUrl" : "https://i.pinimg.com/originals/23/72/64/23726435c00fa8a9ca4dca88bb0b9cd7.png"
-  },
+    
      {
     "user":"	Huesca vs Getafe",
     "pageUrl" : "http://cdn.addressingethernet.xyz/hls/103.m3u8",
@@ -62,7 +51,7 @@
   },
      {
     "user":"RB Leipzig vs Stuttgart",
-    "pageUrl" : "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8",
+    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/108.m3u8",
     "type" : "Germany - Bundesliga",
     "webFormatUrl" : "https://i.pinimg.com/originals/6b/a3/18/6ba318474e4cab7cef32a965fd6b982c.png"
   },
