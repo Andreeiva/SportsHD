@@ -3,18 +3,7 @@
 { 
   "hits": [
 
- {
-    "user":"Benevento vs Udinese SD",
-    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/109.m3u8",
-    "type" : "ITALIAN SERIE A",
-    "webFormatUrl" : "https://i.pinimg.com/474x/2e/86/50/2e86505cb4d1d37b4a40a30b3162169a.jpg"
-  },
-{
-    "user":"Benevento vs Udinese HD",
-    "pageUrl" : "http://212.200.127.243:80/ArenaSport2/index.m3u8",
-    "type" : "ITALIAN SERIE A",
-    "webFormatUrl" : "https://i.pinimg.com/474x/2e/86/50/2e86505cb4d1d37b4a40a30b3162169a.jpg"
-  },
+
      {
     "user":"Wolverhampton Wanderers vs Burnley SD",
     "pageUrl" : "https://www.livedoomovies.com/02_PremierHD2_480p/chunklist.m3u8",
