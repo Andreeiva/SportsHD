@@ -48,8 +48,14 @@
     "webFormatUrl" : "https://iscreativestudio.com/wp-content/uploads/2016/08/logotipos4.jpg"
   },
     {
-    "user":"Manchester City vs Tottenham Hotspur",
-    "pageUrl" : "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8",
+    "user":"Manchester City vs Tottenham Hotspur SD",
+    "pageUrl" : "http://ott-cdn.ucom.am/s82/04.m3u8",
+    "type" : "England - League Cup",
+    "webFormatUrl" : "https://pbs.twimg.com/profile_images/1346475508427444227/5uvtuoM-.jpg"
+  },
+{
+    "user":"Manchester City vs Tottenham Hotspur JD",
+    "pageUrl" : "http://ott-cdn.ucom.am/s82/04.m3u8",
     "type" : "England - League Cup",
     "webFormatUrl" : "https://pbs.twimg.com/profile_images/1346475508427444227/5uvtuoM-.jpg"
   },
