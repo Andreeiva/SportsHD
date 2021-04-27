@@ -5,15 +5,6 @@
    
 
 {
-     "user" : "REAL MADRID VS CHELSEA SD",
-    "pageUrl" : "http://23.237.78.54/live-1000/263/playlist.m3u8",
-    "type" : "UEFA CHAMPIONS LEAGUE ⚽️ ",
-    "webFormatUrl" :"https://static.dw.com/image/16392542_303.jpg"
-    },
-
-
-
-{
      "user" : "REAL MADRID VS CHELSEA SD 1",
     "pageUrl" : "http://23.237.78.54/live-1000/263/playlist.m3u8",
     "type" : "UEFA CHAMPIONS LEAGUE ⚽️ ",
@@ -23,7 +14,16 @@
 
 
 {
-     "user" : "REAL MADRID VS CHELSEA HD 1",
+     "user" : "REAL MADRID VS CHELSEA SD 2",
+    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/103.m3u8",
+    "type" : "UEFA CHAMPIONS LEAGUE ⚽️ ",
+    "webFormatUrl" :"https://static.dw.com/image/16392542_303.jpg"
+    },
+
+
+
+{
+     "user" : "REAL MADRID VS CHELSEA HD 1(ENGLISH)",
     "pageUrl" : "https://www.livedoomovies.com/02_epl1_720p_UK/chunklist.m3u8",
     "type" : "UEFA CHAMPIONS LEAGUE ⚽️ ",
     "webFormatUrl" :"https://static.dw.com/image/16392542_303.jpg"
