@@ -2,104 +2,72 @@
 	"hits": [
 			
 	
-{
-     "user" : "PSG VS MAN CITY",
-    "pageUrl" : "https://drevanet.com/wp-content/uploads/2021/04/psg-vs-man-city.mp4",
-    "type" : "UEFA CHAMPIONS LEAGUE HIGHLIGHTS ⚽️ ",
-    "webFormatUrl" :"https://static.dw.com/image/16392542_303.jpg"
-    },
-
-
-{
-     "user" : "REAL MADRID VS CHELSEA",
-    "pageUrl" : "https://drevanet.com/wp-content/uploads/2021/04/real-madrid.mp4",
-    "type" : "UEFA CHAMPIONS LEAGUE HIGHLIGHTS ⚽️ ",
-    "webFormatUrl" :"https://static.dw.com/image/16392542_303.jpg"
-    },
-
-
-{
-
-
-     "user" : "TORINO VS NAPOLI",
-    "pageUrl" : "https://drevanet.com/wp-content/uploads/2021/04/torino.mp4",
-    "type" : "SERIE A HIGHLIGHTS ⚽️ ",
-    "webFormatUrl" :"https://forzaitalianfootball.com/wp-content/uploads/2020/03/serie-a.png"
-    },
-
-
-     {
-     "user" : "LAZIO VS AC MILAN",
-    "pageUrl" : "https://drevanet.com/wp-content/uploads/2021/04/lazio-vs-milan.mp4",
-    "type" : "SERIE A HIGHLIGHTS ⚽️ ",
-    "webFormatUrl" :"https://forzaitalianfootball.com/wp-content/uploads/2020/03/serie-a.png"
-    },
-
-
-     {
-     "user" : "FIORENTINA VS JUVENTUS",
-    "pageUrl" : "https://drevanet.com/wp-content/uploads/2021/04/videoplayback.mp4",
-    "type" : "SERIE A HIGHLIGHTS ⚽️ ",
-    "webFormatUrl" :"https://forzaitalianfootball.com/wp-content/uploads/2020/03/serie-a.png"
-    },
-
-     {
-     "user" : "SASUOLO VS SAMPDORIA",
-    "pageUrl" : "https://drevanet.com/wp-content/uploads/2021/04/sasuolo.mp4",
-    "type" : "SERIE A HIGHLIGHTS ⚽️ ",
-    "webFormatUrl" :"https://forzaitalianfootball.com/wp-content/uploads/2020/03/serie-a.png"
-    },
-
-     {
-     "user" : "PARMA VS CROTONE",
-    "pageUrl" : "https://drevanet.com/wp-content/uploads/2021/04/parma-crotone.mp4",
-    "type" : "SERIE A HIGHLIGHTS ⚽️ ",
-    "webFormatUrl" :"https://forzaitalianfootball.com/wp-content/uploads/2020/03/serie-a.png"
-    },
-
-     {
-     "user" : "NAPOLI VS LAZIO ",
-    "pageUrl" : "https://drevanet.com/wp-content/uploads/2021/04/napoli.mp4",
-    "type" : "SERIE A HIGHLIGHTS ⚽️ ",
-    "webFormatUrl" :"https://forzaitalianfootball.com/wp-content/uploads/2020/03/serie-a.png"
-    },
-
-     {
-     "user" : "INTER VS HELLAS VERONA",
-    "pageUrl" : "https://drevanet.com/wp-content/uploads/2021/04/inter-vs-hellas-verona.mp4",
-    "type" : "SERIE A HIGHLIGHTS ⚽️ ",
-    "webFormatUrl" :"https://forzaitalianfootball.com/wp-content/uploads/2020/03/serie-a.png"
-    },
-
-     {
-     "user" : "CAGLIARI VS ROMA",
-    "pageUrl" : "https://drevanet.com/wp-content/uploads/2021/04/Cagliari-3-2-Roma-Huge-win-in-the-relegation-battle-for-hosts-Serie-A-TIM.mp4",
-    "type" : "SERIE A HIGHLIGHTS ⚽️ ",
-    "webFormatUrl" :"https://forzaitalianfootball.com/wp-content/uploads/2020/03/serie-a.png"
-    },
-
-  
-     {
-     "user" : "BENEVENTO VS UDINESE",
-    "pageUrl" : "https://drevanet.com/wp-content/uploads/2021/04/benevento.mp4",
-    "type" : "SERIE A HIGHLIGHTS ⚽️ ",
-    "webFormatUrl" :"https://forzaitalianfootball.com/wp-content/uploads/2020/03/serie-a.png"
-},
- 
-     {
-     "user" : "ATALANTA VS BOLOGNA",
-    "pageUrl" : "https://drevanet.com/wp-content/uploads/2021/04/atalanta-bologna-1.mp4",
-    "type" : "SERIE A HIGHLIGHTS ⚽️ ",
-    "webFormatUrl" :"https://forzaitalianfootball.com/wp-content/uploads/2020/03/serie-a.png"
-    },
    
  
      {
-     "user" : "LIVE SPORTS",
-    "pageUrl" : "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8",
-    "type" : "LIVE SPORTS ⚽️ ",
-    "webFormatUrl" :"https://image.shutterstock.com/image-illustration/live-streaming-sports-broadcast-soccer-260nw-716196589.jpg"
+     "user" : "BARCELONA VS GRANADA SD",
+    "pageUrl" : "http://23.237.78.54/live-1000/263/playlist.m3u8",
+    "type" : "SPANISH LA LIGA ⚽️ ",
+    "webFormatUrl" :"https://iscreativestudio.com/wp-content/uploads/2016/08/logotipos4.jpg"
     },
+
+
+     {
+     "user" : "BARCELONA VS GRANADA  HD",
+    "pageUrl" : "http://persik.by/stream/6696/480248/10217.m3u8",
+    "type" : "SPANISH LA LIGA ⚽️ ",
+    "webFormatUrl" :"https://iscreativestudio.com/wp-content/uploads/2016/08/logotipos4.jpg"
+    },
+
+
+     {
+     "user" : "VILLARREAL VS  ARSENAL HD",
+    "pageUrl" : "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8",
+    "type" : "EUROPA LEAGUE ⚽️ ",
+    "webFormatUrl" :"https://editorial.uefa.com/resources/0245-0e68c0092785-07f007d1a562-1000/2561767.jpg"
+    },
+
+
+
+     {
+     "user" : "VILLARREAL VS  ARSENAL HD(ENGLISH)",
+    "pageUrl" : "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8",
+    "type" : "EUROPA LEAGUE ⚽️ ",
+    "webFormatUrl" :"https://editorial.uefa.com/resources/0245-0e68c0092785-07f007d1a562-1000/2561767.jpg"
+    },
+
+
+     {
+     "user" : "VILLARREAL VS  ARSENAL SD",
+    "pageUrl" : "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8",
+    "type" : "EUROPA LEAGUE ⚽️ ",
+    "webFormatUrl" :"https://editorial.uefa.com/resources/0245-0e68c0092785-07f007d1a562-1000/2561767.jpg"
+    },
+
+
+     {
+     "user" : "MANCHESTER UNITED VS ROMA HD",
+    "pageUrl" : "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8",
+    "type" : "EUROPA LEAGUE ⚽️ ",
+    "webFormatUrl" :"https://editorial.uefa.com/resources/0245-0e68c0092785-07f007d1a562-1000/2561767.jpg"
+    },
+
+
+     {
+     "user" : "MANCHESTER UNITED VS ROMA HD(ENGLISH)",
+    "pageUrl" : "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8",
+    "type" : "EUROPA LEAGUE ⚽️ ",
+    "webFormatUrl" :"https://editorial.uefa.com/resources/0245-0e68c0092785-07f007d1a562-1000/2561767.jpg"
+    },
+
+     {
+     "user" : "MANCHESTER UNITED VS ROMASD",
+    "pageUrl" : "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8",
+    "type" : "EUROPA LEAGUE ⚽️ ",
+    "webFormatUrl" :"https://editorial.uefa.com/resources/0245-0e68c0092785-07f007d1a562-1000/2561767.jpg"
+    },
+
+     
 
      {
      "user" : "LIVE SPORTS",
