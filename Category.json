@@ -9,19 +9,7 @@
 			
 
 		
-		{
-     "user" : "Crotone vs Internazionale SD",
-    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/104.m3u8",
-    "type" : "SERIE A ⚽️",
-    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Serie_A_logo_%282019%29.svg/1200px-Serie_A_logo_%282019%29.svg.png"
-    },
 
-{
-     "user" : "Crotone vs Internazionale HD",
-    "pageUrl" : "https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8",
-    "type" : "SERIE A ⚽️",
-    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Serie_A_logo_%282019%29.svg/1200px-Serie_A_logo_%282019%29.svg.png"
-    },
 		{
      "user" : "Chelsea vs Fulham SD",
     "pageUrl" : "https://www.livedoomovies.com/02_PremierHD2_480p/chunklist.m3u8",
