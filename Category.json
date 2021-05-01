@@ -4,18 +4,7 @@
 	
    
 		
-	{
-     "user" : "	Eibar vs Deportivo Alavés SD",
-    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/103.m3u8",
-    "type" : "LA LIGA ⚽️ ",
-    "webFormatUrl" :"https://iscreativestudio.com/wp-content/uploads/2016/08/logotipos4.jpg"
-    },
-		{
-     "user" : "	Eibar vs Deportivo Alavés HD",
-    "pageUrl" : "https://www.livedoomovies.com/02_epl2_720p_UK/chunklist.m3u8",
-    "type" : "LA LIGA ⚽️",
-    "webFormatUrl" :"https://iscreativestudio.com/wp-content/uploads/2016/08/logotipos4.jpg"
-    },
+	
 		
 		{
      "user" : "Hellas Verona vs Spezia SD",
@@ -46,13 +35,13 @@
 		
 		{
      "user" : "	Elche vs Atlético Madrid SD",
-    "pageUrl" : "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8",
+    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/103.m3u8",
     "type" : "LA LIGA ⚽️ ",
     "webFormatUrl" :"https://iscreativestudio.com/wp-content/uploads/2016/08/logotipos4.jpg"
     },
 		{
      "user" : "	Elche vs Atlético Madrid HD",
-    "pageUrl" : "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8",
+    "pageUrl" : "https://www.livedoomovies.com/02_epl2_720p_UK/chunklist.m3u8",
     "type" : "LA LIGA ⚽️",
     "webFormatUrl" :"https://iscreativestudio.com/wp-content/uploads/2016/08/logotipos4.jpg"
     },
