@@ -5,36 +5,7 @@
    	
    
 	
-	{
-     "user" : "	Newcastle United vs Arsenal SD",
-    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/114.m3u8",
-    "type" : "ENGLISH PREMIER LEAGUE ⚽️ ",
-    "webFormatUrl" :"https://i.pinimg.com/originals/23/72/64/23726435c00fa8a9ca4dca88bb0b9cd7.png"
-    },
-		{
-     "user" : "	Newcastle United vs Arsenal HD",
-    "pageUrl" : "http://50.7.161.82:8278/streams/d/Assp3/playlist.m3u8",
-    "type" : "ENGLISH PREMIER LEAGUE ⚽️ ",
-    "webFormatUrl" :"https://i.pinimg.com/originals/23/72/64/23726435c00fa8a9ca4dca88bb0b9cd7.png"
-    },	
-		{
-     "user" : "	Napoli vs Cagliari",
-    "pageUrl" : "http://ott-cdn.ucom.am/s81/04.m3u8",
-    "type" : "SERIE A ⚽️ ",
-    "webFormatUrl" :"https://i.pinimg.com/474x/2e/86/50/2e86505cb4d1d37b4a40a30b3162169a.jpg"
-    },
-		{
-     "user" : "	Sassuolo vs Atalanta",
-    "pageUrl" : "http://persik.by/stream/6696/480248/10217.m3u8",
-    "type" : "SERIE A ⚽️ ",
-    "webFormatUrl" :"https://i.pinimg.com/474x/2e/86/50/2e86505cb4d1d37b4a40a30b3162169a.jpg"
-    },
-		{
-     "user" : "Bologna vs Fiorentina",
-    "pageUrl" : "http://212.200.127.243:80/ArenaSport1/index.m3u8",
-    "type" : "SERIE A ⚽️ ",
-    "webFormatUrl" :"https://i.pinimg.com/474x/2e/86/50/2e86505cb4d1d37b4a40a30b3162169a.jpg"
-    },
+
 			{
      "user" : "Villarreal vs Getafe",
     "pageUrl" : "http://cdn.addressingethernet.xyz/hls/103.m3u8",
