@@ -6,20 +6,7 @@
    
 	
 
-			{
-     "user" : "Villarreal vs Getafe",
-    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/103.m3u8",
-    "type" : "SPANISH LA LIGA ⚽️ ",
-    "webFormatUrl" :"https://www.logolynx.com/images/logolynx/86/8685909e30a981ff724e050766fac344.png"
-    },
-
-
-			{
-     "user" : "Villarreal vs Getafe HD",
-    "pageUrl" : "http://persik.by/stream/6696/480248/346.m3u8",
-    "type" : "SPANISH LA LIGA ⚽️ ",
-    "webFormatUrl" :"https://www.logolynx.com/images/logolynx/86/8685909e30a981ff724e050766fac344.png"
-    },		{
+	{
      "user" : "	Manchester United vs Liverpool SD",
     "pageUrl" : "http://cdn.addressingethernet.xyz/hls/114.m3u8",
     "type" : "ENGLISH PREMIER LEAGUE ⚽️ ",
@@ -39,8 +26,16 @@
     "webFormatUrl" :"https://i.pinimg.com/474x/2e/86/50/2e86505cb4d1d37b4a40a30b3162169a.jpg"
     },
 		{
-     "user" : "Granada vs Cádiz",
-    "pageUrl" : "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8",
+     "user" : "Granada vs Cádiz SD",
+    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/103.m3u8",
+    "type" : "SPANISH LA LIGA ⚽️ ",
+    "webFormatUrl" :"https://www.logolynx.com/images/logolynx/86/8685909e30a981ff724e050766fac344.png"
+    },
+
+
+		{
+     "user" : "Granada vs Cádiz HD",
+    "pageUrl" : "http://persik.by/stream/6696/480248/346.m3u8",
     "type" : "SPANISH LA LIGA ⚽️ ",
     "webFormatUrl" :"https://www.logolynx.com/images/logolynx/86/8685909e30a981ff724e050766fac344.png"
     },
