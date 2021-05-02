@@ -3,20 +3,7 @@
 			
 	
    	
-   {
-     "user" : "Lazio vs Genoa HD",
-    "pageUrl" : "https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8",
-    "type" : "SERIE A ⚽️ ",
-    "webFormatUrl" :"https://i.pinimg.com/474x/2e/86/50/2e86505cb4d1d37b4a40a30b3162169a.jpg"
-    },
-
-
-		{
-     "user" : "Real Valladolid vs Real Betis SD",
-    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/103.m3u8",
-    "type" : "SPANISH LA LIGA ⚽️ ",
-    "webFormatUrl" :"https://www.logolynx.com/images/logolynx/86/8685909e30a981ff724e050766fac344.png"
-    },	
+   
 		{
      "user" : "Real Valladolid vs Real Betis HD",
     "pageUrl" : "https://www.livedoomovies.com/02_epl2_720p_UK/chunklist.m3u8",
@@ -25,25 +12,25 @@
     },
 	{
      "user" : "	Newcastle United vs Arsenal SD",
-    "pageUrl" : "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8",
+    "pageUrl" : "https://www.livedoomovies.com/02_PremierHD2_480p/chunklist.m3u8",
     "type" : "ENGLISH PREMIER LEAGUE ⚽️ ",
     "webFormatUrl" :"https://i.pinimg.com/originals/23/72/64/23726435c00fa8a9ca4dca88bb0b9cd7.png"
     },
 		{
      "user" : "	Newcastle United vs Arsenal HD",
-    "pageUrl" : "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8",
+    "pageUrl" : "https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8",
     "type" : "ENGLISH PREMIER LEAGUE ⚽️ ",
     "webFormatUrl" :"https://i.pinimg.com/originals/23/72/64/23726435c00fa8a9ca4dca88bb0b9cd7.png"
     },	
 		{
      "user" : "	Napoli vs Cagliari",
-    "pageUrl" : "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8",
+    "pageUrl" : "https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8",
     "type" : "SERIE A ⚽️ ",
     "webFormatUrl" :"https://i.pinimg.com/474x/2e/86/50/2e86505cb4d1d37b4a40a30b3162169a.jpg"
     },
 		{
      "user" : "	Sassuolo vs Atalanta",
-    "pageUrl" : "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8",
+    "pageUrl" : "http://persik.by/stream/6696/480248/10217.m3u8",
     "type" : "SERIE A ⚽️ ",
     "webFormatUrl" :"https://i.pinimg.com/474x/2e/86/50/2e86505cb4d1d37b4a40a30b3162169a.jpg"
     },
