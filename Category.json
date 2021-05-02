@@ -6,19 +6,7 @@
    
 	
 
-	{
-     "user" : "	Manchester United vs Liverpool SD",
-    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/114.m3u8",
-    "type" : "ENGLISH PREMIER LEAGUE ⚽️ ",
-    "webFormatUrl" :"https://i.pinimg.com/originals/23/72/64/23726435c00fa8a9ca4dca88bb0b9cd7.png"
-    },
-		{
-     "user" : "	Manchester United vs Liverpool HD",
-    "pageUrl" : "http://50.7.161.82:8278/streams/d/Assp3/playlist.m3u8",
-    "type" : "ENGLISH PREMIER LEAGUE ⚽️ ",
-    "webFormatUrl" :"https://i.pinimg.com/originals/23/72/64/23726435c00fa8a9ca4dca88bb0b9cd7.png"
-    },	
-		
+	
 		{
      "user" : "Udinese vs Juventus",
     "pageUrl" : "http://ott-cdn.ucom.am/s82/04.m3u8",
