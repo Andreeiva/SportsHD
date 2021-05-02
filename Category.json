@@ -9,10 +9,17 @@
     "type" : "SERIE A ⚽️ ",
     "webFormatUrl" :"https://i.pinimg.com/474x/2e/86/50/2e86505cb4d1d37b4a40a30b3162169a.jpg"
     },
-		
+
+
 		{
-     "user" : "Real Valladolid vs Real Betis",
-    "pageUrl" : "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8",
+     "user" : "Real Valladolid vs Real Betis SD",
+    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/103.m3u8",
+    "type" : "SPANISH LA LIGA ⚽️ ",
+    "webFormatUrl" :"https://www.logolynx.com/images/logolynx/86/8685909e30a981ff724e050766fac344.png"
+    },	
+		{
+     "user" : "Real Valladolid vs Real Betis HD",
+    "pageUrl" : "https://www.livedoomovies.com/02_epl2_720p_UK/chunklist.m3u8",
     "type" : "SPANISH LA LIGA ⚽️ ",
     "webFormatUrl" :"https://www.logolynx.com/images/logolynx/86/8685909e30a981ff724e050766fac344.png"
     },
