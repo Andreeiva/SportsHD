@@ -43,7 +43,7 @@
 
 
      "user" : "Torino vs Parma",
-    "pageUrl" : "http://persik.by/stream/6696/480248/10218.m3u8",
+    "pageUrl" : "https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8",
     "type" : "Italian Serie A ⚽️ ",
     "webFormatUrl" :"https://forzaitalianfootball.com/wp-content/uploads/2020/03/serie-a.png"
     },
@@ -55,8 +55,20 @@
 {
 
 
-     "user" : "Sevilla vs Athletic Club",
-    "pageUrl" : "http://persik.by/stream/6696/480248/10218.m3u8",
+     "user" : "Sevilla vs Athletic Club SD",
+    "pageUrl" : "http://23.237.78.54/live-1000/267/playlist.m3u8",
+    "type" : "La Liga ⚽️ ",
+    "webFormatUrl" :"https://iscreativestudio.com/wp-content/uploads/2016/08/logotipos4.jpg"
+    },
+
+
+
+    
+{
+
+
+     "user" : "Sevilla vs Athletic Club HD",
+    "pageUrl" : "http://ott-cdn.ucom.am/s81/04.m3u8",
     "type" : "La Liga ⚽️ ",
     "webFormatUrl" :"https://iscreativestudio.com/wp-content/uploads/2016/08/logotipos4.jpg"
     },
