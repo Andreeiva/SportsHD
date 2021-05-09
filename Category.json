@@ -3,68 +3,7 @@
 
 
  
-  	 
-
-
-		
-{
-     "user" : "Valencia vs Real Valladolid HD",
-    "pageUrl" : "http://ferrarico.referrari.com/live/60166_.m3u8",
-    "type" : "LA LIGA LIVE ⚽️ ",
-    "webFormatUrl" :"https://iscreativestudio.com/wp-content/uploads/2016/08/logotipos4.jpg"
-    },
-
-
-
-{
-     "user" : "Valencia vs Real Valladolid SD",
-    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/103.m3u8",
-    "type" : "LA LIGA LIVE ⚽️ ",
-    "webFormatUrl" :"https://iscreativestudio.com/wp-content/uploads/2016/08/logotipos4.jpg"
-    },
-
-	  {
-     "user" : "West Ham United vs Everton SD1(ENGLISH)",
-    "pageUrl" : "https://www.livedoomovies.com/02_PremierHD2_480p/chunklist.m3u8",
-    "type" : "PREMIER LEAGUE LIVE ⚽️ ",
-    "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-    },
-
-{
-     "user" : "West Ham United vs Everton SD2",
-    "pageUrl" : "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
-    "type" : "PREMIER LEAGUE LIVE ⚽️ ",
-    "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-    },
-		  {
-     "user" : "West Ham United vs Everton HD",
-    "pageUrl" : "https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8",
-    "type" : "PREMIER LEAGUE LIVE ⚽️ ",
-    "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-    },
-
-{
-     "user" :"Roma vs Crotone HD 1",
-    "pageUrl" : "https://www.livedoomovies.com/02_epl2_720p_UK/chunklist.m3u8",
-    "type" : "ITALIAN SERIE A ⚽️ ",
-    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Serie_A_logo_%282019%29.svg/1200px-Serie_A_logo_%282019%29.svg.png"
-    },
-
-
-{
-     "user" :"Roma vs Crotone HD 2",
-    "pageUrl" : "http://ott-cdn.ucom.am/s81/04.m3u8",
-    "type" : "ITALIAN SERIE A ⚽️ ",
-    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Serie_A_logo_%282019%29.svg/1200px-Serie_A_logo_%282019%29.svg.png"
-    },
-
-{
-     "user" : "Hertha BSC vs Arminia Bielefeld",
-    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/104.m3u8",
-    "type" : "GERMAN BUNDESLIGA ⚽️ ",
-    "webFormatUrl" :"https://i.pinimg.com/originals/33/fa/e3/33fae357c48ffd325d57e4a7a6de2e4e.png"
-    },
-
+  
 
 {
      "user" : "Villarreal vs Celta vigo HD",
@@ -83,8 +22,15 @@
     },
 
 {
-     "user" : "Arsenal vs West Bromwich Albion SD",
+     "user" : "Arsenal vs West Bromwich Albion SD(ENGLISH)",
     "pageUrl" : "https://www.livedoomovies.com/02_PremierHD2_480p/chunklist.m3u8",
+    "type" : "PREMIER LEAGUE LIVE ⚽️ ",
+    "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+    },
+
+{
+     "user" : "Arsenal vs West Bromwich Albion SD",
+    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/102.m3u8",
     "type" : "PREMIER LEAGUE LIVE ⚽️ ",
     "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
     },
@@ -95,18 +41,51 @@
     "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
     },
 
+		 
+
 
 {
-     "user" :"Juventus vs Ac Milan HD",
-    "pageUrl" : "http://persik.by/stream/6696/480248/10217.m3u8",
+     "user" :"Juventus vs Ac Milan HD 1",
+    "pageUrl" : "https://www.livedoomovies.com/02_epl2_720p_UK/chunklist.m3u8",
+    "type" : "ITALIAN SERIE A ⚽️ ",
+    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Serie_A_logo_%282019%29.svg/1200px-Serie_A_logo_%282019%29.svg.png"
+    },
+
+
+
+{
+     "user" :"Juventus vs Ac Milan HD 2",
+    "pageUrl" : "http://ott-cdn.ucom.am/s82/04.m3u8",
     "type" : "ITALIAN SERIE A ⚽️ ",
     "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Serie_A_logo_%282019%29.svg/1200px-Serie_A_logo_%282019%29.svg.png"
     },
 
 
 {
-     "user" : "Real Madrid vs Sevilla HD",
-    "pageUrl" : "http://persik.by/stream/6696/480248/346.m3u8",
+     "user" :"Juventus vs Ac Milan HD 3",
+    "pageUrl" : "https://chostv.mobie.in/choos/sports/matchqy2.m3u8",
+    "type" : "ITALIAN SERIE A ⚽️ ",
+    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Serie_A_logo_%282019%29.svg/1200px-Serie_A_logo_%282019%29.svg.png"
+    },
+
+{
+     "user" : "Real Madrid vs Sevilla HD 1",
+    "pageUrl" : "http://ott-cdn.ucom.am/s81/04.m3u8",
+    "type" : "LA LIGA LIVE ⚽️ ",
+    "webFormatUrl" :"https://iscreativestudio.com/wp-content/uploads/2016/08/logotipos4.jpg"
+    },
+
+{
+     "user" : "Real Madrid vs Sevilla HD 2",
+    "pageUrl" : "http://ferrarico.referrari.com/live/60166_.m3u8",
+    "type" : "LA LIGA LIVE ⚽️ ",
+    "webFormatUrl" :"https://iscreativestudio.com/wp-content/uploads/2016/08/logotipos4.jpg"
+    },
+
+
+{
+     "user" : "Real Madrid vs Sevilla SD",
+    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/103.m3u8",
     "type" : "LA LIGA LIVE ⚽️ ",
     "webFormatUrl" :"https://iscreativestudio.com/wp-content/uploads/2016/08/logotipos4.jpg"
     },
