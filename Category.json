@@ -10,11 +10,19 @@
      
 	
 		{
-     "user" :"Genoa vs Sassuolo HD",
-    "pageUrl" : "http://persik.by/stream/6696/480248/10217.m3u8",
+     "user" :"Genoa vs Sassuolo SD",
+    "pageUrl" : "http://ott-cdn.ucom.am/s81/04.m3u8",
     "type" : "ITALIAN SERIE A ⚽️ ",
     "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Serie_A_logo_%282019%29.svg/1200px-Serie_A_logo_%282019%29.svg.png"
-    },  {
+    },
+
+{
+     "user" :"Genoa vs Sassuolo HD",
+    "pageUrl" : "https://www.livedoomovies.com/02_epl2_720p_UK/chunklist.m3u8",
+    "type" : "ITALIAN SERIE A ⚽️ ",
+    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Serie_A_logo_%282019%29.svg/1200px-Serie_A_logo_%282019%29.svg.png"
+    },
+  {
      "user" : "Wolves vs Brighton Holves Albion SD",
     "pageUrl" : "https://www.livedoomovies.com/02_PremierHD2_480p/chunklist.m3u8",
     "type" : "PREMIER LEAGUE LIVE ⚽️ ",
