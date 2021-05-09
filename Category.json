@@ -6,63 +6,7 @@
   	 
 
 
-		{
-     "user" :"Benevento vs Cagliari HD",
-    "pageUrl" : "http://ferrarico.referrari.com/live/60171_.m3u8",
-    "type" : "ITALIAN SERIE A ⚽️ ",
-    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Serie_A_logo_%282019%29.svg/1200px-Serie_A_logo_%282019%29.svg.png"
-    },
-
-
-	
-		{
-     "user" :"Parma vs Atalanta HD",
-    "pageUrl" : "https://www.livedoomovies.com/02_epl2_720p_UK/chunklist.m3u8",
-    "type" : "ITALIAN SERIE A ⚽️ ",
-    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Serie_A_logo_%282019%29.svg/1200px-Serie_A_logo_%282019%29.svg.png"
-    },
-
-	
-		{
-     "user" :"Parma vs Atalanta SD",
-    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/120.m3u8",
-    "type" : "ITALIAN SERIE A ⚽️ ",
-    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Serie_A_logo_%282019%29.svg/1200px-Serie_A_logo_%282019%29.svg.png"
-    },
-	{
-     "user" :"Hellas Verona vs Torino HD",
-    "pageUrl" : "http://93.157.62.180/ArenaSport3/index.m3u8",
-    "type" : "ITALIAN SERIE A ⚽️ ",
-    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Serie_A_logo_%282019%29.svg/1200px-Serie_A_logo_%282019%29.svg.png"
-    },
-
-	{
-     "user" :"Hellas Verona vs Torino SD",
-    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/121.m3u8",
-    "type" : "ITALIAN SERIE A ⚽️ ",
-    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Serie_A_logo_%282019%29.svg/1200px-Serie_A_logo_%282019%29.svg.png"
-    },
-
-	  {
-     "user" : "Aston Villa vs Manchester United SD 1",
-    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/102.m3u8",
-    "type" : "PREMIER LEAGUE LIVE ⚽️ ",
-    "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-    },
-		  {
-     "user" : "Aston Villa vs Manchester United SD 2(ENGLISH)",
-    "pageUrl" : "https://www.livedoomovies.com/02_PremierHD2_480p/chunklist.m3u8",
-    "type" : "PREMIER LEAGUE LIVE ⚽️ ",
-    "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-    },
-
-
-{
-     "user" : "Aston Villa vs Manchester United HD (ENGLISH)",
-    "pageUrl" : "http://50.7.161.82:8278/streams/d/Assp3/playlist.m3u8",
-    "type" : "PREMIER LEAGUE LIVE ⚽️ ",
-    "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-    },
+		
 {
      "user" : "EINTRACHT FRANKFURT VS MAINZ HD",
     "pageUrl" : "http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8",
@@ -87,8 +31,15 @@
     },
 
 	  {
-     "user" : "West Ham United vs Everton SD",
+     "user" : "West Ham United vs Everton SD1(ENGLISH)",
     "pageUrl" : "https://www.livedoomovies.com/02_PremierHD2_480p/chunklist.m3u8",
+    "type" : "PREMIER LEAGUE LIVE ⚽️ ",
+    "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+    },
+
+{
+     "user" : "West Ham United vs Everton SD2",
+    "pageUrl" : "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
     "type" : "PREMIER LEAGUE LIVE ⚽️ ",
     "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
     },
