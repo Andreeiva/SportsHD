@@ -2,15 +2,70 @@
 	"hits": [
 
 
+{
+     "user" : "Manchester United vs Leicester City SD",
+    "pageUrl" : "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8",
+    "type" : "English Premier League ⚽️ ",
+    "webFormatUrl" :"https://i.pinimg.com/originals/23/72/64/23726435c00fa8a9ca4dca88bb0b9cd7.png"
+    },
+		{
+     "user" : "Manchester United vs Leicester City HD",
+    "pageUrl" : "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8",
+    "type" : "English Premier League ⚽️ ",
+    "webFormatUrl" :"https://i.pinimg.com/originals/23/72/64/23726435c00fa8a9ca4dca88bb0b9cd7.png"
+    },
+
 
 
 {
-     "user" : "LIVE SPORTS",
+     "user" : "OSASUNA VS CADIZ",
     "pageUrl" : "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8",
+    "type" : "SPANISH LA LIGA ⚽️ ",
+    "webFormatUrl" :"https://img.pngio.com/la-liga-wikipedia-la-liga-logo-png-225_225.png"
+    }, 
+{
+     "user" : "	Elche vs Deportivo Alavés SD",
+    "pageUrl" : "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8",
+    "type" : "SPANISH LA LLIGA ⚽️ ",
+    "webFormatUrl" :"https://img.pngio.com/la-liga-wikipedia-la-liga-logo-png-225_225.png"
+    }, 
+		{
+     "user" : "	Elche vs Deportivo Alavés HD",
+    "pageUrl" : "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8",
+    "type" : "SPANISH LA LLIGA ⚽️ ",
+    "webFormatUrl" :"https://img.pngio.com/la-liga-wikipedia-la-liga-logo-png-225_225.png"
+    }, 
+  {
+     "user" : "NAPOLI VS UDINESE HD1",
+    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
     "type" : "LIVE SPORTS ⚽️ ",
     "webFormatUrl" :"https://image.shutterstock.com/image-illustration/live-streaming-sports-broadcast-soccer-260nw-716196589.jpg"
+    },
+		 {
+     "user" : "NAPOLI VS UDINESE HD2",
+    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+    "type" : "LIVE SPORTS ⚽️ ",
+    "webFormatUrl" :"https://image.shutterstock.com/image-illustration/live-streaming-sports-broadcast-soccer-260nw-716196589.jpg"
+    },
+		{
+     "user" : "Southampton vs Crystal Palace SD",
+    "pageUrl" : "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8",
+    "type" : "English Premier League ⚽️ ",
+    "webFormatUrl" :"https://i.pinimg.com/originals/23/72/64/23726435c00fa8a9ca4dca88bb0b9cd7.png"
+    },
+		{
+     "user" : "Southampton vs Crystal Palace HD",
+    "pageUrl" : "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8",
+    "type" : "English Premier League ⚽️ ",
+    "webFormatUrl" :"https://i.pinimg.com/originals/23/72/64/23726435c00fa8a9ca4dca88bb0b9cd7.png"
+    },
+		
+		{
+     "user" : "	Levante vs Barcelona HD",
+    "pageUrl" : "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8",
+    "type" : "SPANISH LA LLIGA ⚽️ ",
+    "webFormatUrl" :"https://img.pngio.com/la-liga-wikipedia-la-liga-logo-png-225_225.png"
     }, 
-
 
      {
      "user" : "LIVE SPORTS",
