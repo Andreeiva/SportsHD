@@ -1,24 +1,6 @@
 {
 	"hits": [
-{
-     "user" : "	Elche vs Deportivo Alavés SD",
-    "pageUrl" : "https://chostv.mobie.in/choos/sports/matchqy1.m3u8",
-    "type" : "SPANISH LA LLIGA ⚽️ ",
-    "webFormatUrl" :"https://img.pngio.com/la-liga-wikipedia-la-liga-logo-png-225_225.png"
-    }, 
-		
-  {
-     "user" : "NAPOLI VS UDINESE HD1",
-    "pageUrl" : "http://ott-cdn.ucom.am/s82/04.m3u8",
-    "type" : "LIVE SPORTS ⚽️ ",
-    "webFormatUrl" :"https://forzaitalianfootball.com/wp-content/uploads/2020/03/serie-a.png"
-    },
-		 {
-     "user" : "NAPOLI VS UDINESE HD2",
-    "pageUrl" : "https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8",
-    "type" : "LIVE SPORTS ⚽️ ",
-    "webFormatUrl" :"https://forzaitalianfootball.com/wp-content/uploads/2020/03/serie-a.png"
-    },
+
 		{
      "user" : "Southampton vs Crystal Palace SD",
     "pageUrl" : "https://www.livedoomovies.com/02_PremierHD2_480p/chunklist.m3u8",
