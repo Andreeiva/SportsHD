@@ -4,56 +4,108 @@
 
 	
      {
-     "user" : "Spezia vs Napoli",
+     "user" : "Schalke 04 vs Hertha BSC",
     "pageUrl" : "https://drevanet.com/wp-content/uploads/2021/05/spezia-vs-napoli.mp4",
-    "type" : "SERIE A HIGHLIGHTS ⚽️ ",
+    "type" : "Bundesliga ⚽️ ",
+    "webFormatUrl" :"https://i.pinimg.com/originals/6b/a3/18/6ba318474e4cab7cef32a965fd6b982c.png"
+    },
+	 {
+     "user" : "Cagliari vs Fiorentina",
+    "pageUrl" : "https://drevanet.com/wp-content/uploads/2021/05/spezia-vs-napoli.mp4",
+    "type" : "SERIE A  ⚽️ ",
     "webFormatUrl" :"https://forzaitalianfootball.com/wp-content/uploads/2020/03/serie-a.png"
     },
 
      {
-     "user" : "Roma vs Crotone",
+     "user" : "Sevilla vs Valencia",
     "pageUrl" : "https://drevanet.com/wp-content/uploads/2021/05/roma-vs-crotone.mp4",
-    "type" : "SERIE A HIGHLIGHTS ⚽️ ",
+    "type" : "LA LIGA ⚽️ ",
+    "webFormatUrl" :"https://www.nicepng.com/png/detail/927-9274069_laliga-santander-la-liga-santander-logo.png"
+    },
+		  {
+     "user" : "Celta de Vigo vs Getafe",
+    "pageUrl" : "https://drevanet.com/wp-content/uploads/2021/05/roma-vs-crotone.mp4",
+    "type" : "LA LIGA ⚽️ ",
+    "webFormatUrl" :"https://www.nicepng.com/png/detail/927-9274069_laliga-santander-la-liga-santander-logo.png"
+    },
+		  {
+     "user" : "SD Huesca vs Athletic Club",
+    "pageUrl" : "https://drevanet.com/wp-content/uploads/2021/05/roma-vs-crotone.mp4",
+    "type" : "LA LIGA ⚽️ ",
+    "webFormatUrl" :"https://www.nicepng.com/png/detail/927-9274069_laliga-santander-la-liga-santander-logo.png"
+    },
+			 {
+     "user" : "Lazio vs Parma",
+    "pageUrl" : "https://drevanet.com/wp-content/uploads/2021/05/spezia-vs-napoli.mp4",
+    "type" : "SERIE A  ⚽️ ",
     "webFormatUrl" :"https://forzaitalianfootball.com/wp-content/uploads/2020/03/serie-a.png"
     },
-{
-     "user" : "Parma vs Atalanta",
-    "pageUrl" : "https://drevanet.com/wp-content/uploads/2021/05/parma-vs-atalanta.mp4",
-    "type" : "SERIE A HIGHLIGHTS ⚽️ ",
+			 {
+     "user" : "Torino vs Milan",
+    "pageUrl" : "https://drevanet.com/wp-content/uploads/2021/05/spezia-vs-napoli.mp4",
+    "type" : "SERIE A  ⚽️ ",
     "webFormatUrl" :"https://forzaitalianfootball.com/wp-content/uploads/2020/03/serie-a.png"
     },
-{
-     "user" : "Juventus vs AC Milan",
-    "pageUrl" : "https://drevanet.com/wp-content/uploads/2021/05/juventus-vs-milan.mp4",
-    "type" : "SERIE A HIGHLIGHTS ⚽️ ",
+			 {
+     "user" : "Bologna vs Genoa",
+    "pageUrl" : "https://drevanet.com/wp-content/uploads/2021/05/spezia-vs-napoli.mp4",
+    "type" : "SERIE A  ⚽️ ",
     "webFormatUrl" :"https://forzaitalianfootball.com/wp-content/uploads/2020/03/serie-a.png"
     },
-{
-     "user" : "Internazionale vs Sampdoria",
-    "pageUrl" : "https://drevanet.com/wp-content/uploads/2021/05/inter-vs-sampdoria.mp4",
-    "type" : "SERIE A HIGHLIGHTS ⚽️ ",
+			 {
+     "user" : "Sampdoria vs Spezia",
+    "pageUrl" : "https://drevanet.com/wp-content/uploads/2021/05/spezia-vs-napoli.mp4",
+    "type" : "SERIE A  ⚽️ ",
     "webFormatUrl" :"https://forzaitalianfootball.com/wp-content/uploads/2020/03/serie-a.png"
     },
-{
-     "user" : "Genoa vs Sassuolo",
-    "pageUrl" : "https://drevanet.com/wp-content/uploads/2021/05/genoa-vs-sasuolo.mp4",
-    "type" : "SERIE A HIGHLIGHTS ⚽️ ",
+			 {
+     "user" : "Sassuolo vs Juventus",
+    "pageUrl" : "https://drevanet.com/wp-content/uploads/2021/05/spezia-vs-napoli.mp4",
+    "type" : "SERIE A  ⚽️ ",
     "webFormatUrl" :"https://forzaitalianfootball.com/wp-content/uploads/2020/03/serie-a.png"
     },
-
-    {
-     "user" : "Fiorentina vs Lazio",
-    "pageUrl" : "https://drevanet.com/wp-content/uploads/2021/05/fiorentina-vs-lazio.mp4",
-    "type" : "SERIE A HIGHLIGHTS ⚽️ ",
+			 {
+     "user" : "Atalanta vs Benevento",
+    "pageUrl" : "https://drevanet.com/wp-content/uploads/2021/05/spezia-vs-napoli.mp4",
+    "type" : "SERIE A  ⚽️ ",
     "webFormatUrl" :"https://forzaitalianfootball.com/wp-content/uploads/2020/03/serie-a.png"
     },
-{
-     "user" : "Benevento vs Cagliari",
-    "pageUrl" : "https://drevanet.com/wp-content/uploads/2021/05/benevento-vs-cagliari.mp4",
-    "type" : "SERIE A HIGHLIGHTS ⚽️ ",
+			 {
+     "user" : "Internazionale vs Roma",
+    "pageUrl" : "https://drevanet.com/wp-content/uploads/2021/05/spezia-vs-napoli.mp4",
+    "type" : "SERIE A  ⚽️ ",
     "webFormatUrl" :"https://forzaitalianfootball.com/wp-content/uploads/2020/03/serie-a.png"
+    },
+			 {
+     "user" : "Montpellier vs PSG",
+    "pageUrl" : "https://drevanet.com/wp-content/uploads/2021/05/spezia-vs-napoli.mp4",
+    "type" : "CUOPE DE FRANCE  ⚽️ ",
+    "webFormatUrl" :"https://www.pngkey.com/png/detail/342-3429940_coupe-de-france-france-world-cup-logo.png"
+    },	
+ {
+     "user" : "CHELSEA VS ARSENAL SD",
+    "pageUrl" : "https://drevanet.com/wp-content/uploads/2021/05/spezia-vs-napoli.mp4",
+    "type" : "ENGLISH PREMIER LEAGUE ⚽️ ",
+    "webFormatUrl" :"https://i.pinimg.com/originals/23/72/64/23726435c00fa8a9ca4dca88bb0b9cd7.png"
+    },
+		 {
+     "user" : "CHELSEA VS ARSENAL HD",
+    "pageUrl" : "https://drevanet.com/wp-content/uploads/2021/05/spezia-vs-napoli.mp4",
+    "type" : "ENGLISH PREMIER LEAGUE ⚽️ ",
+    "webFormatUrl" :"https://i.pinimg.com/originals/23/72/64/23726435c00fa8a9ca4dca88bb0b9cd7.png"
+    },
+		 {
+     "user" : "ATHLETICO MADRID VS REAL SOCIEDAD",
+    "pageUrl" : "https://drevanet.com/wp-content/uploads/2021/05/roma-vs-crotone.mp4",
+    "type" : "LA LIGA ⚽️ ",
+    "webFormatUrl" :"https://www.nicepng.com/png/detail/927-9274069_laliga-santander-la-liga-santander-logo.png"
+    },
+      {
+     "user" : "LIVE SPORTS",
+    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+    "type" : "LIVE SPORTS ⚽️ ",
+    "webFormatUrl" :"https://image.shutterstock.com/image-illustration/live-streaming-sports-broadcast-soccer-260nw-716196589.jpg"
     }
-     
 
 	]
 
