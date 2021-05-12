@@ -101,11 +101,19 @@
     "webFormatUrl" :"https://i.pinimg.com/originals/23/72/64/23726435c00fa8a9ca4dca88bb0b9cd7.png"
     },
 		 {
-     "user" : "ATHLETICO MADRID VS REAL SOCIEDAD",
+     "user" : "ATHLETICO MADRID VS REAL SOCIEDAD HD",
     "pageUrl" : "http://ott-cdn.ucom.am/s81/04.m3u8",
     "type" : "LA LIGA ⚽️ ",
     "webFormatUrl" :"https://www.nicepng.com/png/detail/927-9274069_laliga-santander-la-liga-santander-logo.png"
     },
+ {
+     "user" : "ATHLETICO MADRID VS REAL SOCIEDAD SD",
+    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/103.m3u8",
+    "type" : "LA LIGA ⚽️ ",
+    "webFormatUrl" :"https://www.nicepng.com/png/detail/927-9274069_laliga-santander-la-liga-santander-logo.png"
+    },
+
+
       {
      "user" : "LIVE SPORTS",
     "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
