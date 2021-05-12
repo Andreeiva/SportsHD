@@ -4,13 +4,7 @@
 
 	
      
-     {
-     "user" : "Sevilla vs Valencia",
-    "pageUrl" : "http://ott-cdn.ucom.am/s81/04.m3u8",
-    "type" : "LA LIGA ⚽️ ",
-    "webFormatUrl" :"https://www.nicepng.com/png/detail/927-9274069_laliga-santander-la-liga-santander-logo.png"
-    },
-		 
+     	 
 		  {
      "user" : "SD Huesca vs Athletic Club",
     "pageUrl" : "http://ferrarico.referrari.com/live/60169_.m3u8",
@@ -61,7 +55,7 @@
     },
 			 {
      "user" : "Montpellier vs PSG",
-    "pageUrl" : "https://drevanet.com/wp-content/uploads/2021/05/spezia-vs-napoli.mp4",
+    "pageUrl" : "http://ferrarico.referrari.com/live/60167_.m3u8",
     "type" : "CUOPE DE FRANCE  ⚽️ ",
     "webFormatUrl" :"https://www.pngkey.com/png/detail/342-3429940_coupe-de-france-france-world-cup-logo.png"
     },	
@@ -79,7 +73,7 @@
     },
 		 {
      "user" : "ATHLETICO MADRID VS REAL SOCIEDAD",
-    "pageUrl" : "https://drevanet.com/wp-content/uploads/2021/05/roma-vs-crotone.mp4",
+    "pageUrl" : "http://ott-cdn.ucom.am/s81/04.m3u8",
     "type" : "LA LIGA ⚽️ ",
     "webFormatUrl" :"https://www.nicepng.com/png/detail/927-9274069_laliga-santander-la-liga-santander-logo.png"
     },
