@@ -6,70 +6,7 @@
      
      	 
 		
-			 {
-     "user" : "Lazio vs Parma",
-    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/111.m3u8",
-    "type" : "SERIE A  ⚽️ ",
-    "webFormatUrl" :"https://forzaitalianfootball.com/wp-content/uploads/2020/03/serie-a.png"
-    },
-			 {
-     "user" : "Torino vs Milan SD",
-    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/114.m3u8",
-    "type" : "SERIE A  ⚽️ ",
-    "webFormatUrl" :"https://forzaitalianfootball.com/wp-content/uploads/2020/03/serie-a.png"
-    },
-
-
-	 {
-     "user" : "Torino vs Milan HD",
-    "pageUrl" : "http://93.157.62.180/ArenaSport3/index.m3u8",
-    "type" : "SERIE A  ⚽️ ",
-    "webFormatUrl" :"https://forzaitalianfootball.com/wp-content/uploads/2020/03/serie-a.png"
-    },			 {
-     "user" : "Bologna vs Genoa",
-    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/109.m3u8",
-    "type" : "SERIE A  ⚽️ ",
-    "webFormatUrl" :"https://forzaitalianfootball.com/wp-content/uploads/2020/03/serie-a.png"
-    },
-			 {
-     "user" : "Sampdoria vs Spezia",
-    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/112.m3u8",
-    "type" : "SERIE A  ⚽️ ",
-    "webFormatUrl" :"https://forzaitalianfootball.com/wp-content/uploads/2020/03/serie-a.png"
-    },
-	 {
-     "user" : "Sassuolo vs Juventus",
-    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/113.m3u8",
-    "type" : "SERIE A  ⚽️ ",
-    "webFormatUrl" :"https://forzaitalianfootball.com/wp-content/uploads/2020/03/serie-a.png"
-    },
-
-	 {
-     "user" : "Sassuolo vs Juventus HD",
-    "pageUrl" : "http://ferrarico.referrari.com/live/60172_.m3u8",
-    "type" : "SERIE A  ⚽️ ",
-    "webFormatUrl" :"https://forzaitalianfootball.com/wp-content/uploads/2020/03/serie-a.png"
-    },
-
-	 {
-     "user" : "Atalanta vs Benevento",
-    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/108.m3u8",
-    "type" : "SERIE A  ⚽️ ",
-    "webFormatUrl" :"https://forzaitalianfootball.com/wp-content/uploads/2020/03/serie-a.png"
-    },
-			 {
-     "user" : "Internazionale vs Roma SD",
-    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/110.m3u8",
-    "type" : "SERIE A  ⚽️ ",
-    "webFormatUrl" :"https://forzaitalianfootball.com/wp-content/uploads/2020/03/serie-a.png"
-    },
-		 {
-     "user" : "Internazionale vs Roma HD",
-    "pageUrl" : "http://ferrarico.referrari.com/live/60168_.m3u8",
-    "type" : "SERIE A  ⚽️ ",
-    "webFormatUrl" :"https://forzaitalianfootball.com/wp-content/uploads/2020/03/serie-a.png"
-    },
-
+			 
 
 			 {
      "user" : "Montpellier vs PSG",
