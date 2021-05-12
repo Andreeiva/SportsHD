@@ -10,12 +10,18 @@
     "webFormatUrl" :"https://i.pinimg.com/originals/6b/a3/18/6ba318474e4cab7cef32a965fd6b982c.png"
     },
 	 {
-     "user" : "Cagliari vs Fiorentina",
-    "pageUrl" : "https://drevanet.com/wp-content/uploads/2021/05/spezia-vs-napoli.mp4",
+     "user" : "Cagliari vs Fiorentina HD1",
+    "pageUrl" : "http://ott-cdn.ucom.am/s82/04.m3u8",
     "type" : "SERIE A  ⚽️ ",
     "webFormatUrl" :"https://forzaitalianfootball.com/wp-content/uploads/2020/03/serie-a.png"
     },
 
+	 {
+     "user" : "Cagliari vs Fiorentina HD2",
+    "pageUrl" : "https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8",
+    "type" : "SERIE A  ⚽️ ",
+    "webFormatUrl" :"https://forzaitalianfootball.com/wp-content/uploads/2020/03/serie-a.png"
+    },
      {
      "user" : "Sevilla vs Valencia",
     "pageUrl" : "https://drevanet.com/wp-content/uploads/2021/05/roma-vs-crotone.mp4",
