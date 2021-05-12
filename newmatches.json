@@ -21,7 +21,7 @@
     "pageUrl" : "https://drevanet.com/wp-content/uploads/2021/05/parma-vs-atalanta.mp4",
     "type" : "SERIE A HIGHLIGHTS ⚽️ ",
     "webFormatUrl" :"https://forzaitalianfootball.com/wp-content/uploads/2020/03/serie-a.png"
-    },
+    },3
 {
      "user" : "Juventus vs AC Milan",
     "pageUrl" : "https://drevanet.com/wp-content/uploads/2021/05/juventus-vs-milan.mp4",
@@ -52,15 +52,6 @@
     "pageUrl" : "https://drevanet.com/wp-content/uploads/2021/05/benevento-vs-cagliari.mp4",
     "type" : "SERIE A HIGHLIGHTS ⚽️ ",
     "webFormatUrl" :"https://forzaitalianfootball.com/wp-content/uploads/2020/03/serie-a.png"
-    },
-
-
-
- {
-     "user" : "LIVE SPORTS",
-    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
-    "type" : "LIVE SPORTS ⚽️ ",
-    "webFormatUrl" :"https://image.shutterstock.com/image-illustration/live-streaming-sports-broadcast-soccer-260nw-716196589.jpg"
     }
      
 
