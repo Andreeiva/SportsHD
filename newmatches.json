@@ -42,10 +42,40 @@
      "user" : "RB LEIPZIG VS BORRUSIA DORTMUD",
     "pageUrl" : "https://drevanet.com/wp-content/uploads/2021/05/benevento-vs-cagliari.mp4",
     "type" : "DFB POKAL ⚽️ ",
-    "webFormatUrl" :"https://forzaitalianfootball.com/wp-content/uploads/2020/03/serie-a.png"
+    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/DFB-Pokal_logo_2016.svg/1200px-DFB-Pokal_logo_2016.svg.png"
+    },
+		 {
+     "user" : "Manchester United vs Liverpool SD",
+    "pageUrl" : "https://drevanet.com/wp-content/uploads/2021/05/fiorentina-vs-lazio.mp4",
+    "type" : "ENGLISH PREMIER LEAGUE ⚽️ ",
+    "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
     },
 
+{
+     "user" : "Manchester United vs Liverpool HD",
+    "pageUrl" : "https://drevanet.com/wp-content/uploads/2021/05/fiorentina-vs-lazio.mp4",
+    "type" : "ENGLISH PREMIER LEAGUE ⚽️ ",
+    "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+    },
+		{
+     "user" : "Rumilly Vallières vs Monaco HD",
+    "pageUrl" : "https://drevanet.com/wp-content/uploads/2021/05/fiorentina-vs-lazio.mp4",
+    "type" : "France - Coupe de France ⚽️ ",
+    "webFormatUrl" :"https://www.thesportsdb.com/images/media/league/badge/l6fitb1546469041.png"
+    },
 
+{
+     "user" : "Eibar vs Real Betis SD",
+    "pageUrl" : "https://drevanet.com/wp-content/uploads/2021/05/fiorentina-vs-lazio.mp4",
+    "type" : "SPANISH LA LIGA ⚽️ ",
+    "webFormatUrl" :"https://img.pngio.com/la-liga-wikipedia-la-liga-logo-png-225_225.png"
+    },
+		{
+     "user" : "Eibar vs Real Betis HD",
+    "pageUrl" : "https://drevanet.com/wp-content/uploads/2021/05/fiorentina-vs-lazio.mp4",
+    "type" : "SPANISH LA LIGA ⚽️ ",
+    "webFormatUrl" :"https://img.pngio.com/la-liga-wikipedia-la-liga-logo-png-225_225.png"
+    },
 
  {
      "user" : "LIVE SPORTS",
