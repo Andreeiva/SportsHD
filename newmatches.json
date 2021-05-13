@@ -5,58 +5,6 @@
 
     
 
-{
-     "user" : "CROTONE VS HELLAS VERONA  HD",
-    "pageUrl" : "http://ott-cdn.ucom.am/s82/04.m3u8",
-    "type" : "SERIE A ⚽️ ",
-    "webFormatUrl" :"https://forzaitalianfootball.com/wp-content/uploads/2020/03/serie-a.png"
-    },
-
-
-{
-     "user" : "CROTONE VS HELLAS VERONA  SD",
-    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/104.m3u8",
-    "type" : "SERIE A ⚽️ ",
-    "webFormatUrl" :"https://forzaitalianfootball.com/wp-content/uploads/2020/03/serie-a.png"
-    },
-{
-     "user" : "RB LEIPZIG VS BORRUSIA DORTMUD",
-    "pageUrl" : "http://50.7.161.82:8278/streams/d/Assp4/playlist.m3u8",
-    "type" : "DFB POKAL ⚽️ ",
-    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/DFB-Pokal_logo_2016.svg/1200px-DFB-Pokal_logo_2016.svg.png"
-    },
-		 {
-     "user" : "Manchester United vs Liverpool SD",
-    "pageUrl" : "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8",
-    "type" : "ENGLISH PREMIER LEAGUE ⚽️ ",
-    "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-    },
-
-{
-     "user" : "Manchester United vs Liverpool HD",
-    "pageUrl" : "http://50.7.161.82:8278/streams/d/Assp3/playlist.m3u8",
-    "type" : "ENGLISH PREMIER LEAGUE ⚽️ ",
-    "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-    },
-		{
-     "user" : "Rumilly Vallières vs Monaco HD",
-    "pageUrl" : "http://ferrarico.referrari.com/live/60167_.m3u8",
-    "type" : "France - Coupe de France ⚽️ ",
-    "webFormatUrl" :"https://www.thesportsdb.com/images/media/league/badge/l6fitb1546469041.png"
-    },
-
-{
-     "user" : "Granada vs Real Madrid SD",
-    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/102.m3u8",
-    "type" : "SPANISH LA LIGA ⚽️ ",
-    "webFormatUrl" :"https://img.pngio.com/la-liga-wikipedia-la-liga-logo-png-225_225.png"
-    },
-		{
-     "user" : "Granada vs Real Madrid HD",
-    "pageUrl" : "http://ott-cdn.ucom.am/s81/04.m3u8",
-    "type" : "SPANISH LA LIGA ⚽️ ",
-    "webFormatUrl" :"https://img.pngio.com/la-liga-wikipedia-la-liga-logo-png-225_225.png"
-    },
 
  {
      "user" : "LIVE SPORTS",
