@@ -10,7 +10,7 @@
 
 
  {
-     "user" : "BURNLEY VS LEEDS UNITED  SD",
+     "user" : "BURNLEY VS LEEDS UNITED  HD",
     "pageUrl" : "http://50.7.161.82:8278/streams/d/Assp3/playlist.m3u8",
     "type" : "ENGLISH  PREMIER LEAGUE ⚽️ ",
     "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
@@ -19,8 +19,8 @@
 
 
  {
-     "user" : "BURNLEY VS LEEDS UNITED  HD",
-    "pageUrl" : "http://50.7.161.82:8278/streams/d/Assp3/playlist.m3u8",
+     "user" : "BURNLEY VS LEEDS UNITED  SD",
+    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/104.m3u8",
     "type" : "ENGLISH  PREMIER LEAGUE ⚽️ ",
     "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
     },
