@@ -24,15 +24,121 @@
     "type" : "ENGLISH  PREMIER LEAGUE ⚽️ ",
     "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
     },
+		{
+     "user" : "Spezia vs Torino HD",
+    "pageUrl" : "http://50.7.161.82:8278/streams/d/Assp1/playlist.m3u8",
+    "type" : "ITALIAN SERIE A ⚽️ ",
+    "webFormatUrl" :"https://1000logos.net/wp-content/uploads/2019/01/Italian-Serie-A-Logo.png"
+    },
+		{
+     "user" : "Genoa vs Atalanta HD",
+    "pageUrl" : "http://50.7.161.82:8278/streams/d/Assp1/playlist.m3u8",
+    "type" : "ITALIAN SERIE A ⚽️ ",
+    "webFormatUrl" :"https://1000logos.net/wp-content/uploads/2019/01/Italian-Serie-A-Logo.png"
+    },
+		{
+     "user" : "	Hertha BSC vs Köln HD",
+    "pageUrl" : "http://50.7.161.82:8278/streams/d/Assp1/playlist.m3u8",
+    "type" : "GERMAN BUNDESLIGA ⚽️ ",
+    "webFormatUrl" :"https://i.pinimg.com/originals/6b/a3/18/6ba318474e4cab7cef32a965fd6b982c.png"
+    },
+		{
+     "user" : "Augsburg vs Werder Bremen HD",
+    "pageUrl" : "http://50.7.161.82:8278/streams/d/Assp1/playlist.m3u8",
+    "type" : "GERMAN BUNDESLIGA ⚽️ ",
+    "webFormatUrl" :"https://i.pinimg.com/originals/6b/a3/18/6ba318474e4cab7cef32a965fd6b982c.png"
+    },
+		{
+     "user" : "	Freiburg vs Bayern München HD",
+    "pageUrl" : "http://50.7.161.82:8278/streams/d/Assp1/playlist.m3u8",
+    "type" : "GERMAN BUNDESLIGA ⚽️ ",
+    "webFormatUrl" :"https://i.pinimg.com/originals/6b/a3/18/6ba318474e4cab7cef32a965fd6b982c.png"
+    },
+		{
+     "user" : "	Arminia Bielefeld vs Hoffenheim HD",
+    "pageUrl" : "http://50.7.161.82:8278/streams/d/Assp1/playlist.m3u8",
+    "type" : "GERMAN BUNDESLIGA ⚽️ ",
+    "webFormatUrl" :"https://i.pinimg.com/originals/6b/a3/18/6ba318474e4cab7cef32a965fd6b982c.png"
+    },
+		{
+     "user" : "Bayer Leverkusen vs Union BerlinHD",
+    "pageUrl" : "http://50.7.161.82:8278/streams/d/Assp1/playlist.m3u8",
+    "type" : "GERMAN BUNDESLIGA ⚽️ ",
+    "webFormatUrl" :"https://i.pinimg.com/originals/6b/a3/18/6ba318474e4cab7cef32a965fd6b982c.png"
+    },
+		{
+     "user" : "Borussia M'gladbach vs Stuttgart HD",
+    "pageUrl" : "http://50.7.161.82:8278/streams/d/Assp1/playlist.m3u8",
+    "type" : "GERMAN BUNDESLIGA ⚽️ ",
+    "webFormatUrl" :"https://i.pinimg.com/originals/6b/a3/18/6ba318474e4cab7cef32a965fd6b982c.png"
+    },
+			{
+     "user" : "	Schalke 04 vs Eintracht Frankfurt HD",
+    "pageUrl" : "http://50.7.161.82:8278/streams/d/Assp1/playlist.m3u8",
+    "type" : "GERMAN BUNDESLIGA ⚽️ ",
+    "webFormatUrl" :"https://i.pinimg.com/originals/6b/a3/18/6ba318474e4cab7cef32a965fd6b982c.png"
+    },
 
-
-
+ {
+     "user" : "	Southampton vs Fulham  SD",
+    "pageUrl" : "http://50.7.161.82:8278/streams/d/Assp1/playlist.m3u8",
+    "type" : "ENGLISH  PREMIER LEAGUE ⚽️ ",
+    "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+    },
+		 {
+     "user" : "	Southampton vs Fulham  HD",
+    "pageUrl" : "http://50.7.161.82:8278/streams/d/Assp1/playlist.m3u8",
+    "type" : "ENGLISH  PREMIER LEAGUE ⚽️ ",
+    "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+    },
+{
+     "user" : "	Juventus vs Internazionale HD",
+    "pageUrl" : "http://50.7.161.82:8278/streams/d/Assp1/playlist.m3u8",
+    "type" : "ITALIAN SERIE A ⚽️",
+    "webFormatUrl" :"https://1000logos.net/wp-content/uploads/2019/01/Italian-Serie-A-Logo.png"
+    },
+		{
+     "user" : "	Juventus vs Internazionale SD",
+    "pageUrl" : "http://50.7.161.82:8278/streams/d/Assp1/playlist.m3u8",
+    "type" : "ITALIAN SERIE A ⚽️",
+    "webFormatUrl" :"https://1000logos.net/wp-content/uploads/2019/01/Italian-Serie-A-Logo.png"
+    },
+ {
+     "user" : "Chelsea vs Leicester City  HD",
+    "pageUrl" : "http://50.7.161.82:8278/streams/d/Assp1/playlist.m3u8",
+    "type" : "ENGLISH  FA CUP FINAL ⚽️ ",
+    "webFormatUrl" :"https://spng.pngfind.com/pngs/s/185-1851368_wolves-v-manchester-united-fa-cup-logo-2018.png"
+    },
+		{
+     "user" : "Chelsea vs Leicester City  SD",
+    "pageUrl" : "http://50.7.161.82:8278/streams/d/Assp1/playlist.m3u8",
+    "type" : "ENGLISH  FA CUP FINAL ⚽️ ",
+    "webFormatUrl" :"https://spng.pngfind.com/pngs/s/185-1851368_wolves-v-manchester-united-fa-cup-logo-2018.png"
+    },
  {
      "user" : "LIVE SPORTS",
     "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
     "type" : "LIVE SPORTS ⚽️ ",
     "webFormatUrl" :"https://image.shutterstock.com/image-illustration/live-streaming-sports-broadcast-soccer-260nw-716196589.jpg"
     }
+		{
+     "user" : "	Roma vs Lazio HD",
+    "pageUrl" : "http://50.7.161.82:8278/streams/d/Assp1/playlist.m3u8",
+    "type" : "ITALIAN SERIE A ⚽️",
+    "webFormatUrl" :"https://1000logos.net/wp-content/uploads/2019/01/Italian-Serie-A-Logo.png"
+    },
+		 {
+     "user" : "Brighton & Hove Albion vs West Ham United  HD",
+    "pageUrl" : "http://50.7.161.82:8278/streams/d/Assp1/playlist.m3u8",
+    "type" : "ENGLISH  PREMIER LEAGUE ⚽️ ",
+    "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+    },
+		 {
+     "user" : "Brighton & Hove Albion vs West Ham United  SD",
+    "pageUrl" : "http://50.7.161.82:8278/streams/d/Assp1/playlist.m3u8",
+    "type" : "ENGLISH  PREMIER LEAGUE ⚽️ ",
+    "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+    },
 
 	]
 
