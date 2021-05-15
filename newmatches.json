@@ -25,17 +25,32 @@
     "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
     },
 		{
+     "user" : "Spezia vs Torino SD",
+    "pageUrl" : "http://ferrarico.referrari.com/live/60167_.m3u8",
+    "type" : "ITALIAN SERIE A ⚽️ ",
+    "webFormatUrl" :"https://1000logos.net/wp-content/uploads/2019/01/Italian-Serie-A-Logo.png"
+    },
+
+{
      "user" : "Spezia vs Torino HD",
-    "pageUrl" : "http://50.7.161.82:8278/streams/d/Assp1/playlist.m3u8",
+    "pageUrl" : "http://ferrarico.referrari.com/live/60167_.m3u8",
     "type" : "ITALIAN SERIE A ⚽️ ",
     "webFormatUrl" :"https://1000logos.net/wp-content/uploads/2019/01/Italian-Serie-A-Logo.png"
     },
 		{
      "user" : "Genoa vs Atalanta HD",
-    "pageUrl" : "http://50.7.161.82:8278/streams/d/Assp1/playlist.m3u8",
+    "pageUrl" : "http://persik.by/stream/6696/480248/10217.m3u8",
     "type" : "ITALIAN SERIE A ⚽️ ",
     "webFormatUrl" :"https://1000logos.net/wp-content/uploads/2019/01/Italian-Serie-A-Logo.png"
     },
+
+		{
+     "user" : "Genoa vs Atalanta HD",
+    "pageUrl" : "http://persik.by/stream/6696/480248/10217.m3u8",
+    "type" : "ITALIAN SERIE A ⚽️ ",
+    "webFormatUrl" :"https://1000logos.net/wp-content/uploads/2019/01/Italian-Serie-A-Logo.png"
+    },
+
 		{
      "user" : "	Hertha BSC vs Köln HD",
     "pageUrl" : "http://50.7.161.82:8278/streams/d/Assp1/playlist.m3u8",
