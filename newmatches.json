@@ -36,19 +36,26 @@
     },
 		{
      "user" : "	Roma vs Lazio HD",
-    "pageUrl" : "http://50.7.161.82:8278/streams/d/Assp1/playlist.m3u8",
+    "pageUrl" : "http://persik.by/stream/6696/480248/10217.m3u8",
+    "type" : "ITALIAN SERIE A ⚽️",
+    "webFormatUrl" :"https://1000logos.net/wp-content/uploads/2019/01/Italian-Serie-A-Logo.png"
+    },
+
+{
+     "user" : "	Roma vs Lazio SD",
+    "pageUrl" : "http://persik.by/stream/6696/480248/10217.m3u8",
     "type" : "ITALIAN SERIE A ⚽️",
     "webFormatUrl" :"https://1000logos.net/wp-content/uploads/2019/01/Italian-Serie-A-Logo.png"
     },
 		 {
      "user" : "Brighton & Hove Albion vs West Ham United  HD",
-    "pageUrl" : "http://50.7.161.82:8278/streams/d/Assp1/playlist.m3u8",
+    "pageUrl" : "http://50.7.161.82:8278/streams/d/Assp3/playlist.m3u8",
     "type" : "ENGLISH  PREMIER LEAGUE ⚽️ ",
     "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
     },
 		 {
      "user" : "Brighton & Hove Albion vs West Ham United  SD",
-    "pageUrl" : "http://50.7.161.82:8278/streams/d/Assp1/playlist.m3u8",
+    "pageUrl" : "http://50.7.161.82:8278/streams/d/Assp3/playlist.m3u8",
     "type" : "ENGLISH  PREMIER LEAGUE ⚽️ ",
     "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
     },
