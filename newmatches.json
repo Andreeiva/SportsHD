@@ -4,11 +4,165 @@
 	"hits": [
 
 	
-		
+	 {
+     "user" : "Fiorentina vs Napoli HD",
+    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+    "type" : "ITALIAN SERIE A ⚽️ ",
+    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Serie_A_logo_%282019%29.svg/1200px-Serie_A_logo_%282019%29.svg.png"
+    },	
+		 {
+     "user" : "Fiorentina vs Napoli SD",
+    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+    "type" : "ITALIAN SERIE A ⚽️ ",
+    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Serie_A_logo_%282019%29.svg/1200px-Serie_A_logo_%282019%29.svg.png"
+    },	
 
 
 
 
+ {
+     "user" : "Crystal Palace vs Aston Villa HD",
+    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+    "type" : "ENGLISH PREMIER LEAGUE ⚽️ ",
+    "webFormatUrl" :"https://i.pinimg.com/originals/23/72/64/23726435c00fa8a9ca4dca88bb0b9cd7.png"
+    },
+		 {
+     "user" : "Crystal Palace vs Aston Villa SD",
+    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+    "type" : "ENGLISH PREMIER LEAGUE ⚽️ ",
+    "webFormatUrl" :"https://i.pinimg.com/originals/23/72/64/23726435c00fa8a9ca4dca88bb0b9cd7.png"
+    },
+		 {
+     "user" : "	Benevento vs Crotone HD",
+    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+    "type" : "ITALIAN SERIE A ⚽️ ",
+    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Serie_A_logo_%282019%29.svg/1200px-Serie_A_logo_%282019%29.svg.png"
+    },	
+		 {
+     "user" : "	Udinese vs Sampdoria HD",
+    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+    "type" : "ITALIAN SERIE A ⚽️ ",
+    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Serie_A_logo_%282019%29.svg/1200px-Serie_A_logo_%282019%29.svg.png"
+    },	
+		 {
+     "user" : "Tottenham Hotspur vs Wolverhampton Wanderers HD",
+    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+    "type" : "ENGLISH PREMIER LEAGUE ⚽️ ",
+    "webFormatUrl" :"https://i.pinimg.com/originals/23/72/64/23726435c00fa8a9ca4dca88bb0b9cd7.png"
+    },
+		 {
+     "user" : "Tottenham Hotspur vs Wolverhampton Wanderers SD",
+    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+    "type" : "ENGLISH PREMIER LEAGUE ⚽️ ",
+    "webFormatUrl" :"https://i.pinimg.com/originals/23/72/64/23726435c00fa8a9ca4dca88bb0b9cd7.png"
+    },
+	 {
+     "user" : "West Bromwich Albion vs Liverpool HD",
+    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+    "type" : "ENGLISH PREMIER LEAGUE ⚽️ ",
+    "webFormatUrl" :"https://i.pinimg.com/originals/23/72/64/23726435c00fa8a9ca4dca88bb0b9cd7.png"
+    },
+		 {
+     "user" : "West Bromwich Albion vs LiverpoolWanderers SD",
+    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+    "type" : "ENGLISH PREMIER LEAGUE ⚽️ ",
+    "webFormatUrl" :"https://i.pinimg.com/originals/23/72/64/23726435c00fa8a9ca4dca88bb0b9cd7.png"
+    },
+		 {
+     "user" : "Parma vs Sassuolo HD",
+    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+    "type" : "ITALIAN SERIE A ⚽️ ",
+    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Serie_A_logo_%282019%29.svg/1200px-Serie_A_logo_%282019%29.svg.png"
+    },	
+	 {
+     "user" : "MAINZ VS BORRUSIA DORTMUND SD",
+    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+    "type" : "BUNDESLIGA ⚽️ ",
+    "webFormatUrl" :"https://i.pinimg.com/originals/6b/a3/18/6ba318474e4cab7cef32a965fd6b982c.png"
+    },	 {
+     "user" : "Barcelona vs Celta de Vigo",
+    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+    "type" : "LA LIGA ⚽️ ",
+    "webFormatUrl" :"https://www.nicepng.com/png/detail/927-9274069_laliga-santander-la-liga-santander-logo.png"
+    },
+		{
+     "user" : "	Atlético Madrid vs Osasuna",
+    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+    "type" : "LA LIGA ⚽️ ",
+    "webFormatUrl" :"https://www.nicepng.com/png/detail/927-9274069_laliga-santander-la-liga-santander-logo.png"
+    },
+		{
+     "user" : "Athletic Club vs Real Madrid",
+    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+    "type" : "LA LIGA ⚽️ ",
+    "webFormatUrl" :"https://www.nicepng.com/png/detail/927-9274069_laliga-santander-la-liga-santander-logo.png"
+    },
+		{
+     "user" : "	Villarreal vs Sevilla",
+    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+    "type" : "LA LIGA ⚽️ ",
+    "webFormatUrl" :"https://www.nicepng.com/png/detail/927-9274069_laliga-santander-la-liga-santander-logo.png"
+    },
+		{
+     "user" : "Real Sociedad vs Real Valladolid",
+    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+    "type" : "LA LIGA ⚽️ ",
+    "webFormatUrl" :"https://www.nicepng.com/png/detail/927-9274069_laliga-santander-la-liga-santander-logo.png"
+    },
+		{
+     "user" : "Valencia vs Eibar",
+    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+    "type" : "LA LIGA ⚽️ ",
+    "webFormatUrl" :"https://www.nicepng.com/png/detail/927-9274069_laliga-santander-la-liga-santander-logo.png"
+    },
+		{
+     "user" : "	Real Betis vs Huesca",
+    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+    "type" : "LA LIGA ⚽️ ",
+    "webFormatUrl" :"https://www.nicepng.com/png/detail/927-9274069_laliga-santander-la-liga-santander-logo.png"
+    },
+		{
+     "user" : "	Getafe vs Levante",
+    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+    "type" : "LA LIGA ⚽️ ",
+    "webFormatUrl" :"https://www.nicepng.com/png/detail/927-9274069_laliga-santander-la-liga-santander-logo.png"
+    },
+		{
+     "user" : "Deportivo Alavés vs Granada",
+    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+    "type" : "LA LIGA ⚽️ ",
+    "webFormatUrl" :"https://www.nicepng.com/png/detail/927-9274069_laliga-santander-la-liga-santander-logo.png"
+    },
+		 {
+     "user" : "Everton vs Sheffield United HD",
+    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+    "type" : "ENGLISH PREMIER LEAGUE ⚽️ ",
+    "webFormatUrl" :"https://i.pinimg.com/originals/23/72/64/23726435c00fa8a9ca4dca88bb0b9cd7.png"
+    },
+		 {
+     "user" : "Everton vs Sheffield United SD",
+    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+    "type" : "ENGLISH PREMIER LEAGUE ⚽️ ",
+    "webFormatUrl" :"https://i.pinimg.com/originals/23/72/64/23726435c00fa8a9ca4dca88bb0b9cd7.png"
+    },
+		 {
+     "user" : "	RB Leipzig vs Wolfsburg SD",
+    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+    "type" : "BUNDESLIGA ⚽️ ",
+    "webFormatUrl" :"https://i.pinimg.com/originals/6b/a3/18/6ba318474e4cab7cef32a965fd6b982c.png"
+    },	
+		 {
+     "user" : "Milan vs Cagliari HD",
+    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+    "type" : "ITALIAN SERIE A ⚽️ ",
+    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Serie_A_logo_%282019%29.svg/1200px-Serie_A_logo_%282019%29.svg.png"
+    },	
+		 {
+     "user" : "LIVE SPORTS",
+    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+    "type" : "LIVE SPORTS ⚽️ ",
+    "webFormatUrl" :"https://image.shutterstock.com/image-illustration/live-streaming-sports-broadcast-soccer-260nw-716196589.jpg"
+    },
 
 	
 
