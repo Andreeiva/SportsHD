@@ -157,17 +157,7 @@
     "type" : "ITALIAN SERIE A ⚽️ ",
     "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Serie_A_logo_%282019%29.svg/1200px-Serie_A_logo_%282019%29.svg.png"
     },	
-		 {
-     "user" : "LIVE SPORTS",
-    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
-    "type" : "LIVE SPORTS ⚽️ ",
-    "webFormatUrl" :"https://image.shutterstock.com/image-illustration/live-streaming-sports-broadcast-soccer-260nw-716196589.jpg"
-    },
-
-	
-
- 
-	
+		
 		
 		 {
      "user" : "LIVE SPORTS",
