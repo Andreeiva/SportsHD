@@ -42,11 +42,18 @@
     "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Serie_A_logo_%282019%29.svg/1200px-Serie_A_logo_%282019%29.svg.png"
     },	
 	 {
+     "user" : "MAINZ VS BORRUSIA DORTMUND SD",
+    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/112.m3u8",
+    "type" : "BUNDESLIGA ⚽️ ",
+    "webFormatUrl" :"https://i.pinimg.com/originals/6b/a3/18/6ba318474e4cab7cef32a965fd6b982c.png"
+    },	
+{
      "user" : "MAINZ VS BORRUSIA DORTMUND HD",
     "pageUrl" : "http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8",
     "type" : "BUNDESLIGA ⚽️ ",
     "webFormatUrl" :"https://i.pinimg.com/originals/6b/a3/18/6ba318474e4cab7cef32a965fd6b982c.png"
-    },	 {
+    },	
+ {
      "user" : "Barcelona vs Celta de Vigo",
     "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
     "type" : "LA LIGA ⚽️ ",
