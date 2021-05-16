@@ -73,32 +73,26 @@
     },
 		{
      "user" : "	Villarreal vs Sevilla",
-    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/121.m3u8",
     "type" : "LA LIGA ⚽️ ",
     "webFormatUrl" :"https://www.nicepng.com/png/detail/927-9274069_laliga-santander-la-liga-santander-logo.png"
     },
 		{
-     "user" : "Real Sociedad vs Real Valladolid",
-    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
-    "type" : "LA LIGA ⚽️ ",
-    "webFormatUrl" :"https://www.nicepng.com/png/detail/927-9274069_laliga-santander-la-liga-santander-logo.png"
-    },
-		{
-     "user" : "Valencia vs Eibar",
-    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+     "user" : "Real Betis vs Huesca",
+    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/118.m3u8",
     "type" : "LA LIGA ⚽️ ",
     "webFormatUrl" :"https://www.nicepng.com/png/detail/927-9274069_laliga-santander-la-liga-santander-logo.png"
     },
 	
 		{
      "user" : "	Getafe vs Levante",
-    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/119.m3u8",
     "type" : "LA LIGA ⚽️ ",
     "webFormatUrl" :"https://www.nicepng.com/png/detail/927-9274069_laliga-santander-la-liga-santander-logo.png"
     },
 		{
-     "user" : "Deportivo Alavés vs Granada",
-    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+     "user" : "Cadiz vs Elche",
+    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/120.m3u8",
     "type" : "LA LIGA ⚽️ ",
     "webFormatUrl" :"https://www.nicepng.com/png/detail/927-9274069_laliga-santander-la-liga-santander-logo.png"
     },
