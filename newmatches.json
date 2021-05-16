@@ -30,7 +30,7 @@
 
  {
      "user" : "Parma vs Sassuolo SD",
-    "pageUrl" : "http://93.157.62.180/ArenaSport2/index.m3u8",
+    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/106.m3u8",
     "type" : "ITALIAN SERIE A ⚽️ ",
     "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Serie_A_logo_%282019%29.svg/1200px-Serie_A_logo_%282019%29.svg.png"
     },	
@@ -54,7 +54,7 @@
     },
 		{
      "user" : "	Atlético Madrid vs Osasuna",
-    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+    "pageUrl" : "http://persik.by/stream/6696/480248/10217.m3u8",
     "type" : "LA LIGA ⚽️ ",
     "webFormatUrl" :"https://www.nicepng.com/png/detail/927-9274069_laliga-santander-la-liga-santander-logo.png"
     },
