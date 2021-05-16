@@ -8,19 +8,7 @@
 
 
 
- {
-     "user" : "Crystal Palace vs Aston Villa HD",
-    "pageUrl" : "http://50.7.161.82:8278/streams/d/Assp3/playlist.m3u8",
-    "type" : "ENGLISH PREMIER LEAGUE ⚽️ ",
-    "webFormatUrl" :"https://i.pinimg.com/originals/23/72/64/23726435c00fa8a9ca4dca88bb0b9cd7.png"
-    },
-		 {
-     "user" : "Crystal Palace vs Aston Villa SD",
-    "pageUrl" : "http://ferrarico.referrari.com/live/60139_.m3u8",
-    "type" : "ENGLISH PREMIER LEAGUE ⚽️ ",
-    "webFormatUrl" :"https://i.pinimg.com/originals/23/72/64/23726435c00fa8a9ca4dca88bb0b9cd7.png"
-    },
-		 {
+	 {
      "user" : "	Benevento vs Crotone HD",
     "pageUrl" : "http://persik.by/stream/6696/480248/10217.m3u8",
     "type" : "ITALIAN SERIE A ⚽️ ",
@@ -47,13 +35,13 @@
     },	
 		 {
      "user" : "Tottenham Hotspur vs Wolverhampton Wanderers HD",
-    "pageUrl" : "http://50.7.161.82:8278/streams/d/Assp3/playlist.m3u8",
+    "pageUrl" : "http://50.7.161.82:8278/streams/d/Assp1/playlist.m3u8",
     "type" : "ENGLISH PREMIER LEAGUE ⚽️ ",
     "webFormatUrl" :"https://i.pinimg.com/originals/23/72/64/23726435c00fa8a9ca4dca88bb0b9cd7.png"
     },
 		 {
      "user" : "Tottenham Hotspur vs Wolverhampton Wanderers SD",
-    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+    "pageUrl" : "http://ferrarico.referrari.com/live/60139_.m3u8",
     "type" : "ENGLISH PREMIER LEAGUE ⚽️ ",
     "webFormatUrl" :"https://i.pinimg.com/originals/23/72/64/23726435c00fa8a9ca4dca88bb0b9cd7.png"
     },
