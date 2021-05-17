@@ -5,75 +5,77 @@
 
 	
 		
-		  {
-     "user" : "AC MILAN VS JUVENTUS",
-    "pageUrl" : "https://videos2.footballia.net/uploads/video/source_file/37677/2002-03_Juventus_-_Milan__Champions__-_1.mp4",
-    "type" : "CHAMPIONS LEAGUE FINAL (2003)  ⚽️ ",
-    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/commons/e/e2/UEFA_Champions_League_logo.png"
-    },
- {
-     "user" : "AC MILAN VS JUVENTUS",
-    "pageUrl" : "https://videos2.footballia.net/uploads/video/source_file/37681/2002-03_Juventus_-_Milan__Champions__-_2.mp4",
-    "type" : "CHAMPIONS LEAGUE FINAL (2003) EXTA TIME⚽️ ",
-    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/commons/e/e2/UEFA_Champions_League_logo.png"
-    },
-		  {
-     "user" : "ITALY VS FRANCE",
-    "pageUrl" : "https://videos.footballia.net/uploads/video/source_file/20549/2006_Italia_-_Francia.mp4",
-    "type" : "FIFA WORLD CUP FINAL(2006) ⚽️ ",
-    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/2006_FIFA_World_Cup.svg/1200px-2006_FIFA_World_Cup.svg.png"
-    },
-     {
-     "user" : "Spezia vs Napoli",
-    "pageUrl" : "https://drevanet.com/wp-content/uploads/2021/05/spezia-vs-napoli.mp4",
+	
+	 {
+     "user" : "JUVENTUS VS INTER",
+    "pageUrl" : "https://drevanet.com/wp-content/uploads/2021/05/juventus-vs-inter.mp4",
     "type" : "SERIE A HIGHLIGHTS ⚽️ ",
     "webFormatUrl" :"https://forzaitalianfootball.com/wp-content/uploads/2020/03/serie-a.png"
-    },
+    },		
 
-     {
-     "user" : "Roma vs Crotone",
-    "pageUrl" : "https://drevanet.com/wp-content/uploads/2021/05/roma-vs-crotone.mp4",
+	 {
+     "user" : "GENOA VS ATALANTA",
+    "pageUrl" : "https://drevanet.com/wp-content/uploads/2021/05/genoa-vs-Atalanta.mp4",
     "type" : "SERIE A HIGHLIGHTS ⚽️ ",
     "webFormatUrl" :"https://forzaitalianfootball.com/wp-content/uploads/2020/03/serie-a.png"
-    },
-{
-     "user" : "Parma vs Atalanta",
-    "pageUrl" : "https://drevanet.com/wp-content/uploads/2021/05/parma-vs-atalanta.mp4",
-    "type" : "SERIE A HIGHLIGHTS ⚽️ ",
-    "webFormatUrl" :"https://forzaitalianfootball.com/wp-content/uploads/2020/03/serie-a.png"
-    },
-{
-     "user" : "Juventus vs AC Milan",
-    "pageUrl" : "https://drevanet.com/wp-content/uploads/2021/05/juventus-vs-milan.mp4",
-    "type" : "SERIE A HIGHLIGHTS ⚽️ ",
-    "webFormatUrl" :"https://forzaitalianfootball.com/wp-content/uploads/2020/03/serie-a.png"
-    },
-{
-     "user" : "Internazionale vs Sampdoria",
-    "pageUrl" : "https://drevanet.com/wp-content/uploads/2021/05/inter-vs-sampdoria.mp4",
-    "type" : "SERIE A HIGHLIGHTS ⚽️ ",
-    "webFormatUrl" :"https://forzaitalianfootball.com/wp-content/uploads/2020/03/serie-a.png"
-    },
-{
-     "user" : "Genoa vs Sassuolo",
-    "pageUrl" : "https://drevanet.com/wp-content/uploads/2021/05/genoa-vs-sasuolo.mp4",
-    "type" : "SERIE A HIGHLIGHTS ⚽️ ",
-    "webFormatUrl" :"https://forzaitalianfootball.com/wp-content/uploads/2020/03/serie-a.png"
-    },
+    },		
 
-    {
-     "user" : "Fiorentina vs Lazio",
-    "pageUrl" : "https://drevanet.com/wp-content/uploads/2021/05/fiorentina-vs-lazio.mp4",
+	
+	 {
+     "user" : "ROMA VS LAZIO",
+    "pageUrl" : "https://drevanet.com/wp-content/uploads/2021/05/roma-vs-Lazio.mp4",
     "type" : "SERIE A HIGHLIGHTS ⚽️ ",
     "webFormatUrl" :"https://forzaitalianfootball.com/wp-content/uploads/2020/03/serie-a.png"
-    },
-{
-     "user" : "Benevento vs Cagliari",
-    "pageUrl" : "https://drevanet.com/wp-content/uploads/2021/05/benevento-vs-cagliari.mp4",
-    "type" : "SERIE A HIGHLIGHTS ⚽️ ",
-    "webFormatUrl" :"https://forzaitalianfootball.com/wp-content/uploads/2020/03/serie-a.png"
-    },
+    },		
+	
 
+	 {
+     "user" : "FIORENTINA VS NAPOLI",
+    "pageUrl" : "https://drevanet.com/wp-content/uploads/2021/05/fiorentina-vs-napoli.mp4",
+    "type" : "SERIE A HIGHLIGHTS ⚽️ ",
+    "webFormatUrl" :"https://forzaitalianfootball.com/wp-content/uploads/2020/03/serie-a.png"
+    },		
+
+	 {
+     "user" : "SPEZIA VS TORINO",
+    "pageUrl" : "https://drevanet.com/wp-content/uploads/2021/05/spezia-vs-Torino.mp4",
+    "type" : "SERIE A HIGHLIGHTS ⚽️ ",
+    "webFormatUrl" :"https://forzaitalianfootball.com/wp-content/uploads/2020/03/serie-a.png"
+    },		
+
+	 {
+     "user" : "AC MILAN VS CAGLIARI",
+    "pageUrl" : "https://drevanet.com/wp-content/uploads/2021/05/ac-milan-vs-Cagliari.mp4",
+    "type" : "SERIE A HIGHLIGHTS ⚽️ ",
+    "webFormatUrl" :"https://forzaitalianfootball.com/wp-content/uploads/2020/03/serie-a.png"
+    },		
+
+
+	 {
+     "user" : "BENEVENTO VS CROTONE",
+    "pageUrl" : "https://drevanet.com/wp-content/uploads/2021/05/benevento-vs-Crotone.mp4",
+    "type" : "SERIE A HIGHLIGHTS ⚽️ ",
+    "webFormatUrl" :"https://forzaitalianfootball.com/wp-content/uploads/2020/03/serie-a.png"
+    },		
+
+
+
+	 {
+     "user" : "UDINESE VS SAMPDORIA",
+    "pageUrl" : "https://drevanet.com/wp-content/uploads/2021/05/udinese-vs-Sampdoria.mp4",
+    "type" : "SERIE A HIGHLIGHTS ⚽️ ",
+    "webFormatUrl" :"https://forzaitalianfootball.com/wp-content/uploads/2020/03/serie-a.png"
+    },		
+
+
+	 {
+     "user" : "PARMA VS SASSUOLO",
+    "pageUrl" : "https://drevanet.com/wp-content/uploads/2021/05/parma-vs-Sassuolo.mp4",
+    "type" : "SERIE A HIGHLIGHTS ⚽️ ",
+    "webFormatUrl" :"https://forzaitalianfootball.com/wp-content/uploads/2020/03/serie-a.png"
+    },		
+
+	  
 
 
  {
