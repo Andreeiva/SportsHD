@@ -3,26 +3,20 @@
 {
 	"hits": [
 
-	 {
-     "user" : "AFC BOURNEMOUTH VS BRENTFORD HD",
+	 		 {
+     "user" : "Barnsley vs Swansea City HD",
     "pageUrl" : "http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8",
     "type" : " ENGLISH CHAMPIONSHIP  PLAY-OFF ⚽️ ",
     "webFormatUrl" :"https://mpng.subpng.com/20180525/jkh/kisspng-english-football-league-efl-league-one-201718-e-5b08c830508c42.3157006815273021923299.jpg"
     },
 
 
- {
-     "user" : "AFC BOURNEMOUTH VS BRENTFORD SD",
+	 {
+     "user" : "Barnsley vs Swansea City SD",
     "pageUrl" : "http://ferrarico.referrari.com/live/60141_.m3u8",
     "type" : " ENGLISH CHAMPIONSHIP  PLAY-OFF ⚽️ ",
     "webFormatUrl" :"https://mpng.subpng.com/20180525/jkh/kisspng-english-football-league-efl-league-one-201718-e-5b08c830508c42.3157006815273021923299.jpg"
-    },		 {
-     "user" : "Barnsley vs Swansea City",
-    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
-    "type" : " ENGLISH CHAMPIONSHIP  PLAY-OFF ⚽️ ",
-    "webFormatUrl" :"https://mpng.subpng.com/20180525/jkh/kisspng-english-football-league-efl-league-one-201718-e-5b08c830508c42.3157006815273021923299.jpg"
-    },
-		 {
+    },	 {
      "user" : "HELLA VERONA VS BOLOGNA HD",
     "pageUrl" : "http://persik.by/stream/6696/480248/10217.m3u8",
     "type" : " SERIE A ⚽️ ",
