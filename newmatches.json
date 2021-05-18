@@ -6,12 +6,58 @@
 	 		 
 
  {
-     "user" : "JUVENTUS VS INTER",
+     "user" : "MANCHESTER UNITED VS FULHAM SD",
     "pageUrl" : "https://drevanet.com/wp-content/uploads/2021/05/juventus-vs-inter.mp4",
-    "type" : "SERIE A HIGHLIGHTS ⚽️ ",
-    "webFormatUrl" :"https://forzaitalianfootball.com/wp-content/uploads/2020/03/serie-a.png"
-    },		
+    "type" : "ENGLISH PREMIER LEAGUE ⚽️ ",
+    "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+    },	
 
+
+ {
+     "user" : "MANCHESTER UNITED VS FULHAM HD",
+    "pageUrl" : "https://drevanet.com/wp-content/uploads/2021/05/juventus-vs-inter.mp4",
+    "type" : "ENGLISH PREMIER LEAGUE ⚽️ ",
+    "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+    },	
+
+
+ {
+     "user" :"Southampton vs Leeds United SD",
+    "pageUrl" : "https://drevanet.com/wp-content/uploads/2021/05/juventus-vs-inter.mp4",
+    "type" : "ENGLISH PREMIER LEAGUE ⚽️ ",
+    "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+    },	
+
+
+ {
+     "user" : "Southampton vs Leeds United HD",
+    "pageUrl" : "https://drevanet.com/wp-content/uploads/2021/05/juventus-vs-inter.mp4",
+    "type" : "ENGLISH PREMIER LEAGUE ⚽️ ",
+    "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+    },	
+
+
+ {
+     "user" : "LAZIO VS TORINO",
+    "pageUrl" : "https://drevanet.com/wp-content/uploads/2021/05/juventus-vs-inter.mp4",
+    "type" : "SERIE A ⚽️ ",
+    "webFormatUrl" :"https://forzaitalianfootball.com/wp-content/uploads/2020/03/serie-a.png"
+    },	
+
+ {
+     "user" : "CHELSEA VS LEICESTER CITY SD",
+    "pageUrl" : "https://drevanet.com/wp-content/uploads/2021/05/juventus-vs-inter.mp4",
+    "type" : "ENGLISH PREMIER LEAGUE ⚽️ ",
+    "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+    },	
+
+
+ {
+     "user" :"CHELSEA VS LEICESTER CITY HD",
+    "pageUrl" : "https://drevanet.com/wp-content/uploads/2021/05/juventus-vs-inter.mp4",
+    "type" : "ENGLISH PREMIER LEAGUE ⚽️ ",
+    "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+    },	
 	 {
      "user" : "GENOA VS ATALANTA",
     "pageUrl" : "https://drevanet.com/wp-content/uploads/2021/05/genoa-vs-Atalanta.mp4",
@@ -20,60 +66,7 @@
     },		
 
 	
-	 {
-     "user" : "ROMA VS LAZIO",
-    "pageUrl" : "https://drevanet.com/wp-content/uploads/2021/05/roma-vs-Lazio.mp4",
-    "type" : "SERIE A HIGHLIGHTS ⚽️ ",
-    "webFormatUrl" :"https://forzaitalianfootball.com/wp-content/uploads/2020/03/serie-a.png"
-    },		
 	
-
-	 {
-     "user" : "FIORENTINA VS NAPOLI",
-    "pageUrl" : "https://drevanet.com/wp-content/uploads/2021/05/fiorentina-vs-napoli.mp4",
-    "type" : "SERIE A HIGHLIGHTS ⚽️ ",
-    "webFormatUrl" :"https://forzaitalianfootball.com/wp-content/uploads/2020/03/serie-a.png"
-    },		
-
-	 {
-     "user" : "SPEZIA VS TORINO",
-    "pageUrl" : "https://drevanet.com/wp-content/uploads/2021/05/spezia-vs-Torino.mp4",
-    "type" : "SERIE A HIGHLIGHTS ⚽️ ",
-    "webFormatUrl" :"https://forzaitalianfootball.com/wp-content/uploads/2020/03/serie-a.png"
-    },		
-
-	 {
-     "user" : "AC MILAN VS CAGLIARI",
-    "pageUrl" : "https://drevanet.com/wp-content/uploads/2021/05/ac-milan-vs-Cagliari.mp4",
-    "type" : "SERIE A HIGHLIGHTS ⚽️ ",
-    "webFormatUrl" :"https://forzaitalianfootball.com/wp-content/uploads/2020/03/serie-a.png"
-    },		
-
-
-	 {
-     "user" : "BENEVENTO VS CROTONE",
-    "pageUrl" : "https://drevanet.com/wp-content/uploads/2021/05/benevento-vs-Crotone.mp4",
-    "type" : "SERIE A HIGHLIGHTS ⚽️ ",
-    "webFormatUrl" :"https://forzaitalianfootball.com/wp-content/uploads/2020/03/serie-a.png"
-    },		
-
-
-
-	 {
-     "user" : "UDINESE VS SAMPDORIA",
-    "pageUrl" : "https://drevanet.com/wp-content/uploads/2021/05/udinese-vs-Sampdoria.mp4",
-    "type" : "SERIE A HIGHLIGHTS ⚽️ ",
-    "webFormatUrl" :"https://forzaitalianfootball.com/wp-content/uploads/2020/03/serie-a.png"
-    },		
-
-
-	 {
-     "user" : "PARMA VS SASSUOLO",
-    "pageUrl" : "https://drevanet.com/wp-content/uploads/2021/05/parma-vs-Sassuolo.mp4",
-    "type" : "SERIE A HIGHLIGHTS ⚽️ ",
-    "webFormatUrl" :"https://forzaitalianfootball.com/wp-content/uploads/2020/03/serie-a.png"
-    },		
-
 	  
 
 
