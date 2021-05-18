@@ -64,7 +64,7 @@
 
  {
      "user" : "LAZIO VS TORINO HD",
-    "pageUrl" : "http://77.83.117.60:8888/02_SPORTTV_3_720p/chunklist.m3u8",
+    "pageUrl" : "http://persik.by/stream/6696/480248/10217.m3u8",
     "type" : "SERIE A ⚽️ ",
     "webFormatUrl" :"https://forzaitalianfootball.com/wp-content/uploads/2020/03/serie-a.png"
     },	
@@ -73,7 +73,7 @@
 
  {
      "user" : "LAZIO VS TORINO HD 2",
-    "pageUrl" : "http://persik.by/stream/6696/480248/10217.m3u8",
+    "pageUrl" : "http://77.83.117.60:8888/02_SPORTTV_3_720p/chunklist.m3u8",
     "type" : "SERIE A ⚽️ ",
     "webFormatUrl" :"https://forzaitalianfootball.com/wp-content/uploads/2020/03/serie-a.png"
     },	
@@ -82,7 +82,7 @@
 
  {
      "user" : "LAZIO VS TORINO SD",
-    "pageUrl" : "http://persik.by/stream/6696/480248/10217.m3u8",
+    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/101.m3u8",
     "type" : "SERIE A ⚽️ ",
     "webFormatUrl" :"https://forzaitalianfootball.com/wp-content/uploads/2020/03/serie-a.png"
     },	
