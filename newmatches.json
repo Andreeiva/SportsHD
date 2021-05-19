@@ -40,13 +40,14 @@
     "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
     },
 		 {
-     "user" : "Newcastle United vs Sheffield United HD",
-    "pageUrl" : "http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8",
+     "user" : "Newcastle United vs Sheffield United SD",
+    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/102.m3u8",
     "type" : "ENGLISH PREMIER LEAGUE ⚽️ ",
     "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
     },
 			 {
-     "user" : "Newcastle United vs Sheffield United SD",
+     "user" : "Newcastle United vs Sheffield United S
+HD",
     "pageUrl" : "http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8",
     "type" : "ENGLISH PREMIER LEAGUE ⚽️ ",
     "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
