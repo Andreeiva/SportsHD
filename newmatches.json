@@ -8,69 +8,7 @@
 	
 
 	
-	 {
-     "user" : "	Atalanta vs Juventus HD",
-    "pageUrl" : "http://ott-cdn.ucom.am/s81/04.m3u8",
-    "type" : "COPPA ITALIA ⚽️ ",
-    "webFormatUrl" :"https://magiconfield.com/wp-content/uploads/2020/06/Coppa-Italia.jpg"
-    },
-		 {
-     "user" : "	Atalanta vs Juventus SD",
-    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/108.m3u8",
-    "type" : "COPPA ITALIA ⚽️ ",
-    "webFormatUrl" :"https://magiconfield.com/wp-content/uploads/2020/06/Coppa-Italia.jpg"
-    },
-	 {
-     "user" : "Vitória Guimarães vs Benfica",
-    "pageUrl" : "http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8",
-    "type" : "PORTUGUESE PRIMEIRA LIGA ⚽️ ",
-    "webFormatUrl" :"http://worldsoccertalk.com/wp-content/uploads/2020/06/Where-to-watch-Primeira-Liga-on-US-TV.jpg"
-    },	
-		 {
-     "user" : "	Portimonense vs Sporting Braga",
-    "pageUrl" : "http://77.83.117.60:8888/02_SPORTTV_4_720p/chunklist.m3u8",
-    "type" : "PORTUGUESE PRIMEIRA LIGA ⚽️ ",
-    "webFormatUrl" :"http://worldsoccertalk.com/wp-content/uploads/2020/06/Where-to-watch-Primeira-Liga-on-US-TV.jpg"
-    },	
- {
-     "user" : "Burnley vs Liverpool HD",
-    "pageUrl" : "http://77.83.117.60:8888/02_PremierHD2_480p/chunklist.m3u8",
-    "type" : "ENGLISH PREMIER LEAGUE ⚽️ ",
-    "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-    },
-		 {
-     "user" : "Burnley vs Liverpool SD",
-    "pageUrl" : "http://77.83.117.60:8888/02_PremierHD1_480p/chunklist.m3u8",
-    "type" : "ENGLISH PREMIER LEAGUE ⚽️ ",
-    "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-    },
-
-
-		 {
-     "user" : "Burnley vs Liverpool SD 2",
-    "pageUrl" : "http://77.83.117.60:8888/01_PremierHD2_720p/chunklist.m3u8",
-    "type" : "ENGLISH PREMIER LEAGUE ⚽️ ",
-    "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-    },
-		 {
-     "user" : "West Bromwich Albion vs West Ham United HD",
-    "pageUrl" : "http://77.83.117.60:8888/02_epl2_720p_UK/chunklist.m3u8",
-    "type" : "ENGLISH PREMIER LEAGUE ⚽️ ",
-    "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-    },
-		 {
-     "user" : "West Bromwich Albion vs West Ham United SD",
-    "pageUrl" : "http://ferrarico.referrari.com/live/60140_.m3u8",
-    "type" : "ENGLISH PREMIER LEAGUE ⚽️ ",
-    "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-    },
- {
-     "user" : "Monaco vs PSG",
-    "pageUrl" : "http://ferrarico.referrari.com/live/60167_.m3u8",
-    "type" : "France - Coupe de France ⚽️ ",
-    "webFormatUrl" :"https://www.thesportsdb.com/images/media/league/badge/l6fitb1546469041.png"
-    },	
-		
+	 
 
 	  
 {
