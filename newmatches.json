@@ -45,7 +45,7 @@
     },
 		 {
      "user" : "	Atalanta vs Juventus SD",
-    "pageUrl" : "http://ott-cdn.ucom.am/s81/04.m3u8",
+    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/108.m3u8",
     "type" : "COPPA ITALIA ⚽️ ",
     "webFormatUrl" :"https://magiconfield.com/wp-content/uploads/2020/06/Coppa-Italia.jpg"
     },
@@ -69,13 +69,21 @@
     },
 		 {
      "user" : "Burnley vs Liverpool SD",
-    "pageUrl" : "https://drevanet.com/wp-content/uploads/2021/05/parma-vs-Sassuolo.mp4",
+    "pageUrl" : "http://77.83.117.60:8888/02_PremierHD4_480p/chunklist.m3u8",
+    "type" : "ENGLISH PREMIER LEAGUE ⚽️ ",
+    "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+    },
+
+
+		 {
+     "user" : "Burnley vs Liverpool SD 2",
+    "pageUrl" : "http://77.83.117.60:8888/01_PremierHD4_480p/chunklist.m3u8",
     "type" : "ENGLISH PREMIER LEAGUE ⚽️ ",
     "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
     },
 		 {
      "user" : "West Bromwich Albion vs West Ham United HD",
-    "pageUrl" : "https://drevanet.com/wp-content/uploads/2021/05/parma-vs-Sassuolo.mp4",
+    "pageUrl" : "http://77.83.117.60:8888/02_epl2_720p_UK/chunklist.m3u8",
     "type" : "ENGLISH PREMIER LEAGUE ⚽️ ",
     "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
     },
