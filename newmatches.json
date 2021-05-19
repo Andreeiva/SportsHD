@@ -10,41 +10,56 @@
 
 	 {
      "user" : "Tottenham Hotspur vs Aston Villa HD",
-    "pageUrl" : "https://drevanet.com/wp-content/uploads/2021/05/parma-vs-Sassuolo.mp4",
+    "pageUrl" : "http://77.83.117.60:8888/02_PremierHD2_720p/chunklist.m3u8",
     "type" : "ENGLISH PREMIER LEAGUE ⚽️ ",
     "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
     },
 		 {
      "user" : "Tottenham Hotspur vs Aston Villa SD",
-    "pageUrl" : "https://drevanet.com/wp-content/uploads/2021/05/parma-vs-Sassuolo.mp4",
+    "pageUrl" : "http://77.83.117.60:8888/02_PremierHD2_480p/chunklist.m3u8",
+    "type" : "ENGLISH PREMIER LEAGUE ⚽️ ",
+    "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+    },
+
+ {
+     "user" : "Tottenham Hotspur vs Aston Villa SD",
+    "pageUrl" : "http://77.83.117.60:8888/02_PremierHD1_480p/chunklist.m3u8",
     "type" : "ENGLISH PREMIER LEAGUE ⚽️ ",
     "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
     },
 		 {
      "user" : "Everton vs Wolverhampton Wanderers HD",
-    "pageUrl" : "https://drevanet.com/wp-content/uploads/2021/05/parma-vs-Sassuolo.mp4",
+    "pageUrl" : "http://77.83.117.60:8888/02_epl2_720p_UK/chunklist.m3u8",
     "type" : "ENGLISH PREMIER LEAGUE ⚽️ ",
     "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
     },
 			 {
      "user" : "	Everton vs Wolverhampton Wanderers SD",
-    "pageUrl" : "https://drevanet.com/wp-content/uploads/2021/05/parma-vs-Sassuolo.mp4",
+    "pageUrl" : "http://ferrarico.referrari.com/live/60140_.m3u8",
     "type" : "ENGLISH PREMIER LEAGUE ⚽️ ",
     "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
     },
 		 {
      "user" : "Newcastle United vs Sheffield United HD",
-    "pageUrl" : "https://drevanet.com/wp-content/uploads/2021/05/parma-vs-Sassuolo.mp4",
+    "pageUrl" : "http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8",
     "type" : "ENGLISH PREMIER LEAGUE ⚽️ ",
     "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
     },
 			 {
      "user" : "Newcastle United vs Sheffield United SD",
-    "pageUrl" : "https://drevanet.com/wp-content/uploads/2021/05/parma-vs-Sassuolo.mp4",
+    "pageUrl" : "http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8",
     "type" : "ENGLISH PREMIER LEAGUE ⚽️ ",
     "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
     },
-		 {
+	
+ {
+     "user" : "	Porto vs Belenenses",
+    "pageUrl" : "http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8",
+    "type" : "PORTUGUESE PRIMEIRA LIGA ⚽️ ",
+    "webFormatUrl" :"http://worldsoccertalk.com/wp-content/uploads/2020/06/Where-to-watch-Primeira-Liga-on-US-TV.jpg"
+    },	
+
+	 {
      "user" : "Crystal Palace vs Arsenal HD",
     "pageUrl" : "https://drevanet.com/wp-content/uploads/2021/05/parma-vs-Sassuolo.mp4",
     "type" : "ENGLISH PREMIER LEAGUE ⚽️ ",
@@ -56,12 +71,7 @@
     "type" : "ENGLISH PREMIER LEAGUE ⚽️ ",
     "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
     },
-	 {
-     "user" : "	Porto vs Belenenses",
-    "pageUrl" : "https://drevanet.com/wp-content/uploads/2021/05/parma-vs-Sassuolo.mp4",
-    "type" : "PORTUGUESE PRIMEIRA LIGA ⚽️ ",
-    "webFormatUrl" :"http://worldsoccertalk.com/wp-content/uploads/2020/06/Where-to-watch-Primeira-Liga-on-US-TV.jpg"
-    },	
+	
 	 {
      "user" : "	Atalanta vs Juventus HD",
     "pageUrl" : "https://drevanet.com/wp-content/uploads/2021/05/parma-vs-Sassuolo.mp4",
