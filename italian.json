@@ -4,72 +4,19 @@
 	"hits": [
 
 	
-	 {
-     "user" : "	Brentford vs AFC Bournemouth",
-    "pageUrl" : "http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8",
-    "type" : "ENGLISH CHAMPIONSHIP PLAYOFF ⚽️ ",
-    "webFormatUrl" :"https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/24.png"
-    },	
-	 {
-     "user" : "Köln vs Schalke 04 SD",
-    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/103.m3u8",
-    "type" : "GERMAN BUNDESLIGA ⚽️ ",
-    "webFormatUrl" :"https://i.pinimg.com/originals/6b/a3/18/6ba318474e4cab7cef32a965fd6b982c.png"
-    },
-		 {
-     "user" : "Wolfsburg vs Mainz 05 SD",
-    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/109.m3u8",
-    "type" : "GERMAN BUNDESLIGA ⚽️ ",
-    "webFormatUrl" :"https://i.pinimg.com/originals/6b/a3/18/6ba318474e4cab7cef32a965fd6b982c.png"
-    },
-		 {
-     "user" : "	Hoffenheim vs Hertha BSC SD",
-    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/105.m3u8",
-    "type" : "GERMAN BUNDESLIGA ⚽️ ",
-    "webFormatUrl" :"https://i.pinimg.com/originals/6b/a3/18/6ba318474e4cab7cef32a965fd6b982c.png"
-    },
-		 {
-     "user" : "Union Berlin vs RB Leipzig SD",
-    "pageUrl" : "http://ferrarico.referrari.com/live/60142_.m3u8",
-    "type" : "GERMAN BUNDESLIGA ⚽️ ",
-    "webFormatUrl" :"https://i.pinimg.com/originals/6b/a3/18/6ba318474e4cab7cef32a965fd6b982c.png"
-    }, 
+		
+	 
 		{
      "user" : "	Bayern München vs Augsburg SD",
     "pageUrl" : "http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8",
     "type" : "GERMAN BUNDESLIGA ⚽️ ",
     "webFormatUrl" :"https://i.pinimg.com/originals/6b/a3/18/6ba318474e4cab7cef32a965fd6b982c.png"
     },
-		{
-     "user" : "Stuttgart vs Arminia Bielefeld SD",
-    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/106.m3u8",
-    "type" : "GERMAN BUNDESLIGA ⚽️ ",
-    "webFormatUrl" :"https://i.pinimg.com/originals/6b/a3/18/6ba318474e4cab7cef32a965fd6b982c.png"
-    },
-		 {
-     "user" : "	Eintracht Frankfurt vs Freiburg SD",
-    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/104.m3u8",
-    "type" : "GERMAN BUNDESLIGA ⚽️ ",
-    "webFormatUrl" :"https://i.pinimg.com/originals/6b/a3/18/6ba318474e4cab7cef32a965fd6b982c.png"
-    },
-		 {
-     "user" : "	Werder Bremen vs Borussia M'gladbach SD",
-    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/108.m3u8",
-    "type" : "GERMAN BUNDESLIGA ⚽️ ",
-    "webFormatUrl" :"https://i.pinimg.com/originals/6b/a3/18/6ba318474e4cab7cef32a965fd6b982c.png"
-    },
-		 {
-     "user" : "	Borussia Dortmund vs Bayer Leverkusen SD",
-    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/102.m3u8",
-    "type" : "GERMAN BUNDESLIGA ⚽️ ",
-    "webFormatUrl" :"https://i.pinimg.com/originals/6b/a3/18/6ba318474e4cab7cef32a965fd6b982c.png"
-    },
-		
 		
 		
 		{
      "user" : "Eibar vs Barcelona SD",
-    "pageUrl" : "http://ferrarico.referrari.com/live/60142_.m3u8",
+    "pageUrl" : "http://ferrarico.referrari.com/live/60146_.m3u8",
     "type" : "SPANISH LA LIGA ⚽️ ",
     "webFormatUrl" :"https://iscreativestudio.com/wp-content/uploads/2016/08/logotipos4.jpg"
     },	
@@ -87,35 +34,51 @@
     },	
 		{
      "user" : "Osasuna vs Real Sociedad SD",
-    "pageUrl" : "http://ferrarico.referrari.com/live/60142_.m3u8",
+    "pageUrl" : "http://ferrarico.referrari.com/live/60161_.m3u8",
     "type" : "SPANISH LA LIGA ⚽️ ",
     "webFormatUrl" :"https://iscreativestudio.com/wp-content/uploads/2016/08/logotipos4.jpg"
     },	
 		{
      "user" : "Real Madrid vs Villarreal SD",
-    "pageUrl" : "http://ferrarico.referrari.com/live/60142_.m3u8",
+    "pageUrl" : "http://ferrarico.referrari.com/live/60153_.m3u8",
+    "type" : "SPANISH LA LIGA ⚽️ ",
+    "webFormatUrl" :"https://iscreativestudio.com/wp-content/uploads/2016/08/logotipos4.jpg"
+    },	
+
+
+
+{
+     "user" : "Real Madrid vs Villarreal HD",
+    "pageUrl" : "http://persik.by/stream/6696/480248/10217.m3u8",
     "type" : "SPANISH LA LIGA ⚽️ ",
     "webFormatUrl" :"https://iscreativestudio.com/wp-content/uploads/2016/08/logotipos4.jpg"
     },	
 
 		{
      "user" : "	Celta de Vigo vs Real Betis SD",
-    "pageUrl" : "http://ferrarico.referrari.com/live/60142_.m3u8",
+    "pageUrl" : "http://ferrarico.referrari.com/live/60140_.m3u8",
     "type" : "SPANISH LA LIGA ⚽️ ",
     "webFormatUrl" :"https://iscreativestudio.com/wp-content/uploads/2016/08/logotipos4.jpg"
     },	
 {
-     "user" : "Real Valladolid vs Atlético Madrid SD",
-    "pageUrl" : "http://ferrarico.referrari.com/live/60142_.m3u8",
+     "user" : "Real Valladolid vs Atlético Madrid HD",
+    "pageUrl" : "http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8",
     "type" : "SPANISH LA LIGA ⚽️ ",
     "webFormatUrl" :"https://iscreativestudio.com/wp-content/uploads/2016/08/logotipos4.jpg"
     },
 
 
+{
+     "user" : "Real Valladolid vs Atlético Madrid SD",
+    "pageUrl" : "http://ferrarico.referrari.com/live/60151_.m3u8",
+    "type" : "SPANISH LA LIGA ⚽️ ",
+    "webFormatUrl" :"https://iscreativestudio.com/wp-content/uploads/2016/08/logotipos4.jpg"
+    },
+
 
 		 {
      "user" : "	Swansea City vs Barnsley",
-    "pageUrl" : "http://77.83.117.60:8888/02_epl2_720p_UK/chunklist.m3u8",
+    "pageUrl" : "http://77.83.117.60:8888/02_epl2_720p_UK/chunklist.m3u8,",
     "type" : "ENGLISH CHAMPIONSHIP PLAYOFF ⚽️ ",
     "webFormatUrl" :"https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/24.png"
     },	
