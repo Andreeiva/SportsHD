@@ -54,11 +54,19 @@
     "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
     },
 		{
-     "user" : "	Sheffield United vs Burnley",
+     "user" : "	Sheffield United vs Burnley HD",
     "pageUrl" : "http://ferrarico.referrari.com/live/60170_.m3u8",
     "type" : "ENGLISH PREMIER LEAGUE ⚽️ ",
     "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-    },{
+    },
+
+{
+     "user" : "	Sheffield United vs Burnley SD",
+    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/109.m3u8",
+    "type" : "ENGLISH PREMIER LEAGUE ⚽️ ",
+    "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+    },
+{
      "user" : "West Ham United vs Southampton",
     "pageUrl" : "http://cdn.addressingethernet.xyz/hls/110.m3u8",
     "type" : "ENGLISH PREMIER LEAGUE ⚽️ ",
@@ -83,12 +91,26 @@
     "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
     },
 		{
-     "user" : "	Leeds United vs West Bromwich Albion",
+     "user" : "	Leeds United vs West Bromwich Albion HD",
     "pageUrl" : "http://ferrarico.referrari.com/live/60157_.m3u8",
     "type" : "ENGLISH PREMIER LEAGUE ⚽️ ",
     "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
     },
+
+{
+     "user" : "	Leeds United vs West Bromwich Albion SD",
+    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/105.m3u8",
+    "type" : "ENGLISH PREMIER LEAGUE ⚽️ ",
+    "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+    },
 		{
+     "user" : "	Wolverhampton Wanderers vs Manchester United SD(English)",
+    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/111.m3u8",
+    "type" : "ENGLISH PREMIER LEAGUE ⚽️ ",
+    "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+    },
+
+{
      "user" : "	Wolverhampton Wanderers vs Manchester United",
     "pageUrl" : "http://77.83.117.60:8888/02_PremierHD2_480p/chunklist.m3u8",
     "type" : "ENGLISH PREMIER LEAGUE ⚽️ ",
