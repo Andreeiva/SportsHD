@@ -3,7 +3,24 @@
 	"hits": [
 
 	
-		
+		 {
+     "user" : "AC MILAN VS LIVERPOOL",
+    "pageUrl" : "https://videos2.footballia.net/uploads/video/source_file/16853/2004-05_Liverpool_-_Milan.mp4",
+    "type" : "UEFA CHAMPIONS LEAGUE 2005 FINAL",
+    "webFormatUrl" :"https://static.dw.com/image/16392542_303.jpg"
+    },		
+	 {
+     "user" : "PSG VS BAYERN MUNICH",
+    "pageUrl" : "https://videos2.footballia.net/uploads/video/source_file/33719/2019-20_PSG_-_Bayern_-_1.mp4  part 1",
+    "type" : "UEFA CHAMPIONS LEAGUE 2020 FIRST HALF",
+    "webFormatUrl" :"https://static.dw.com/image/16392542_303.jpg"
+    },		
+	 {
+     "user" : "PSG VS BAYERN MUNICH",
+    "pageUrl" : "https://videos2.footballia.net/uploads/video/source_file/33720/2019-20_PSG_-_Bayern_-_2.mp4 part 2",
+    "type" : "UEFA CHAMPIONS LEAGUE 2020 FINAL 2ND HALF",
+    "webFormatUrl" :"https://static.dw.com/image/16392542_303.jpg"
+    },	
 	
 	 {
      "user" : "SAMPDORIA VS PARMA",
