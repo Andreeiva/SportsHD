@@ -6,18 +6,13 @@
 		 	
 
 
-	 {
-     "user" : "FC KOLN VS HOLSTEIN KEL",
-    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/101.m3u8",
-    "type" : "GERMAN BUNDESLIGA ⚽️ ",
-    "webFormatUrl" :"https://i.pinimg.com/originals/33/fa/e3/33fae357c48ffd325d57e4a7a6de2e4e.png"
-    },		
+	 
 
 
 
 	 {
      "user" : "VILLARREAL VS MANCHESTER UNITED HD1",
-    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/101.m3u8",
+    "pageUrl" : "http://persik.by/stream/6696/480248/346.m3u8",
     "type" : "BUNDESLIGA ⚽️ ",
     "webFormatUrl" :"https://editorial.uefa.com/resources/0245-0e68c0092785-07f007d1a562-1000/2561767.jpg"
     },		
@@ -26,7 +21,7 @@
 
 	 {
      "user" : "VILLARREAL VS MANCHESTER UNITED HD2",
-    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/101.m3u8",
+    "pageUrl" : "http://ferrarico.referrari.com/live/60163_.m3u8",
     "type" : "BUNDESLIGA ⚽️ ",
     "webFormatUrl" :"https://editorial.uefa.com/resources/0245-0e68c0092785-07f007d1a562-1000/2561767.jpg"
     },		
@@ -36,20 +31,20 @@
 	  
 	 {
      "user" : "VILLARREAL VS MANCHESTER UNITED HD3",
-    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/101.m3u8",
+    "pageUrl" : "http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8",
     "type" : "BUNDESLIGA ⚽️ ",
     "webFormatUrl" :"https://editorial.uefa.com/resources/0245-0e68c0092785-07f007d1a562-1000/2561767.jpg"
     },		
  {
      "user" : "VILLARREAL VS MANCHESTER UNITED SD",
-    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/101.m3u8",
+    "pageUrl" : "http://ferrarico.referrari.com/live/60139_.m3u8",
     "type" : "BUNDESLIGA ⚽️ ",
     "webFormatUrl" :"https://editorial.uefa.com/resources/0245-0e68c0092785-07f007d1a562-1000/2561767.jpg"
     },		
 
 	 {
      "user" : "VILLARREAL VS MANCHESTER UNITED HD(ENGLISH)",
-    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/101.m3u8",
+    "pageUrl" : "http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8",
     "type" : "BUNDESLIGA ⚽️ ",
     "webFormatUrl" :"https://editorial.uefa.com/resources/0245-0e68c0092785-07f007d1a562-1000/2561767.jpg"
     },	
