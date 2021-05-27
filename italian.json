@@ -2,61 +2,43 @@
 {
 	"hits": [
 
-	
-		 	
-
-
-	 
-
-
-
-	 {
-     "user" : "VILLARREAL VS MANCHESTER UNITED HD1",
-    "pageUrl" : "http://persik.by/stream/6696/480248/346.m3u8",
-    "type" : "BUNDESLIGA ⚽️ ",
-    "webFormatUrl" :"https://editorial.uefa.com/resources/0245-0e68c0092785-07f007d1a562-1000/2561767.jpg"
-    },		
-
-
-
-	 {
-     "user" : "VILLARREAL VS MANCHESTER UNITED HD2",
-    "pageUrl" : "http://ferrarico.referrari.com/live/60163_.m3u8",
-    "type" : "BUNDESLIGA ⚽️ ",
-    "webFormatUrl" :"https://editorial.uefa.com/resources/0245-0e68c0092785-07f007d1a562-1000/2561767.jpg"
-    },		
-
-{
-     "user" : "VILLARREAL VS MANCHESTER UNITED HD3 (ENGLISH)",
-    "pageUrl" : "http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8",
-    "type" : "BUNDESLIGA ⚽️ ",
-    "webFormatUrl" :"https://editorial.uefa.com/resources/0245-0e68c0092785-07f007d1a562-1000/2561767.jpg"
-    },	
-
-	  
-	 {
-     "user" : "VILLARREAL VS MANCHESTER UNITED SD1",
-    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/102.m3u8",
-    "type" : "BUNDESLIGA ⚽️ ",
-    "webFormatUrl" :"https://editorial.uefa.com/resources/0245-0e68c0092785-07f007d1a562-1000/2561767.jpg"
-    },		
- {
-     "user" : "VILLARREAL VS MANCHESTER UNITED SD2",
-    "pageUrl" : "http://ferrarico.referrari.com/live/60147_.m3u8",
-    "type" : "BUNDESLIGA ⚽️ ",
-    "webFormatUrl" :"https://editorial.uefa.com/resources/0245-0e68c0092785-07f007d1a562-1000/2561767.jpg"
-    },		
-
-	 
+ 
 
 	
 
 	 {
-     "user" : "AROUCA VS RIO AVE",
-    "pageUrl" : "http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8",
-    "type" : "PORTUGUESE PRIMEIRA LIGA ⚽️ ",
-    "webFormatUrl" :"https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/14.png"
+     "user" : "ENGLISH PREMIER LEAGUE 1",
+    "pageUrl" : "http://77.83.117.60:8888/02_PremierHD2_480p/chunklist.m3u8",
+    "type" : "PREMIER LEAGUE 2020/2021 ⚽️ ",
+    "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+   },
+
+	
+	 {
+     "user" : "ENGLISH PREMIER LEAGUE 2",
+    "pageUrl" : "http://ferrarico.referrari.com/live/60154_.m3u8",
+    "type" : "PREMIER LEAGUE 2020/2021 ⚽️ ",
+    "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
     },		
+
+
+	 {
+     "user" : "ENGLISH PREMIER LEAGUE 3",
+    "pageUrl" : "http://77.83.117.60:8888/02_PremierHD2_480p/chunklist.m3u8",
+    "type" : "PREMIER LEAGUE 2020/2021 ⚽️ ",
+    "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+    },		
+
+
+	 {
+     "user" : "ENGLISH PREMIER LEAGUE 4",
+    "pageUrl" : "http://77.83.117.60:8888/02_PremierHD2_480p/chunklist.m3u8",
+    "type" : "PREMIER LEAGUE 2020/2021 ⚽️ ",
+    "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+    },		
+
+
+
 
  {
      "user" : "LIVE SPORTS",
