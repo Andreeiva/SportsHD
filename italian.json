@@ -1,32 +1,104 @@
 
+
 {
 	"hits": [
 
  
-{
-     "user" : "INGOLSTADT VS OSNABRUCK",
-    "pageUrl" : "http://persik.by/stream/6696/480248/10218.m3u8",
-    "type" : "BUNDESLIGA  QUALIFIERS ⚽️ ",
-    "webFormatUrl" :"https://i.pinimg.com/originals/6b/a3/18/6ba318474e4cab7cef32a965fd6b982c.png"
-   },
+
 	
 
 	 {
-     "user" : "TURKEY VS AZERBAIJAN",
-    "pageUrl" : "http://persik.by/stream/6696/480248/346.m3u8",
-    "type" : "INTERNATIONAL FRIENDLIES ⚽️ ",
-    "webFormatUrl" :"https://uob.ac.tz/wp-content/uploads/International-Friendlies.png"
+     "user" : "NAPOLI VS HELLAS VERONA",
+    "pageUrl" : "https://drevanet.com/wp-content/uploads/2021/05/napoli-gs-hellas-verona.mp4",
+    "type" : "SERIE A HIGHLIGHTS ⚽️ ",
+    "webFormatUrl" :"https://forzaitalianfootball.com/wp-content/uploads/2020/03/serie-a.png"
+   },
+
+
+
+
+	 {
+     "user" : "BOLOGNA VS JUVENTUS",
+    "pageUrl" : "https://drevanet.com/wp-content/uploads/2021/05/bologna-vs-juventus.mp4",
+    "type" : "SERIE A HIGHLIGHTS ⚽️ ",
+    "webFormatUrl" :"https://forzaitalianfootball.com/wp-content/uploads/2020/03/serie-a.png"
    },
 
 
 
 	 {
-     "user" : "TOULOUSE VS NANTES",
-    "pageUrl" : "http://persik.by/stream/6696/480248/346.m3u8",
-    "type" : "FRENCH LIQUE 1 ⚽️ ",
-    "webFormatUrl" :"https://1000logos.net/wp-content/uploads/2018/10/French-Ligue-1-logo.png"
+     "user" : "ATALANTA VS MILAN",
+    "pageUrl" : "https://drevanet.com/wp-content/uploads/2021/05/atalanta-vs-Milan.mp4",
+    "type" : "SERIE A HIGHLIGHTS ⚽️ ",
+    "webFormatUrl" :"https://forzaitalianfootball.com/wp-content/uploads/2020/03/serie-a.png"
    },
 
+	 {
+     "user" : "INTER VS UDINESE",
+    "pageUrl" : "https://drevanet.com/wp-content/uploads/2021/05/napoli-gs-hellas-verona.mp4",
+    "type" : "SERIE A HIGHLIGHTS ⚽️ ",
+    "webFormatUrl" :"https://forzaitalianfootball.com/wp-content/uploads/2020/03/serie-a.png"
+   },
+
+
+
+	 {
+     "user" : "SPEZIA VS ROMA",
+    "pageUrl" : "https://drevanet.com/wp-content/uploads/2021/05/spezia-vs-as-roma.mp4",
+    "type" : "SERIE A HIGHLIGHTS ⚽️ ",
+    "webFormatUrl" :"https://forzaitalianfootball.com/wp-content/uploads/2020/03/serie-a.png"
+   },
+
+
+	 {
+     "user" : "SASUOLO VS LAZIO",
+    "pageUrl" : "https://drevanet.com/wp-content/uploads/2021/05/sasuolo-vs-lazio.mp4",
+    "type" : "SERIE A HIGHLIGHTS ⚽️ ",
+    "webFormatUrl" :"https://forzaitalianfootball.com/wp-content/uploads/2020/03/serie-a.png"
+   },
+
+
+	 {
+     "user" : "CAGLIARI VS GENOA",
+    "pageUrl" : "https://drevanet.com/wp-content/uploads/2021/05/cagliari-vs-genoa.mp4",
+    "type" : "SERIE A HIGHLIGHTS ⚽️ ",
+    "webFormatUrl" :"https://forzaitalianfootball.com/wp-content/uploads/2020/03/serie-a.png"
+   },
+
+
+	 {
+     "user" : "TORINO VS BENEVENTO",
+    "pageUrl" : "https://drevanet.com/wp-content/uploads/2021/05/torino-vs-Benevento.mp4",
+    "type" : "SERIE A HIGHLIGHTS ⚽️ ",
+    "webFormatUrl" :"https://forzaitalianfootball.com/wp-content/uploads/2020/03/serie-a.png"
+   },
+
+
+
+	 {
+     "user" : "CROTONE VS FIORENTINA",
+    "pageUrl" : "https://drevanet.com/wp-content/uploads/2021/05/crotone-vs-Fiorentina.mp4",
+    "type" : "SERIE A HIGHLIGHTS ⚽️ ",
+    "webFormatUrl" :"https://forzaitalianfootball.com/wp-content/uploads/2020/03/serie-a.png"
+   },
+
+
+	 {
+     "user" : "Sampdoria vs Parma",
+    "pageUrl" : "https://drevanet.com/wp-content/uploads/2021/05/sampdoria-vs-parma.mp4",
+    "type" : "SERIE A HIGHLIGHTS ⚽️ ",
+    "webFormatUrl" :"https://forzaitalianfootball.com/wp-content/uploads/2020/03/serie-a.png"
+   },
+
+
+	 
+
+	 {
+     "user" : "ENGLISH PREMIER LEAGUE 4",
+    "pageUrl" : "http://77.83.117.60:8888/02_PremierHD2_480p/chunklist.m3u8",
+    "type" : "PREMIER LEAGUE 2020/2021 ⚽️ ",
+    "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+    },		
 
 
 
