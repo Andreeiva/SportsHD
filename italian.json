@@ -8,33 +8,57 @@
 	
 
 	 {
-     "user" : "ITALY VS SAN MARINO HD",
-    "pageUrl" : "http://50.7.161.82:8278/streams/d/Assp1/playlist.m3u8",
-    "type" : "INTERNATIONAL FRIENDLIES ⚽️ ",
-    "webFormatUrl" :"https://uob.ac.tz/wp-content/uploads/International-Friendlies.png"
+     "user" : "CHELSEA VS MANCHESTER CITY HD  1",
+    "pageUrl" : "http://ferrarico.referrari.com/live/60163_.m3u8",
+    "type" : "UEFA CHAMPIONS LEAGUE ⚽️ ",
+    "webFormatUrl" :"https://static.dw.com/image/16392542_303.jpg"
    },
 
 
-
-
 	 {
-     "user" : "ITALY VS SAN MARINO HD 2",
-    "pageUrl" : "https://sport.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8",
-    "type" : "INTERNATIONAL FRIENDLIES ⚽️ ",
-    "webFormatUrl" :"https://uob.ac.tz/wp-content/uploads/International-Friendlies.png"
-   },
-
-
-
-
-	 {
-     "user" : "ITALY VS SAN MARINO HD 3",
+     "user" : "CHELSEA VS MANCHESTER CITY HD  2",
     "pageUrl" : "http://persik.by/stream/6696/480248/346.m3u8",
-    "type" : "INTERNATIONAL FRIENDLIES ⚽️ ",
-    "webFormatUrl" :"https://uob.ac.tz/wp-content/uploads/International-Friendlies.png"
+    "type" : "UEFA CHAMPIONS LEAGUE ⚽️ ",
+    "webFormatUrl" :"https://static.dw.com/image/16392542_303.jpg"
    },
+
+
+
+
+
+	 {
+     "user" : "CHELSEA VS MANCHESTER CITY HD  3",
+    "pageUrl" : "http://93.157.62.180/ArenaSport1/index.m3u8",
+    "type" : "UEFA CHAMPIONS LEAGUE ⚽️ ",
+    "webFormatUrl" :"https://static.dw.com/image/16392542_303.jpg"
+   },
+
+
 
 	 
+	 {
+     "user" : "CHELSEA VS MANCHESTER CITY HD  4",
+    "pageUrl" : "https://185-107-80-245.livesports24.online:443/ntvmatchfoot1.m3u8",
+    "type" : "UEFA CHAMPIONS LEAGUE ⚽️ ",
+    "webFormatUrl" :"https://static.dw.com/image/16392542_303.jpg"
+   },
+
+
+
+	 {
+     "user" : "CHELSEA VS MANCHESTER CITY SD  1",
+    "pageUrl" : "http://ferrarico.referrari.com/live/60147_.m3u8",
+    "type" : "UEFA CHAMPIONS LEAGUE ⚽️ ",
+    "webFormatUrl" :"https://static.dw.com/image/16392542_303.jpg"
+   },
+
+
+	 {
+     "user" : "CHELSEA VS MANCHESTER CITY SD  2",
+    "pageUrl" : "http://ferrarico.referrari.com/live/60147_.m3u8",
+    "type" : "UEFA CHAMPIONS LEAGUE ⚽️ ",
+    "webFormatUrl" :"https://static.dw.com/image/16392542_303.jpg"
+   },
 
 
  {
