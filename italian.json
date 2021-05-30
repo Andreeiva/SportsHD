@@ -7,60 +7,23 @@
 
 	
 
-	 {
-     "user" : "CHELSEA VS MANCHESTER CITY HD  1",
-    "pageUrl" : "http://ferrarico.referrari.com/live/60163_.m3u8",
-    "type" : "UEFA CHAMPIONS LEAGUE ⚽️ ",
-    "webFormatUrl" :"https://static.dw.com/image/16392542_303.jpg"
-   },
-
-
-	 {
-     "user" : "CHELSEA VS MANCHESTER CITY HD  2",
-    "pageUrl" : "http://persik.by/stream/6696/480248/346.m3u8",
-    "type" : "UEFA CHAMPIONS LEAGUE ⚽️ ",
-    "webFormatUrl" :"https://static.dw.com/image/16392542_303.jpg"
-   },
-
-
-
-
-
-	 {
-     "user" : "CHELSEA VS MANCHESTER CITY HD  3",
-    "pageUrl" : "http://93.157.62.180/ArenaSport1/index.m3u8",
-    "type" : "UEFA CHAMPIONS LEAGUE ⚽️ ",
-    "webFormatUrl" :"https://static.dw.com/image/16392542_303.jpg"
-   },
-
-
-
 	 
-	 {
-     "user" : "CHELSEA VS MANCHESTER CITY HD  4",
-    "pageUrl" : "https://185-107-80-245.livesports24.online:443/ntvmatchfoot1.m3u8",
-    "type" : "UEFA CHAMPIONS LEAGUE ⚽️ ",
-    "webFormatUrl" :"https://static.dw.com/image/16392542_303.jpg"
-   },
 
 
 
 	 {
-     "user" : "CHELSEA VS MANCHESTER CITY SD  1",
-    "pageUrl" : "http://ferrarico.referrari.com/live/60147_.m3u8",
-    "type" : "UEFA CHAMPIONS LEAGUE ⚽️ ",
-    "webFormatUrl" :"https://static.dw.com/image/16392542_303.jpg"
+     "user" : "SWITZERLAND VS UNITED STATES OF AMERICA",
+    "pageUrl" : "http://50.7.161.82:8278/streams/d/Assp4/playlist.m3u8",
+    "type" : "INTERNATIONAL FRIENDLIES ⚽️ ",
+    "webFormatUrl" :"https://www.thesportsdb.com/images/media/league/badge/small/6th37x1601999163.png"
    },
-
-
-	 {
-     "user" : "CHELSEA VS MANCHESTER CITY SD  2",
-    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/103.m3u8",
-    "type" : "UEFA CHAMPIONS LEAGUE ⚽️ ",
-    "webFormatUrl" :"https://static.dw.com/image/16392542_303.jpg"
+	 
+ {
+     "user" : "SWITZERLAND VS UNITED STATES OF AMERICA HD2",
+    "pageUrl" : "http://50.7.161.82:8278/streams/d/Assp4/playlist.m3u8",
+    "type" : "INTERNATIONAL FRIENDLIES ⚽️ ",
+    "webFormatUrl" :"https://www.thesportsdb.com/images/media/league/badge/small/6th37x1601999163.png"
    },
-
-
  {
      "user" : "LIVE SPORTS",
     "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
