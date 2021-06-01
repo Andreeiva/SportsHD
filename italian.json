@@ -12,18 +12,36 @@
 
 
 	 {
-     "user" : "SWITZERLAND VS UNITED STATES OF AMERICA",
-    "pageUrl" : "http://50.7.161.82:8278/streams/d/Assp4/playlist.m3u8",
+     "user" : "CROATIA VS ARMENIA",
+    "pageUrl" : "https://sport.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8",
     "type" : "INTERNATIONAL FRIENDLIES ⚽️ ",
     "webFormatUrl" :"https://www.thesportsdb.com/images/media/league/badge/small/6th37x1601999163.png"
    },
 	 
  {
-     "user" : "SWITZERLAND VS UNITED STATES OF AMERICA HD2",
+     "user" : "SLOVAKIA VS BULGARIA",
+    "pageUrl" : "http://persik.by/stream/6696/480248/10217.m3u8",
+    "type" : "INTERNATIONAL FRIENDLIES ⚽️ ",
+    "webFormatUrl" :"https://www.thesportsdb.com/images/media/league/badge/small/6th37x1601999163.png"
+   },
+
+
+	 
+ {
+     "user" : "POLAND VS RUSSIA",
     "pageUrl" : "http://50.7.161.82:8278/streams/d/Assp4/playlist.m3u8",
     "type" : "INTERNATIONAL FRIENDLIES ⚽️ ",
     "webFormatUrl" :"https://www.thesportsdb.com/images/media/league/badge/small/6th37x1601999163.png"
    },
+
+	 
+ {
+     "user" : "NORTHERN MACEDONIA VS SLOVENIA ",
+    "pageUrl" : "https://chostv.mobie.in/choos/sports/matchqy3.m3u8",
+    "type" : "INTERNATIONAL FRIENDLIES ⚽️ ",
+    "webFormatUrl" :"https://www.thesportsdb.com/images/media/league/badge/small/6th37x1601999163.png"
+   },
+
  {
      "user" : "LIVE SPORTS",
     "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
