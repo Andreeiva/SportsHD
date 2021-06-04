@@ -14,7 +14,7 @@
 	 {
      "user" : "Spain vs Portugal SD",
     "pageUrl" : "http://ferrarico.referrari.com/live/60139_.m3u8",
-    "type" : "CONMEBOL QUALIFICATION ⚽️ ",
+    "type" : "INTERNATIONAL FRIENDLIES ⚽️ ",
     "webFormatUrl" :"http://www.logo-designer.co/wp-content/uploads/2019/10/2019-2020-copa-america-logo-revealed.jpg"
    },
 	 
@@ -22,7 +22,15 @@
  {
      "user" : "Spain vs Portugal HD",
     "pageUrl" : "http://50.7.161.82:8278/streams/d/Assp1/playlist.m3u8",
-    "type" : "CONMEBOL QUALIFICATION ⚽️ ",
+    "type" : "INTERNATIONAL FRIENDLIES ⚽️ ",
+    "webFormatUrl" :"http://www.logo-designer.co/wp-content/uploads/2019/10/2019-2020-copa-america-logo-revealed.jpg"
+   },
+	 
+ 
+ {
+     "user" : "HUNGARY VS CYPRUS HD",
+    "pageUrl" : "https://sport.livedoomovie.com/02_SPORTTV_3_720p/chunklist.m3u8",
+    "type" : "INTERNATIONAL FRIENDLIES ⚽️ ",
     "webFormatUrl" :"http://www.logo-designer.co/wp-content/uploads/2019/10/2019-2020-copa-america-logo-revealed.jpg"
    },
 	 
@@ -30,7 +38,7 @@
  {
      "user" : "Italy vs Czech Republic SD",
     "pageUrl" : "http://ferrarico.referrari.com/live/60140_.m3u8",
-    "type" : "CONMEBOL QUALIFICATION ⚽️ ",
+    "type" : "INTERNATIONAL FRIENDLIES ⚽️ ",
     "webFormatUrl" :"http://www.logo-designer.co/wp-content/uploads/2019/10/2019-2020-copa-america-logo-revealed.jpg"
    },
 
@@ -38,7 +46,7 @@
  {
      "user" : "Italy vs Czech Republic HD",
     "pageUrl" : "http://50.7.161.82:8278/streams/d/Assp3/playlist.m3u8",
-    "type" : "CONMEBOL QUALIFICATION ⚽️ ",
+    "type" : "INTERNATIONAL FRIENDLIES ⚽️ ",
     "webFormatUrl" :"http://www.logo-designer.co/wp-content/uploads/2019/10/2019-2020-copa-america-logo-revealed.jpg"
    },
  {
