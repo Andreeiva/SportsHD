@@ -12,52 +12,21 @@
 
 
 	 {
-     "user" : "NETHERLANDS VS SCOTLAND",
+     "user" : "Argentina vs Chile SD",
+    "pageUrl" : "http://ferrarico.referrari.com/live/60139_.m3u8",
+    "type" : "CONMEBOL QUALIFICATION ⚽️ ",
+    "webFormatUrl" :"http://www.logo-designer.co/wp-content/uploads/2019/10/2019-2020-copa-america-logo-revealed.jpg"
+   },
+	 
+ 
+ {
+     "user" : "Argentina vs Chile HD",
     "pageUrl" : "http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8",
-    "type" : "INTERNATIONAL FRIENDLIES ⚽️ ",
-    "webFormatUrl" :"https://www.thesportsdb.com/images/media/league/badge/small/6th37x1601999163.png"
+    "type" : "CONMEBOL QUALIFICATION ⚽️ ",
+    "webFormatUrl" :"http://www.logo-designer.co/wp-content/uploads/2019/10/2019-2020-copa-america-logo-revealed.jpg"
    },
 	 
- {
-     "user" : "ENGLAND VS AUSTRIA  HD1",
-    "pageUrl" : "http://50.7.161.82:8278/streams/d/Assp1/playlist.m3u8",
-    "type" : "INTERNATIONAL FRIENDLIES ⚽️ ",
-    "webFormatUrl" :"https://www.thesportsdb.com/images/media/league/badge/small/6th37x1601999163.png"
-   },
-
-	 
- {
-     "user" : "ENGLAND VS AUSTRIA  SD",
-    "pageUrl" : "http://ferrarico.referrari.com/live/60140_.m3u8",
-    "type" : "INTERNATIONAL FRIENDLIES ⚽️ ",
-    "webFormatUrl" :"https://www.thesportsdb.com/images/media/league/badge/small/6th37x1601999163.png"
-   },
-
-	 
- {
-     "user" : "GERMANY VS DENMARK",
-    "pageUrl" : "https://sport.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8",
-    "type" : "INTERNATIONAL FRIENDLIES ⚽️ ",
-    "webFormatUrl" :"https://www.thesportsdb.com/images/media/league/badge/small/6th37x1601999163.png"
-   },
-
-	 
- {
-     "user" : "FRANCE VS WALES",
-    "pageUrl" : "http://50.7.161.82:8278/streams/d/Assp3/playlist.m3u8",
-    "type" : "INTERNATIONAL FRIENDLIES ⚽️ ",
-    "webFormatUrl" :"https://www.thesportsdb.com/images/media/league/badge/small/6th37x1601999163.png"
-   },
-
-	 
- {
-     "user" : "ROMANIA VS GEORGIA",
-    "pageUrl" : "http://ferrarico.referrari.com/live/60159_.m3u8",
-    "type" : "INTERNATIONAL FRIENDLIES ⚽️ ",
-    "webFormatUrl" :"https://www.thesportsdb.com/images/media/league/badge/small/6th37x1601999163.png"
-   },
-
-
+ 
 
 
  {
