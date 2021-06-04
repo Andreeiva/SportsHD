@@ -27,8 +27,20 @@
    },
 	 
  
+ {
+     "user" : "Italy vs Czech Republic SD",
+    "pageUrl" : "http://ferrarico.referrari.com/live/60140_.m3u8",
+    "type" : "CONMEBOL QUALIFICATION ⚽️ ",
+    "webFormatUrl" :"http://www.logo-designer.co/wp-content/uploads/2019/10/2019-2020-copa-america-logo-revealed.jpg"
+   },
 
 
+ {
+     "user" : "Italy vs Czech Republic HD",
+    "pageUrl" : "http://50.7.161.82:8278/streams/d/Assp3/playlist.m3u8",
+    "type" : "CONMEBOL QUALIFICATION ⚽️ ",
+    "webFormatUrl" :"http://www.logo-designer.co/wp-content/uploads/2019/10/2019-2020-copa-america-logo-revealed.jpg"
+   },
  {
      "user" : "LIVE SPORTS",
     "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
