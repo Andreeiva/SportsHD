@@ -12,52 +12,38 @@
 
 
 	 {
-     "user" : "Spain vs Portugal SD",
-    "pageUrl" : "http://ferrarico.referrari.com/live/60139_.m3u8",
+     "user" : "Russia vs Bulgaria HD",
+    "pageUrl" : "http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8",
     "type" : "INTERNATIONAL FRIENDLIES ⚽️ ",
     "webFormatUrl" :"http://www.logo-designer.co/wp-content/uploads/2019/10/2019-2020-copa-america-logo-revealed.jpg"
    },
 	 
  
  {
-     "user" : "Spain vs Portugal HD",
-    "pageUrl" : "http://50.7.161.82:8278/streams/d/Assp1/playlist.m3u8",
-    "type" : "INTERNATIONAL FRIENDLIES ⚽️ ",
-    "webFormatUrl" :"http://www.logo-designer.co/wp-content/uploads/2019/10/2019-2020-copa-america-logo-revealed.jpg"
-   },
-	 
- 
- {
-     "user" : "HUNGARY VS CYPRUS HD",
-    "pageUrl" : "https://sport.livedoomovie.com/02_SPORTTV_3_720p/chunklist.m3u8",
-    "type" : "INTERNATIONAL FRIENDLIES ⚽️ ",
-    "webFormatUrl" :"http://www.logo-designer.co/wp-content/uploads/2019/10/2019-2020-copa-america-logo-revealed.jpg"
-   },
-	 
- 
- {
-     "user" : "Italy vs Czech Republic SD",
+     "user" : "Wales vs Albania SD",
     "pageUrl" : "http://ferrarico.referrari.com/live/60140_.m3u8",
     "type" : "INTERNATIONAL FRIENDLIES ⚽️ ",
     "webFormatUrl" :"http://www.logo-designer.co/wp-content/uploads/2019/10/2019-2020-copa-america-logo-revealed.jpg"
    },
-
-
+	 
+ 
  {
-     "user" : "Italy vs Czech Republic HD",
+     "user" : "Wales vs Albania HD",
     "pageUrl" : "http://50.7.161.82:8278/streams/d/Assp3/playlist.m3u8",
     "type" : "INTERNATIONAL FRIENDLIES ⚽️ ",
     "webFormatUrl" :"http://www.logo-designer.co/wp-content/uploads/2019/10/2019-2020-copa-america-logo-revealed.jpg"
    },
-
-
-
+	 
+ 
  {
-     "user" : "FAROE ISLAND VS ICELAND HD",
-    "pageUrl" : "http://ferrarico.referrari.com/live/60155_.m3u8",
+     "user" : "Sweden vs Armenia SD",
+    "pageUrl" : "http://50.7.161.82:8278/streams/d/Assp1/playlist.m3u8",
     "type" : "INTERNATIONAL FRIENDLIES ⚽️ ",
     "webFormatUrl" :"http://www.logo-designer.co/wp-content/uploads/2019/10/2019-2020-copa-america-logo-revealed.jpg"
    },
+
+
+ 
  {
      "user" : "LIVE SPORTS",
     "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
