@@ -8,7 +8,12 @@
 	
 
 	 
-
+ {
+     "user" : "England vs Romania SD",
+    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/101.m3u8",
+    "type" : "INTERNATIONAL FRIENDLIES ⚽️ ",
+    "webFormatUrl" :"https://www.thesportsdb.com/images/media/league/badge/small/6th37x1601999163.png"
+   },
 
 
 	 {
@@ -36,8 +41,8 @@
 	 
  
  {
-     "user" : "Sweden vs Armenia SD",
-    "pageUrl" : "http://50.7.161.82:8278/streams/d/Assp1/playlist.m3u8",
+     "user" : "Luxembourg vs Scotland SD",
+    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/102.m3u8",
     "type" : "INTERNATIONAL FRIENDLIES ⚽️ ",
     "webFormatUrl" :"https://www.thesportsdb.com/images/media/league/badge/small/6th37x1601999163.png"
    },
