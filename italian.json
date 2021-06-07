@@ -9,57 +9,14 @@
 
 	 
  {
-     "user" : "England vs Romania SD",
+     "user" : "Germany vs Latvia HD",
     "pageUrl" : "http://cdn.addressingethernet.xyz/hls/101.m3u8",
     "type" : "INTERNATIONAL FRIENDLIES ⚽️ ",
     "webFormatUrl" :"https://www.thesportsdb.com/images/media/league/badge/small/6th37x1601999163.png"
    },
 
 
-	 {
-     "user" : "England vs Romania HD",
-    "pageUrl" : "http://50.7.161.82:8278/streams/d/Assp3/playlist.m3u8",
-    "type" : "INTERNATIONAL FRIENDLIES ⚽️ ",
-    "webFormatUrl" :"https://www.thesportsdb.com/images/media/league/badge/small/6th37x1601999163.png"
-   },
-	 
- 
- {
-     "user" : "Netherlands vs Georgia SD",
-    "pageUrl" : "http://50.7.161.82:8278/streams/d/Assp4/playlist.m3u8",
-    "type" : "INTERNATIONAL FRIENDLIES ⚽️ ",
-    "webFormatUrl" :"https://www.thesportsdb.com/images/media/league/badge/small/6th37x1601999163.png"
-   },
-	 
- 
- {
-     "user" : "Denmark vs Bosnia and Herzegovina",
-    "pageUrl" : "http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8",
-    "type" : "INTERNATIONAL FRIENDLIES ⚽️ ",
-    "webFormatUrl" :"https://www.thesportsdb.com/images/media/league/badge/small/6th37x1601999163.png"
-   },
-	 
- 
- {
-     "user" : "Luxembourg vs Scotland SD",
-    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/102.m3u8",
-    "type" : "INTERNATIONAL FRIENDLIES ⚽️ ",
-    "webFormatUrl" :"https://www.thesportsdb.com/images/media/league/badge/small/6th37x1601999163.png"
-   },
-
-{
-     "user" : "Belgium vs Croatia HD",
-    "pageUrl" : "http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8",
-    "type" : "INTERNATIONAL FRIENDLIES ⚽️ ",
-    "webFormatUrl" :"https://www.thesportsdb.com/images/media/league/badge/small/6th37x1601999163.png"
-   },
-
-{
-     "user" : "Norway vs Greece SD",
-    "pageUrl" : "http://ferrarico.referrari.com/live/60145_.m3u8",
-    "type" : "INTERNATIONAL FRIENDLIES ⚽️ ",
-    "webFormatUrl" :"https://www.thesportsdb.com/images/media/league/badge/small/6th37x1601999163.png"
-   },
+	
 
 
  
