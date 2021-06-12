@@ -12,7 +12,7 @@
 		 
  {
      "user" : "Denmark vs Finland SD ",
-    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/101.m3u8",
+    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/102.m3u8",
     "type" : "UEFA EURO 2020⚽️ ",
     "webFormatUrl" :"https://images.daznservices.com/di/library/GOAL_INTERNATIONAL/53/27/euro-2020-logo_uuiagack0igm1hsuh25tsjahh.jpg"
    },
@@ -20,8 +20,8 @@
 
 		 
  {
-     "user" : "Belgium vs Russia HD ",
-    "pageUrl" : "http://stream.tvtap.live:8081/live/tsn1.stream/chunks.m3u8",
+     "user" : "Belgium vs Russia SD ",
+    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/101.m3u8",
     "type" : "UEFA EURO 2020⚽️ ",
     "webFormatUrl" :"https://images.daznservices.com/di/library/GOAL_INTERNATIONAL/53/27/euro-2020-logo_uuiagack0igm1hsuh25tsjahh.jpg"
    },
