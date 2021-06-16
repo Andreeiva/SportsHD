@@ -16,7 +16,7 @@
  
 	 
  {
-     "user" : "France vs Germany HD 1(ENGLISH)",
+     "user" : "Finland vs Russia HD 1(ENGLISH)",
     "pageUrl" : "http://cdn.ihub.live:8080/SonyTen2/tracks-v1a1/mono.m3u8",
     "type" : "UEFA EURO 2020⚽️ ",
     "webFormatUrl" :"https://images.daznservices.com/di/library/GOAL_INTERNATIONAL/53/27/euro-2020-logo_uuiagack0igm1hsuh25tsjahh.jpg"
@@ -25,7 +25,7 @@
 
 	 
  {
-     "user" : "France vs Germany HD 2(ENGLISH)",
+     "user" : "Finland vs Russia HD 2(ENGLISH)",
     "pageUrl" : "http://stream.tvtap.live:8081/live/tsn1.stream/chunks.m3u8",
     "type" : "UEFA EURO 2020⚽️ ",
     "webFormatUrl" :"https://images.daznservices.com/di/library/GOAL_INTERNATIONAL/53/27/euro-2020-logo_uuiagack0igm1hsuh25tsjahh.jpg"
@@ -33,7 +33,7 @@
 
 		 
  {
-     "user" : "France vs Germany HD 2",
+     "user" : "Finland  vs Russia HD 2",
     "pageUrl" : "https://sport.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8",
     "type" : "UEFA EURO 2020⚽️ ",
     "webFormatUrl" :"https://images.daznservices.com/di/library/GOAL_INTERNATIONAL/53/27/euro-2020-logo_uuiagack0igm1hsuh25tsjahh.jpg"
@@ -42,11 +42,83 @@
 
 		 
  {
-     "user" :"France vs Germany SD",
+     "user" :"Finland vs Russia SD",
     "pageUrl" : "http://cdn.addressingethernet.xyz/hls/102.m3u8",
     "type" : "UEFA EURO 2020⚽️ ",
     "webFormatUrl" :"https://images.daznservices.com/di/library/GOAL_INTERNATIONAL/53/27/euro-2020-logo_uuiagack0igm1hsuh25tsjahh.jpg"
    },
+
+
+	 
+ {
+     "user" : "Turkey vs Wales HD 1(ENGLISH)",
+    "pageUrl" : "http://cdn.ihub.live:8080/SonyTen2/tracks-v1a1/mono.m3u8",
+    "type" : "UEFA EURO 2020⚽️ ",
+    "webFormatUrl" :"https://images.daznservices.com/di/library/GOAL_INTERNATIONAL/53/27/euro-2020-logo_uuiagack0igm1hsuh25tsjahh.jpg"
+   },
+
+
+	 
+ {
+     "user" : "Turkey vs Wales HD 2(ENGLISH)",
+    "pageUrl" : "http://stream.tvtap.live:8081/live/tsn1.stream/chunks.m3u8",
+    "type" : "UEFA EURO 2020⚽️ ",
+    "webFormatUrl" :"https://images.daznservices.com/di/library/GOAL_INTERNATIONAL/53/27/euro-2020-logo_uuiagack0igm1hsuh25tsjahh.jpg"
+   },
+
+		 
+ {
+     "user" : "Turkey vs Wales HD 2",
+    "pageUrl" : "https://sport.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8",
+    "type" : "UEFA EURO 2020⚽️ ",
+    "webFormatUrl" :"https://images.daznservices.com/di/library/GOAL_INTERNATIONAL/53/27/euro-2020-logo_uuiagack0igm1hsuh25tsjahh.jpg"
+   },
+
+
+		 
+ {
+     "user" :"Turkey vs Wales SD",
+    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/102.m3u8",
+    "type" : "UEFA EURO 2020⚽️ ",
+    "webFormatUrl" :"https://images.daznservices.com/di/library/GOAL_INTERNATIONAL/53/27/euro-2020-logo_uuiagack0igm1hsuh25tsjahh.jpg"
+   },
+
+	 
+ {
+     "user" : "Italy vs Switzerland HD 1(ENGLISH)",
+    "pageUrl" : "http://cdn.ihub.live:8080/SonyTen2/tracks-v1a1/mono.m3u8",
+    "type" : "UEFA EURO 2020⚽️ ",
+    "webFormatUrl" :"https://images.daznservices.com/di/library/GOAL_INTERNATIONAL/53/27/euro-2020-logo_uuiagack0igm1hsuh25tsjahh.jpg"
+   },
+
+
+	 
+ {
+     "user" : "Italy vs Switzerland HD 2(ENGLISH)",
+    "pageUrl" : "http://stream.tvtap.live:8081/live/tsn1.stream/chunks.m3u8",
+    "type" : "UEFA EURO 2020⚽️ ",
+    "webFormatUrl" :"https://images.daznservices.com/di/library/GOAL_INTERNATIONAL/53/27/euro-2020-logo_uuiagack0igm1hsuh25tsjahh.jpg"
+   },
+
+		 
+ {
+     "user" : "Italy vs Switzerland HD 2",
+    "pageUrl" : "https://sport.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8",
+    "type" : "UEFA EURO 2020⚽️ ",
+    "webFormatUrl" :"https://images.daznservices.com/di/library/GOAL_INTERNATIONAL/53/27/euro-2020-logo_uuiagack0igm1hsuh25tsjahh.jpg"
+   },
+
+
+		 
+ {
+     "user" :"Italy vs Switzerland SD",
+    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/102.m3u8",
+    "type" : "UEFA EURO 2020⚽️ ",
+    "webFormatUrl" :"https://images.daznservices.com/di/library/GOAL_INTERNATIONAL/53/27/euro-2020-logo_uuiagack0igm1hsuh25tsjahh.jpg"
+   },
+
+
+
  {
      "user" : "Paraguay vs Bolivia SD",
     "pageUrl" : "http://stream.tvtap.live:8081/live/tsn3.stream/chunks.m3u8",
