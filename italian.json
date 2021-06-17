@@ -60,6 +60,12 @@
 
  {
      "user" : "Brazil vs Peru SD",
+    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/103.m3u8",
+    "type" : "COPA AMERICA ⚽️ ",
+    "webFormatUrl" :"http://www.logo-designer.co/wp-content/uploads/2019/10/2019-2020-copa-america-logo-revealed.jpg"
+   },
+ {
+     "user" : "Brazil vs Peru HD",
     "pageUrl" : "http://cdn.ihub.live:8080/SonyTen2/tracks-v1a1/mono.m3u8",
     "type" : "COPA AMERICA ⚽️ ",
     "webFormatUrl" :"http://www.logo-designer.co/wp-content/uploads/2019/10/2019-2020-copa-america-logo-revealed.jpg"
