@@ -59,7 +59,7 @@
 	 
  {
      "user" : "Switzerland vs Turkey",
-    "pageUrl" : "http://london4.mazystreams.xyz:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNi8yMDIxIDEyOjMzOjAyIFBNJmhhc2hfdmFsdWU9RkcvUkliZklCTEJGQ0J6dFZXSzhVQT09JnZh",
+    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/102.m3u8",
     "type" : "UEFA EURO 2020⚽️ ",
     "webFormatUrl" :"https://images.daznservices.com/di/library/GOAL_INTERNATIONAL/53/27/euro-2020-logo_uuiagack0igm1hsuh25tsjahh.jpg"
    },
