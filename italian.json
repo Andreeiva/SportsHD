@@ -48,18 +48,18 @@
 
 
  {
-     "user" : "Hungary vs Germany SD1",
-    "pageUrl" : "http://ferrarico.referrari.com/live/60148_.m3u8",
-    "type" : "UEFA EURO 2020 ⚽️ ",
-    "webFormatUrl" :"https://images.daznservices.com/di/library/GOAL_INTERNATIONAL/53/27/euro-2020-logo_uuiagack0igm1hsuh25tsjahh.jpg"
+     "user" :"Brazil vs Columbia SD1",
+    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/102.m3u8",
+    "type" : "COPA AMERICA 2021 ⚽️ ",
+    "webFormatUrl" :"http://www.logo-designer.co/wp-content/uploads/2019/10/2019-2020-copa-america-logo-revealed.jpg"
    },
 
 
  {
-     "user" : "Hungary vs Germany SD2",
-    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/101.m3u8",
-    "type" : "UEFA EURO 2020 ⚽️ ",
-    "webFormatUrl" :"https://images.daznservices.com/di/library/GOAL_INTERNATIONAL/53/27/euro-2020-logo_uuiagack0igm1hsuh25tsjahh.jpg"
+     "user" : "Brazil vs Columbia HD2",
+    "pageUrl" : "http://stream.tvtap.live:8081/live/tsn2.stream/chunks.m3u8",
+    "type" : "COPA AMERICA 2021 ⚽️ ",
+    "webFormatUrl" :"http://www.logo-designer.co/wp-content/uploads/2019/10/2019-2020-copa-america-logo-revealed.jpg"
    },
  {
      "user" : "LIVE SPORTS",
