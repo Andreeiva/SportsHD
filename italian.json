@@ -75,6 +75,59 @@
     "webFormatUrl" :"http://www.logo-designer.co/wp-content/uploads/2019/10/2019-2020-copa-america-logo-revealed.jpg"
    },
  
+
+
+ {
+     "user" : "Czech Republic  vs  England HD 1(ENGLISH)",
+    "pageUrl" : "http://scontent.1xcdn.xyz/j2/Ten2_HD_HLS.m3u8",
+    "type" : "UEFA EURO 2020 ⚽️ ",
+    "webFormatUrl" :"https://images.daznservices.com/di/library/GOAL_INTERNATIONAL/53/27/euro-2020-logo_uuiagack0igm1hsuh25tsjahh.jpg"
+   },
+		 
+ 
+
+
+
+ {
+     "user" : "Czech Republic  vs  England HD 2(ENGLISH)",
+    "pageUrl" : "http://stream.tvtap.live:8081/live/tsn3.stream/chunks.m3u8",
+    "type" : "UEFA EURO 2020 ⚽️ ",
+    "webFormatUrl" :"https://images.daznservices.com/di/library/GOAL_INTERNATIONAL/53/27/euro-2020-logo_uuiagack0igm1hsuh25tsjahh.jpg"
+   },
+
+
+
+
+
+
+ {
+     "user" : "Czech Republic  vs  England SD",
+    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/105.m3u8",
+    "type" : "UEFA EURO 2020 ⚽️ ",
+    "webFormatUrl" :"https://images.daznservices.com/di/library/GOAL_INTERNATIONAL/53/27/euro-2020-logo_uuiagack0igm1hsuh25tsjahh.jpg"
+   },
+
+
+
+ 
+ {
+     "user" : "Croatia vs Scotland HD 2(ENGLISH)",
+    "pageUrl" : "http://stream.tvtap.live:8081/live/tsn2.stream/chunks.m3u8",
+    "type" : "UEFA EURO 2020 ⚽️ ",
+    "webFormatUrl" :"https://images.daznservices.com/di/library/GOAL_INTERNATIONAL/53/27/euro-2020-logo_uuiagack0igm1hsuh25tsjahh.jpg"
+   },
+
+
+
+ {
+     "user" : "Croatia vs Scotland SD",
+    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/104.m3u8",
+    "type" : "UEFA EURO 2020 ⚽️ ",
+    "webFormatUrl" :"https://images.daznservices.com/di/library/GOAL_INTERNATIONAL/53/27/euro-2020-logo_uuiagack0igm1hsuh25tsjahh.jpg"
+   },
+
+
+
  {
      "user" : "LIVE SPORTS",
     "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
