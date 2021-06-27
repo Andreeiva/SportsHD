@@ -24,7 +24,7 @@
 
 
  {
-     "user" : "Italy vs Austria SD1",
+     "user" : "Netherlands vs Czech Republic SD1",
     "pageUrl" : "http://cdn.addressingethernet.xyz/hls/101.m3u8",
     "type" : "UEFA EURO 2020 ⚽️ ",
     "webFormatUrl" :"https://images.daznservices.com/di/library/GOAL_INTERNATIONAL/53/27/euro-2020-logo_uuiagack0igm1hsuh25tsjahh.jpg"
@@ -32,17 +32,23 @@
 
 
  {
-     "user" : "Italy vs Austria HD1",
+     "user" : "Netherlands vs Czech Republic HD1(English)",
     "pageUrl" : "http://stream.tvtap.live:8081/live/tsn1.stream/chunks.m3u8",
     "type" : "UEFA EURO 2020 ⚽️ ",
     "webFormatUrl" :"https://images.daznservices.com/di/library/GOAL_INTERNATIONAL/53/27/euro-2020-logo_uuiagack0igm1hsuh25tsjahh.jpg"
    },
 
 
+ {
+     "user" : "Netherlands vs Czech Republic HD2(English)",
+    "pageUrl" : "http://89.41.180.253:8080/INDIA_SPORTS/TEN_3_HD/tracks-v1a1/mono.m3u8",
+    "type" : "UEFA EURO 2020 ⚽️ ",
+    "webFormatUrl" :"https://images.daznservices.com/di/library/GOAL_INTERNATIONAL/53/27/euro-2020-logo_uuiagack0igm1hsuh25tsjahh.jpg"
+   },
 
 
  {
-     "user" : "Italy vs Austria HD2",
+     "user" : "Netherlands vs Czech Republic SD2",
     "pageUrl" : "http://ferrarico.referrari.com/live/60147_.m3u8",
     "type" : "UEFA EURO 2020 ⚽️ ",
     "webFormatUrl" :"https://images.daznservices.com/di/library/GOAL_INTERNATIONAL/53/27/euro-2020-logo_uuiagack0igm1hsuh25tsjahh.jpg"
@@ -50,7 +56,7 @@
 
 
  {
-     "user" : "Italy vs Austria HD3",
+     "user" : "Netherlands vs Czech Republic SD3",
     "pageUrl" : "http://ferrarico.referrari.com/live/60149_.m3u8",
     "type" : "UEFA EURO 2020 ⚽️ ",
     "webFormatUrl" :"https://images.daznservices.com/di/library/GOAL_INTERNATIONAL/53/27/euro-2020-logo_uuiagack0igm1hsuh25tsjahh.jpg"
