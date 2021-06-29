@@ -5,7 +5,15 @@
 
  
 
-	
+		 
+ {
+     "user" : "Bolivia vs Argentina SD1",
+    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/101.m3u8",
+    "type" : "COPA AMERICA 2021 ⚽️ ",
+    "webFormatUrl" :"http://www.logo-designer.co/wp-content/uploads/2019/10/2019-2020-copa-america-logo-revealed.jpg"
+   },
+
+
 
 	 
  {
@@ -24,6 +32,12 @@
    },
 
  
+ {
+     "user" : "Paraguay vs Uruguay SD1",
+    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/102.m3u8",
+    "type" : "COPA AMERICA 2021 ⚽️ ",
+    "webFormatUrl" :"http://www.logo-designer.co/wp-content/uploads/2019/10/2019-2020-copa-america-logo-revealed.jpg"
+   },
  {
      "user" : "Paraguay vs Uruguay HD1",
     "pageUrl" : "http://77.83.117.60:8888/02_SPORTTV_3_720p/chunklist.m3u8",
