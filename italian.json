@@ -5,55 +5,7 @@
 
  
 
-		 
- {
-     "user" : "Bolivia vs Argentina SD1",
-    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/101.m3u8",
-    "type" : "COPA AMERICA 2021 ⚽️ ",
-    "webFormatUrl" :"http://www.logo-designer.co/wp-content/uploads/2019/10/2019-2020-copa-america-logo-revealed.jpg"
-   },
-
-
-
 	 
- {
-     "user" : "Bolivia vs Argentina HD1",
-    "pageUrl" : "http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8",
-    "type" : "COPA AMERICA 2021 ⚽️ ",
-    "webFormatUrl" :"http://www.logo-designer.co/wp-content/uploads/2019/10/2019-2020-copa-america-logo-revealed.jpg"
-   },
-
-
- {
-     "user" : "Bolivia vs Argentina HD2",
-    "pageUrl" : "http://89.41.180.253:8080/INDIA_SPORTS/TEN_2_HD/tracks-v1a1/mono.m3u8",
-    "type" : "COPA AMERICA 2021 ⚽️ ",
-    "webFormatUrl" :"http://www.logo-designer.co/wp-content/uploads/2019/10/2019-2020-copa-america-logo-revealed.jpg"
-   },
-
- 
- {
-     "user" : "Paraguay vs Uruguay SD1",
-    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/102.m3u8",
-    "type" : "COPA AMERICA 2021 ⚽️ ",
-    "webFormatUrl" :"http://www.logo-designer.co/wp-content/uploads/2019/10/2019-2020-copa-america-logo-revealed.jpg"
-   },
- {
-     "user" : "Paraguay vs Uruguay HD1",
-    "pageUrl" : "http://77.83.117.60:8888/02_SPORTTV_3_720p/chunklist.m3u8",
-    "type" : "COPA AMERICA 2021 ⚽️ ",
-    "webFormatUrl" :"http://www.logo-designer.co/wp-content/uploads/2019/10/2019-2020-copa-america-logo-revealed.jpg"
-   },
-
-
- {
-     "user" : "Paraguay vs Uruguay HD2",
-    "pageUrl" : "http://89.41.180.253:8080/INDIA_SPORTS/TEN_1_HD/tracks-v1a1/mono.m3u8",
-    "type" : "COPA AMERICA 2021 ⚽️ ",
-    "webFormatUrl" :"http://www.logo-designer.co/wp-content/uploads/2019/10/2019-2020-copa-america-logo-revealed.jpg"
-   },
-
-		 
  
 
 
@@ -70,21 +22,21 @@
  
 
  {
-     "user" : "France vs Switzerland SD1",
+     "user" : "England vs Germany SD1",
     "pageUrl" : "http://cdn.addressingethernet.xyz/hls/101.m3u8",
     "type" : "UEFA EURO 2020 ⚽️ ",
     "webFormatUrl" :"https://images.daznservices.com/di/library/GOAL_INTERNATIONAL/53/27/euro-2020-logo_uuiagack0igm1hsuh25tsjahh.jpg"
    },
 
  {
-     "user" : "France vs Switzerland  HD1",
+     "user" : "England vs Germany HD1",
     "pageUrl" : "http://7.anbdaouras.xyz/live/9889900/index.m3u8",
     "type" : "UEFA EURO 2020 ⚽️ ",
     "webFormatUrl" :"https://images.daznservices.com/di/library/GOAL_INTERNATIONAL/53/27/euro-2020-logo_uuiagack0igm1hsuh25tsjahh.jpg"
    },
 
  {
-     "user" : "France vs Switzerland HD2",
+     "user" : "England vs Germany HD2",
     "pageUrl" : "http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8",
     "type" : "UEFA EURO 2020 ⚽️ ",
     "webFormatUrl" :"https://images.daznservices.com/di/library/GOAL_INTERNATIONAL/53/27/euro-2020-logo_uuiagack0igm1hsuh25tsjahh.jpg"
@@ -92,7 +44,7 @@
 
 
  {
-     "user" : "France vs Switzerland HD2(English)",
+     "user" : "England vs Germany HD(English)",
     "pageUrl" : "http://89.41.180.253:8080/INDIA_SPORTS/TEN_3_HD/tracks-v1a1/mono.m3u8",
     "type" : "UEFA EURO 2020 ⚽️ ",
     "webFormatUrl" :"https://images.daznservices.com/di/library/GOAL_INTERNATIONAL/53/27/euro-2020-logo_uuiagack0igm1hsuh25tsjahh.jpg"
@@ -107,7 +59,7 @@
 
 
  {
-     "user" :"France vs Switzerland HD3",
+     "user" : "England vs Germany HD3",
     "pageUrl" : "http://lon1.mazystreams.xyz:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNy8yMDIxIDM6MTE6MTQgUE0maGFzaF92YWx1ZT0wQTk3ZUV5Q2FsQjk4UXdqbkwrNkRBPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0yYTAwOjIzYzQ6YTYxMTplNTAxOjkxZTE6NGY5Zjo1YWNlOjRlOGUmc3RybV9sZW49NQ==",
     "type" : "UEFA EURO 2020 ⚽️",
     "webFormatUrl" :"https://images.daznservices.com/di/library/GOAL_INTERNATIONAL/53/27/euro-2020-logo_uuiagack0igm1hsuh25tsjahh.jpg"
@@ -115,7 +67,14 @@
 
 
 
-
+		 
+ {
+     "user" : "Bolivia vs Argentina SD1",
+    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/101.m3u8",
+    "type" : "COPA AMERICA 2021 ⚽️ ",
+    "webFormatUrl" :"http://www.logo-designer.co/wp-content/uploads/2019/10/2019-2020-copa-america-logo-revealed.jpg"
+   },
+	
 
 
 
