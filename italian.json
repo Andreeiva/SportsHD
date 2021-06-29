@@ -22,21 +22,21 @@
  
 
  {
-     "user" : "England vs Germany SD1",
+     "user" : "Sweeden vs Ukraine SD1",
     "pageUrl" : "http://cdn.addressingethernet.xyz/hls/102.m3u8",
     "type" : "UEFA EURO 2020 ⚽️ ",
     "webFormatUrl" :"https://images.daznservices.com/di/library/GOAL_INTERNATIONAL/53/27/euro-2020-logo_uuiagack0igm1hsuh25tsjahh.jpg"
    },
 
  {
-     "user" : "England vs Germany HD1",
+     "user" : "Sweden vs Ukraine HD1",
     "pageUrl" : "http://7.anbdaouras.xyz/live/9889900/index.m3u8",
     "type" : "UEFA EURO 2020 ⚽️ ",
     "webFormatUrl" :"https://images.daznservices.com/di/library/GOAL_INTERNATIONAL/53/27/euro-2020-logo_uuiagack0igm1hsuh25tsjahh.jpg"
    },
 
  {
-     "user" : "England vs Germany HD2",
+     "user" : "Sweden vs Ukraine HD2",
     "pageUrl" : "http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8",
     "type" : "UEFA EURO 2020 ⚽️ ",
     "webFormatUrl" :"https://images.daznservices.com/di/library/GOAL_INTERNATIONAL/53/27/euro-2020-logo_uuiagack0igm1hsuh25tsjahh.jpg"
@@ -44,7 +44,7 @@
 
 
  {
-     "user" : "England vs Germany HD(English)",
+     "user" : "Sweden vs Ukraine HD2(English)",
     "pageUrl" : "http://cdn.ihub.live:8080/SonyTen2/tracks-v1a1/mono.m3u8",
     "type" : "UEFA EURO 2020 ⚽️ ",
     "webFormatUrl" :"https://images.daznservices.com/di/library/GOAL_INTERNATIONAL/53/27/euro-2020-logo_uuiagack0igm1hsuh25tsjahh.jpg"
@@ -59,7 +59,7 @@
 
 
  {
-     "user" : "England vs Germany HD3(English)",
+     "user" : "Sweeden vs Ukraine HD3(English)",
     "pageUrl" : "http://stream.tvtap.live:8081/live/tsn1.stream/chunks.m3u8",
     "type" : "UEFA EURO 2020 ⚽️",
     "webFormatUrl" :"https://images.daznservices.com/di/library/GOAL_INTERNATIONAL/53/27/euro-2020-logo_uuiagack0igm1hsuh25tsjahh.jpg"
